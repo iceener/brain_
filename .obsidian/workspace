@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "wiedza/modele-mentalne/inwersja.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "wiedza/modele-mentalne/inwersja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "edd28177e90216a6",
   "lastOpenFiles": [
-    "README.md",
+    "wiedza/modele-mentalne/inwersja.md",
     "SUMMARY.md",
+    "README.md",
     "optymalizacja/automatyzacja.md",
     "optymalizacja/optymalizacja.md",
     "projekty/ahoy.md",
     "projekty/easy-cart.md",
     "projekty/zautomatyzowani.md",
     "projekty/overment.md",
-    "projekty/eduweb.md",
-    "proces/moj-proces.md"
+    "projekty/eduweb.md"
   ]
 }

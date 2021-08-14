@@ -11,6 +11,7 @@
 ## 📚 Wiedza
 
 * [💡 Modele mentalne](wiedza/modele-mentalne.md)
+	- [Inwersja](wiedza/modele-mentalne/inwersja.md)
 * [📖 Książki](wiedza/ksiazki.md)
 * [🤔 Przemyślenia](wiedza/przemyslenia.md)
 * [💻 Programowanie](wiedza/programowanie.md)
