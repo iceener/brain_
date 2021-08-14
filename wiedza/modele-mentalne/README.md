@@ -1,2 +1,3 @@
 # 💡 Modele mentalne
 
+...

@@ -1,4 +1,3 @@
 # Inwersja
 
-Inwersjaa
-
+Inwersja
