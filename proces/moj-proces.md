@@ -89,12 +89,15 @@ Rozmowa Navala Ravikanta ze swoim mentorem (Kapil Gupta)
 > "Istnieje sposób na to aby rozwiązać wszystkie swoje problemy bez potrzeby ruszenia palcem. Chodzi o ekspozycję." (30:50)
 
 [![# Kapil Gupta: Conquering the Mind](https://space.overment.com/oOvVuzXqP1tLt1UQW88N/naval.jpeg)](https://www.youtube.com/watch?v=sBtuqpNZwio)
+[https://www.youtube.com/watch?v=sBtuqpNZwio](https://www.youtube.com/watch?v=sBtuqpNZwio)
 
 Rozmowa Dr Andrew Hubermana w podcaście Rich Roll
 
 > "Nasz cały układ nerwowy zaprojektowany jest po to aby realizować jedną i tylko jedną rzecz: połączyć infromacje z otaczającego nasz świata z tymi pochodzącymi z naszego ciała. Inaczej mówiąc: jego rolą jest **dopasowanie** tego co na zewnątrz z tym co wewnątrz."
 
-[](https://www.youtube.com/watch?v=SwQhKFMxmDY)[https://www.youtube.com/watch?v=SwQhKFMxmDY](https://www.youtube.com/watch?v=SwQhKFMxmDY)
+[![Change Your Brain: Neuroscientist Dr. Andrew Huberman | Rich Roll Podcast](https://space.overment.com/zAJBhWPEkbM72zR2mTtm/hack.jpeg)](https://www.youtube.com/watch?v=SwQhKFMxmDY)
+[https://www.youtube.com/watch?v=SwQhKFMxmDY](https://www.youtube.com/watch?v=SwQhKFMxmDY)
+
 
 Prezentacja Marka Kaczmarzyka na TEDxBydgoszcz
 
