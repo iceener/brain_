@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "proces/moj-proces.md",
+            "file": "wiedza/modele-mentalne/test.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proces/moj-proces.md",
+                "file": "wiedza/modele-mentalne/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "edd28177e90216a6",
   "lastOpenFiles": [
+    "wiedza/modele-mentalne/test.md",
+    "SUMMARY.md",
     "proces/moj-proces.md",
     "wiedza/modele-mentalne/README.md",
     "wiedza/modele-mentalne/inwersja.md",
     "README.md",
-    "SUMMARY.md",
     "optymalizacja/automatyzacja.md",
     "optymalizacja/optymalizacja.md",
     "projekty/ahoy.md",
-    "projekty/easy-cart.md",
-    "projekty/zautomatyzowani.md"
+    "projekty/easy-cart.md"
   ]
 }

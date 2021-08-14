@@ -10,6 +10,7 @@
 
 * [💡 Modele mentalne](wiedza/modele-mentalne/README.md)
   * [Inwersja](wiedza/modele-mentalne/inwersja.md)
+	  * [Test](wiedza/modele-mentalne/test.md)
 * [📖 Książki](wiedza/ksiazki.md)
 * [🤔 Przemyślenia](wiedza/przemyslenia.md)
 * [💻 Programowanie](wiedza/programowanie.md)
