@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "proces/moj-proces.md",
+            "file": "SUMMARY.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proces/moj-proces.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "77aaacd78878940b",
   "lastOpenFiles": [
-    "proces/moj-proces.md",
     "SUMMARY.md",
+    "proces/moj-proces.md",
     "README.md",
     "meta/introduction.md",
     "Summary.md",
