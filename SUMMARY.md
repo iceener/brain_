@@ -21,7 +21,7 @@
 * [🤔 Przemyślenia](wiedza/przemyslenia.md)
 * [💻 Programowanie](wiedza/programowanie.md)
 * [🎨 Projektowanie](wiedza/projektowanie.md)
-* [🤖 Automatyzacja](wiedza/automatyzacja.md)
+* [🎲 Biznes](wiedza/biznes.md)
 
 ## 🦾 Optymalizacja
 

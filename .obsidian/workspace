@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "proces/moj-proces.md",
+            "file": "wiedza/biznes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proces/moj-proces.md",
+                "file": "wiedza/biznes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "68c2cc3e8459cc1e",
   "lastOpenFiles": [
+    "wiedza/biznes.md",
+    "SUMMARY.md",
     "proces/moj-proces.md",
     "wiedza/modele-mentalne/inversion.md",
     "wiedza/modele-mentalne/first principles.md",
-    "SUMMARY.md",
     "occams razor.md",
     "wiedza/modele-mentalne/second-order-thinking.md",
     "optymalizacja/untitled.md",
     "wiedza/modele-mentalne/inwersja.md",
-    "wiedza/modele-mentalne/leverage.md",
-    "wiedza/modele-mentalne/occam-razor.md"
+    "wiedza/modele-mentalne/leverage.md"
   ]
 }
