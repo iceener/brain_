@@ -26,13 +26,10 @@ W przypadku gdy cel jest za duży, wystarczy podzielić go na mniejsze i w ten s
 Między innymi powyższe powody doprowadziły mnie do tego aby zrezygnować z wyznaczania celów \([stosowałem OKRy](https://produktywni.pl/blog/okr-technika-stawiania-celow/)\) na rzecz opracowania procesu, który prowadzi mnie w ustalonym przeze mnie kierunku.
 
 ### Kierunek vs. Cel
-
-Cel posiada datę realizacji i warunki jego spełnienia. Kierunek nie.
-
-Z definicji w kierunku można podążać ale nie da się do niego dojść.
+- Cel posiada datę realizacji i warunki jego spełnienia. Kierunek nie.
+- Z definicji w kierunku można podążać ale nie da się do niego dojść.
 
 ### Proces
-
 Działam w oparciu o nieustannie optymalizowany proces uwzględniający:
 
 * Fundamenty \(sen, dieta, sport, nuda\)
