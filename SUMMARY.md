@@ -1,5 +1,7 @@
 # Table of contents
 
+## Wprowadzenie
+
 * [✨ Co to za miejsce?](README.md)
 
 ## ➿Proces

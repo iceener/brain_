@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "edd28177e90216a6",
   "lastOpenFiles": [
+    "README.md",
     "SUMMARY.md",
     "optymalizacja/automatyzacja.md",
     "optymalizacja/optymalizacja.md",
@@ -95,7 +96,6 @@
     "projekty/easy-cart.md",
     "projekty/zautomatyzowani.md",
     "projekty/overment.md",
-    "README.md",
     "projekty/eduweb.md",
     "proces/moj-proces.md"
   ]
