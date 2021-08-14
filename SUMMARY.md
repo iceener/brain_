@@ -2,5 +2,19 @@
 
 * [Initial page](README.md)
 
-# Proces
+## Proces
+
 * [Mój proces](proces/moj-proces.md)
+
+## Wiedza
+
+* [Untitled](wiedza/untitled.md)
+
+## Projekty
+
+* [Untitled](projekty/untitled.md)
+
+## Optymalizacja
+
+* [Untitled](optymalizacja/untitled.md)
+
