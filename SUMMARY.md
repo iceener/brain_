@@ -1,7 +1,5 @@
 # Table of contents
 
-## Wprowadzenie
-
 * [✨ Co to za miejsce?](README.md)
 
 ## ➿Proces
@@ -10,8 +8,8 @@
 
 ## 📚 Wiedza
 
-* [💡 Modele mentalne](wiedza/modele-mentalne.md)
-	- [Inwersja](wiedza/modele-mentalne/inwersja.md)
+* [💡 Modele mentalne](wiedza/modele-mentalne/README.md)
+  * [Inwersja](wiedza/modele-mentalne/inwersja.md)
 * [📖 Książki](wiedza/ksiazki.md)
 * [🤔 Przemyślenia](wiedza/przemyslenia.md)
 * [💻 Programowanie](wiedza/programowanie.md)
