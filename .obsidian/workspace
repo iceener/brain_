@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "proces/moj-proces.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "proces/moj-proces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "68c2cc3e8459cc1e",
   "lastOpenFiles": [
-    "SUMMARY.md",
     "proces/moj-proces.md",
+    "SUMMARY.md",
     "occams razor.md",
     "wiedza/modele-mentalne/second-order-thinking.md",
     "wiedza/modele-mentalne/inversion.md",
