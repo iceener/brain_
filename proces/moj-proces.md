@@ -88,7 +88,7 @@ Rozmowa Navala Ravikanta ze swoim mentorem (Kapil Gupta)
 
 > "Istnieje sposób na to aby rozwiązać wszystkie swoje problemy bez potrzeby ruszenia palcem. Chodzi o ekspozycję." (30:50)
 
-[](https://www.youtube.com/watch?v=sBtuqpNZwio)[https://www.youtube.com/watch?v=sBtuqpNZwio](https://www.youtube.com/watch?v=sBtuqpNZwio)
+[![# Kapil Gupta: Conquering the Mind](https://space.overment.com/oOvVuzXqP1tLt1UQW88N/naval.jpeg)](https://www.youtube.com/watch?v=sBtuqpNZwio)
 
 Rozmowa Dr Andrew Hubermana w podcaście Rich Roll
 
