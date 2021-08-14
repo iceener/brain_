@@ -15,6 +15,11 @@
 * [🎨 Projektowanie](wiedza/projektowanie.md)
 * [🤖 Automatyzacja](wiedza/automatyzacja.md)
 
+## 🦾 Optymalizacja
+
+* [🤖 Automatyzacja](optymalizacja/automatyzacja.md)
+* [🛠️ Optymalizacja](optymalizacja/optymalizacja.md)
+
 ## Projekty
 
 * [eduweb](projekty/eduweb.md)
@@ -22,9 +27,4 @@
 * [zautomatyzowani](projekty/zautomatyzowani.md)
 * [easycart](projekty/easy-cart.md)
 * [ahoy!](projekty/ahoy.md)
-
-## Optymalizacja
-
-* [Automatyzacja](optymalizacja/automatyzacja.md)
-* [Optymalizacja](optymalizacja/optymalizacja.md)
 
