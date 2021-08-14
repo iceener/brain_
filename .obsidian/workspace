@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "proces/moj proces.md",
+            "file": "SUMMARY.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proces/moj proces.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "68c2cc3e8459cc1e",
   "lastOpenFiles": [
+    "SUMMARY.md",
+    "occams razor.md",
     "proces/moj-proces.md",
     "wiedza/modele-mentalne/second-order-thinking.md",
     "wiedza/modele-mentalne/inversion.md",
     "optymalizacja/untitled.md",
-    "SUMMARY.md",
     "wiedza/modele-mentalne/inwersja.md",
     "wiedza/modele-mentalne/leverage.md",
     "wiedza/modele-mentalne/occam-razor.md",
-    "wiedza/modele-mentalne/first-principles.md",
-    "wiedza/programowanie.md"
+    "wiedza/modele-mentalne/first-principles.md"
   ]
 }

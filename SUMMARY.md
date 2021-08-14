@@ -4,14 +4,14 @@
 
 ## ➿Proces
 
-* [💫 Mój proces](moj%20proces.md)
+* [💫 Mój proces](mój-proces.md)
 
 ## 📚 Wiedza
 
 * [💡 Modele mentalne](wiedza/modele-mentalne/README.md)
   * [Inversion](wiedza/modele-mentalne/inversion.md)
   * [Leverage](wiedza/modele-mentalne/leverage.md)
-  * [Occam's Razor](occam's%20razor.md)
+  * [Occam's Razor](wiedza/modele-mentalne/occams%20razor.md)
   * [First-Principles Thinking](first%20principles.md)
   * [Second-Order Thinking](second%20order%20thinking.md)
   * [Circle of Competence](wiedza/modele-mentalne/circle-of-competence.md)
