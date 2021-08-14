@@ -131,7 +131,7 @@ Koncepcja dźwigni jest jedną z najważniejszych jakie znam. Sprawia że jestem
 
 > Najbardziej interesującą i najważniejszą formą dźwigni jest idea produktu z minimalnym kosztem replikacji. ~ Naval Ravikant
 
-🔗 **Źródła:**
+#### **🔗 Źródła:**
 
 -   Naval Ravikant o dźwigni [](https://nav.al/product-media)[https://nav.al/product-media](https://nav.al/product-media)
 -   Trends VC o 1-osobowym, milionowym biznesie [](https://trends.vc/trends-0065-million-dollar-one-person-businesses/)[https://trends.vc/trends-0065-million-dollar-one-person-businesses/](https://trends.vc/trends-0065-million-dollar-one-person-businesses/)
