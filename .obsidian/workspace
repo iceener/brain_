@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "edd28177e90216a6",
+        "id": "68c2cc3e8459cc1e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiedza/modele-mentalne/test.md",
+            "file": "SUMMARY.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiedza/modele-mentalne/test.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "edd28177e90216a6",
+  "active": "68c2cc3e8459cc1e",
   "lastOpenFiles": [
-    "wiedza/modele-mentalne/test.md",
     "SUMMARY.md",
-    "proces/moj-proces.md",
-    "wiedza/modele-mentalne/README.md",
+    "wiedza/modele-mentalne/second-order-thinking.md",
+    "wiedza/modele-mentalne/inversion.md",
     "wiedza/modele-mentalne/inwersja.md",
-    "README.md",
-    "optymalizacja/automatyzacja.md",
-    "optymalizacja/optymalizacja.md",
-    "projekty/ahoy.md",
-    "projekty/easy-cart.md"
+    "wiedza/modele-mentalne/leverage.md",
+    "wiedza/modele-mentalne/occam-razor.md",
+    "wiedza/modele-mentalne/first-principles.md",
+    "wiedza/programowanie.md",
+    "wiedza/przemyslenia.md",
+    "wiedza/projektowanie.md"
   ]
 }

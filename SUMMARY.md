@@ -9,8 +9,14 @@
 ## 📚 Wiedza
 
 * [💡 Modele mentalne](wiedza/modele-mentalne/README.md)
-  * [Inwersja](wiedza/modele-mentalne/inwersja.md)
-	  * [Test](wiedza/modele-mentalne/test.md)
+  * [Inversion](wiedza/modele-mentalne/inversion.md)
+  * [Leverage](wiedza/modele-mentalne/leverage.md)
+  * [Occam's Razor](wiedza/modele-mentalne/occam-razor.md)
+  * [First-Principles Thinking](wiedza/modele-mentalne/first-principles.md)
+  * [Second-Order Thinking](wiedza/modele-mentalne/second-order-thinking.md)
+  * [Circle of Competence](wiedza/modele-mentalne/circle-of-competence.md)
+  * [Halo Effect](wiedza/modele-mentalne/halo-effect.md)
+
 * [📖 Książki](wiedza/ksiazki.md)
 * [🤔 Przemyślenia](wiedza/przemyslenia.md)
 * [💻 Programowanie](wiedza/programowanie.md)
