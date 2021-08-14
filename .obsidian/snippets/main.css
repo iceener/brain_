@@ -1,0 +1,4 @@
+.view-header, .nav-header, .workspace-tab-header-container, .side-dock-ribbon { display: none; }
+.view-content { height: 100%; }
+.workspace-split.mod-root > .workspace-leaf:first-of-type .workspace-leaf-content { border-radius: 0; }
+.workspace-split.mod-root { margin-left: -4px; }

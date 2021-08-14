@@ -2,6 +2,8 @@
 
 Istnieje wiele sposobów na realizację celów oraz szeroko rozumianą skuteczność w działaniu. Jakiś czas temu odkryłem że opieranie się o "sprawdzone techniki", jakie można znaleźć w Internecie i książkach nie jest dla mnie skuteczne. Ma to proste uzasadnienie: **każdy z nas jest inny.** Z tego powodu tworzę swój własny proces, który dostosowany jest wyłącznie do mnie i prawdopodobnie **nie zadziała u Ciebie.** W praktyce jednak z całą pewnością znajdziesz tutaj wiele inspiracji oraz źródeł, które pomogą Ci zbudować własny proces.
 
+[[inversion]] 
+
 > Wszyscy nieustannie mówią Ci co jest dla Ciebie dobre. Nie chcą abyś szukał własnych odpowiedzi. Chcą abyś uwierzył w ich. ~ Dan Millman
 
 ## Kontekst
