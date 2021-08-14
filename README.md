@@ -1,4 +1,6 @@
-# Co to za miejsce?
+# Introduction
+
+## Co to za miejsce?
 
 W tym miejscu dzielę się z Tobą wszystkim co wiem. Stworzyłem je przede wszystkim dla siebie, aby móc łatwo wracać do wszystkich zamieszczonych tu materiałów. Jednocześnie pomyślałem że to wszystko może okazać się równie wartościowe dla Ciebie.
 
