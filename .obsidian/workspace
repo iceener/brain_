@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "introduction.md",
+            "file": "meta/introduction.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "introduction.md",
+                "file": "meta/introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "77aaacd78878940b",
   "lastOpenFiles": [
+    "meta/introduction.md",
+    "Summary.md",
     "introduction.md",
     "Untitled.md"
   ]
