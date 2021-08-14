@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "77aaacd78878940b",
+        "id": "edd28177e90216a6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SUMMARY.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,14 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "77aaacd78878940b",
+  "active": "edd28177e90216a6",
   "lastOpenFiles": [
     "SUMMARY.md",
-    "proces/moj-proces.md",
+    "optymalizacja/automatyzacja.md",
+    "optymalizacja/optymalizacja.md",
+    "projekty/ahoy.md",
+    "projekty/easy-cart.md",
+    "projekty/zautomatyzowani.md",
+    "projekty/overment.md",
     "README.md",
-    "meta/introduction.md",
-    "Summary.md",
-    "introduction.md",
-    "Untitled.md"
+    "projekty/eduweb.md",
+    "proces/moj-proces.md"
   ]
 }
