@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "proces/moj-proces.md",
+            "file": "optymalizacja/automatyzacja.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proces/moj-proces.md",
+                "file": "optymalizacja/automatyzacja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "68c2cc3e8459cc1e",
   "lastOpenFiles": [
+    "optymalizacja/automatyzacja.md",
     "proces/moj-proces.md",
     "SUMMARY.md",
-    "optymalizacja/automatyzacja.md",
     "projekty/overment.md",
     "wiedza/modele-mentalne/leverage.md",
     "projekty/easy-cart.md",

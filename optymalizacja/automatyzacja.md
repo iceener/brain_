@@ -1,2 +1,4 @@
 # 🤖 Automatyzacja
 
+Nowa automatyzacja.
+
