@@ -1,0 +1,4 @@
+- [[Rzeczywistość]]
+- [[Emocje]]
+- [[Oczekiwania]]
+- [[Rozczarowanie]]

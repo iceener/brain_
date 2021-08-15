@@ -2,10 +2,10 @@ W tym miejscu dzielę się z Tobą wszystkim co wiem. Stworzyłem je przede wszy
 
 ## Znajdziesz tutaj
 
-* Mojego procesu który realizuję codziennie \(i który nieustannie się zmienia\)
-* Modeli mentalnych z których świadomie korzystam
-* Notatki z przeczytanych przeze mnie książek
-* Moje przemyślenia i styl działania
+* Mojego procesu ([[Proces]]) który realizuję codziennie \(i który nieustannie się zmienia\)
+* [[Modele mentalne]] z których świadomie korzystam
+* Notatki z przeczytanych przeze mnie książek [[💫 Proces#Rozwój]]
+* Moje [[Przemyślenia]] i styl działania
 * Moje notatki na temat Programowania, Projektowania, Marketingu i szeroko pojętego Biznesu
 * Opisy wykorzystywanych przeze mnie automatyzacji i narzędzi
 * Informacje na temat projektów w które jestem zaangażowany
