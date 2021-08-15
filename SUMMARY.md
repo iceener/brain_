@@ -20,8 +20,6 @@
 ## 🦾 Optymalizacja
 
 * [🤖 Automatyzacja](📚%20Wiedza/🎙%20Podcasty/README.md)
-	* [Narzędzia](📚%20Wiedza/🎙%20Podcasty/README.md)
-	* [Narzędzia](📚%20Wiedza/🎙%20Podcasty/README.md)
 * [🛠️ Optymalizacja](📚%20Wiedza/🎙%20Podcasty/README.md)
 
 

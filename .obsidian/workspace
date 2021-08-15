@@ -7,11 +7,8 @@
         "id": "db600831e23b1658",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SUMMARY.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SUMMARY.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -106,6 +100,7 @@
   },
   "active": "db600831e23b1658",
   "lastOpenFiles": [
+    "📚 Wiedza/📖 Książki/ada.md",
     "SUMMARY.md",
     "📚 Wiedza/🎙 Podcasty/README.md",
     "➿ proces/💫 Proces.md",
@@ -114,7 +109,6 @@
     "➿ proces/💫 Mój proces.md",
     "javascript.md",
     "🦾 Optymalizacja/🤖 Automatyzacja/Narzędzia.md",
-    "Untitled.md",
-    "📚 Wiedza/👽 Ludzie/Andrew Huberman.md"
+    "Untitled.md"
   ]
 }
