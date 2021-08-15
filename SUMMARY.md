@@ -23,11 +23,4 @@
 	* [Narzędzia](optymalizacja/automatyzacja/scenariusze.md)
 * [🛠️ Optymalizacja](optymalizacja/optymalizacja.md)
 
-## Projekty
-
-* [eduweb](projekty/eduweb.md)
-* [overment](projekty/overment.md)
-* [zautomatyzowani](projekty/zautomatyzowani.md)
-* [easycart](projekty/easy-cart.md)
-* [ahoy!](projekty/ahoy.md)
 
