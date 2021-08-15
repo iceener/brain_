@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,12 +83,8 @@
             "id": "b8f25cc7cba83dae",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "SUMMARY.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,10 +95,10 @@
   },
   "active": "c20fdaf87d50432e",
   "lastOpenFiles": [
+    "README.md",
+    "proces/moj-proces.md",
     "SUMMARY.md",
     "wiedza/ksiazki/war-of-art.md",
-    "proces/moj-proces.md",
-    "README.md",
     "wiedza/przemyslenia.md",
     "optymalizacja/automatyzacja/narzędzia.md",
     "optymalizacja/automatyzacja.md",
