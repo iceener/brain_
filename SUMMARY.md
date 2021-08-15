@@ -13,7 +13,6 @@
 * [📖 Książki](📚%20Wiedza/📖%20Książki/README.md)
 	* [Rebel Ideas](📚%20Wiedza/📖%20Książki/Rebel%20Ideas.md)
 	* [Alamanck of Naval Ravikant](📚%20Wiedza/📖%20Książki/Alamanck%20of%20Naval%20Ravikant.md)
-	* [Alamanck of Naval Ravikant](📚%20Wiedza/📖%20Książki/Alamanck%20of%20Naval%20Ravikant.md)
 * [🤔 Przemyślenia](📚%20Wiedza/🤔%20Przemyślenia/README.md)
 * [💻 Programowanie](📚%20Wiedza/💻%20Programowanie/README.md)
 * [🎨 Projektowanie](📚%20Wiedza/🎨%20Projektowanie/README.md)
