@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiedza/ksiazki/make.md",
+            "file": "proces/moj-proces.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiedza/ksiazki/make.md",
+                "file": "proces/moj-proces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,20 +92,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "db600831e23b1658",
   "lastOpenFiles": [
+    "proces/moj-proces.md",
+    "Huberman Lab.md",
+    "wiedza/ksiazki/war-of-art.md",
+    "SUMMARY.md",
     "wiedza/ksiazki/make.md",
     "wiedza/ksiazki/seeking-wisdom.md",
     "wiedza/ksiazki/simplify.md",
     "wiedza/ksiazki/way-of-the-peaceful-warrior.md",
-    "wiedza/ksiazki/war-of-art.md",
     "Integromat.md",
-    "optymalizacja/automatyzacja/narzędzia.md",
-    "Zapier.md",
-    "proces/moj-proces.md",
-    "SUMMARY.md"
+    "optymalizacja/automatyzacja/narzędzia.md"
   ]
 }

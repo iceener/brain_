@@ -7,15 +7,15 @@ Istnieje wiele sposobów na realizację celów oraz szeroko rozumianą skuteczno
 
 ## Kontekst
 
-Na każdym kroku możemy spotkać się z opinią, że wyznaczanie celów jest **niezbędne do osiągania rezultatów.** Inni mówią że praca w oparciu o cele nie jest skuteczna i lepiej działać w oparciu o proces.
+Na każdym kroku możemy spotkać się z opinią, że wyznaczanie celów jest **niezbędne do osiągania rezultatów.** Inni mówią że praca w oparciu o cele nie jest skuteczna i lepiej działać w oparciu o [[proces]].
 
 Nie zgadzam się ani z jednym ani drugim \(odnosząc się do mojego kontekstu\)
 
-### Cele
+### [[Cel]]e
 
 Wyznaczając cele doskonale wiemy dokąd zmierzamy \([SMART](https://www.mindtools.com/pages/article/smart-goals.htm)\). Korzystając z narzędzi takich jak wizualizacja, łatwo możemy wyobrazić sobie siebie z czasu w którym osiągnęliśmy cel. To pozwala budować odpowiednie postawy \(np. entuzjazm\) dzięki którym dążymy do określonego przez nas punktu.
 
-W przypadku gdy cel jest za duży, wystarczy podzielić go na mniejsze i w ten sposób zmniejszyć "opór" \([War of Art ~ Steven Pressfield](https://www.notion.so/War-of-Art-Steven-Pressfield-1b61b53cd9ea44de87348df3e3f1f6fe) \) a ich realizacja da nam korzyści płynące z wykorzystania dopaminy \(więcej w [Huberman Lab Podcast \#12](https://www.youtube.com/watch?v=vA50EK70whE)\).
+W przypadku gdy cel jest za duży, wystarczy podzielić go na mniejsze i w ten sposób zmniejszyć "opór" \([War of Art ~ Steven Pressfield](../wiedza/ksiazki/war-of-art) \) a ich realizacja da nam korzyści płynące z wykorzystania dopaminy \(więcej w [[[Huberman Lab]] Podcast \#12](https://www.youtube.com/watch?v=vA50EK70whE)\).
 
 **Problem w tym, że wyznaczanie celów, szczególnie długoterminowych ma kilka wad:**
 
@@ -46,11 +46,11 @@ Działam w oparciu o nieustannie optymalizowany proces uwzględniający:
 
 Fundamenty dotyczą mojego ogólnego zdrowia i samopoczucia. W ich skład wchodzą:
 
-* **Regularny sen** - Polecam Master Your Sleep - [Huberman Lab Podcast \#2](https://www.youtube.com/watch?v=nm1TxQj9IsQ). Nie stosuję żadnych dodatkowych wspomagaczy ani narzędzi monitorujących. Pilnuję tego aby przed snem nie oglądać ekranów.
+* **Regularny sen** - Polecam Master Your Sleep - [[[Huberman Lab]] Podcast \#2](https://www.youtube.com/watch?v=nm1TxQj9IsQ). Nie stosuję żadnych dodatkowych wspomagaczy ani narzędzi monitorujących. Pilnuję tego aby przed snem nie oglądać ekranów.
 * **Dieta** - regularne pory jedzenia + witaminy D, K, Omega 3 i magnez + raz na kwartał 30 dni pyłku pszczelego do śniadania rozcieńczanego przez noc w przegotowanej, rozcieńczonej wodzie.
 * **Sport** \(3x w [tygodniu trening](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine) oraz codziennie rozciąganie z [Romwod](https://romwod.com/)\)
-* Ćwiczenia oddechowe z [aplikacją Oak](https://www.oakmeditation.com/) \(polecam również [Huberman Lab](https://www.youtube.com/watch?v=rBdhqBGqiMc) na ten temat\)
-* **Medytacja** ~20-30 minut dziennie z aplikacją [Headspace](https://www.headspace.com/) lub [Waking Up](https://wakingup.com/)
+* **Ćwiczenia oddechowe** z [aplikacją Oak](https://www.oakmeditation.com/) \(polecam również [[[Huberman Lab]]](https://www.youtube.com/watch?v=rBdhqBGqiMc) na ten temat\)
+* **[[Medytacja]]** ~20-30 minut dziennie z aplikacją [Headspace](https://www.headspace.com/) lub [Waking Up](https://wakingup.com/)
 * **Nuda** - kluczowy element pozostawania kreatywnym, szczególnie w [połączeniu z chodzeniem](https://thriveglobal.com/stories/three-ways-to-reset-your-stress-in-any-situation/).
 
 ### Poznawanie siebie
