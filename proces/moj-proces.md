@@ -4,7 +4,6 @@ Istnieje wiele sposobów na realizację celów oraz szeroko rozumianą skuteczno
 
 > Wszyscy nieustannie mówią Ci co jest dla Ciebie dobre. Nie chcą abyś szukał własnych odpowiedzi. Chcą abyś uwierzył w ich. ~ Dan Millman
 
-* [Leverage](../wiedza/modele-mentalne/leverage.md)
 
 ## Kontekst
 
