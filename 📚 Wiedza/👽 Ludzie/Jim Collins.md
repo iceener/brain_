@@ -1,0 +1,1 @@
+- [Koncepcje](https://www.jimcollins.com/concepts.html)

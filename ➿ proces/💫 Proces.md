@@ -17,7 +17,7 @@ W przypadku gdy cel jest za duży, wystarczy podzielić go na mniejsze i w ten s
 
 **Problem w tym, że wyznaczanie celów, szczególnie długoterminowych ma kilka wad:**
 
-* Buduje oczekiwania, które mogą okazać się niezgodne z rzeczywistością
+* Buduje [[Oczekiwania]], które mogą okazać się niezgodne z rzeczywistością
 * Od wyznaczenia celu do jego realizacji upływa czas i może okazać się, że wyznaczony przez nas cel, nie jest już tym czego chcemy \([przykład z filmu Siła Spokoju](https://youtu.be/wdKzBrzl_i8?t=42) - po wejściu na górę Dan odkrywa że wchodził na nią godzinami po to aby zobaczyć kamień. A jego oczekiwania były inne. Był rozczarowany\).
 * Nawet realizacja celu i osiągnięcie efektu zgodnego z oczekiwaniami, może doprowadzić nas w złe miejsce. Nazywam to efektem **"no dobra, ale co teraz?"**
 * Zrezygnowanie z celu lub jego modyfikacja często nie jest łatwa chociażby ze względu na skłonność do utrzymania zobowiązań \([Commitment and Consistency Bias](https://www.notion.so/Commitment-and-Consistency-Bias-cc02777a6559462a9848a62053e7ea03)\) czy tendencja do zachowania Statusu Quo \([Status Quo Bias](https://www.notion.so/Status-Quo-Bias-2396af95038a4be7917c1982fbd78e6b)\)

@@ -4,3 +4,4 @@
 .workspace-split.mod-root { margin-left: -4px; }
 .titlebar-inner { display: none;}
 .backlink-pane, .nav-files-container { padding-top: 25px; }
+.workspace-split.mod-root .view-content { padding-top: 55px; }

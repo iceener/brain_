@@ -7,8 +7,11 @@
         "id": "03ca1299e35e9e72",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📚 Wiedza/🎙 Podcasty/Huberman Lab.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mikro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📚 Wiedza/🎙 Podcasty/Huberman Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📚 Wiedza/🎙 Podcasty/Huberman Lab.md"
+              }
             }
           }
         ]
@@ -100,15 +106,15 @@
   },
   "active": "03ca1299e35e9e72",
   "lastOpenFiles": [
-    "Untitled.md",
-    "SUMMARY.md",
-    "📚 Wiedza/📖 Książki/Rebel Ideas.md",
-    "📚 Wiedza/📖 Książki/Rebels.md",
-    "📚 Wiedza/📖 Książki/Adam.md",
-    "📚 Wiedza/📖 Książki/RebelIdeas.md",
-    "📚 Wiedza/📖 Książki/rebel-ideas.md",
-    "📚 Wiedza/📖 Książki/ada.md",
+    "📚 Wiedza/🎙 Podcasty/Huberman Lab.md",
+    "📚 Wiedza/🎙 Podcasty/Lex Fridman Podcast.md",
     "📚 Wiedza/🎙 Podcasty/README.md",
-    "➿ proces/💫 Proces.md"
+    "🏗️ Projekty/EasyCart.md",
+    "➿ proces/💛 Poznawanie siebie.md",
+    "🦾 Optymalizacja/🖥️ Sprzęt/iPad.md",
+    "🦾 Optymalizacja/🤖 Automatyzacja/Scenariusze.md",
+    "🦾 Optymalizacja/🤖 Automatyzacja/Narzędzia.md",
+    "🦾 Optymalizacja/🤖 Automatyzacja/Mikroserwisy.md",
+    "🦾 Optymalizacja/🤖 Automatyzacja/Automatyzacja.md"
   ]
 }
