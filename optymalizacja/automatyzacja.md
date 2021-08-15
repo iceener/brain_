@@ -1,4 +1,3 @@
 # 🤖 Automatyzacja
 
-Zmiana.
-
+Jak powstaje ta strona?
