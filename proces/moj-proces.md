@@ -113,7 +113,7 @@ Znaczna większość mojej uwagi oraz czasu, wypełnione są aktywnościami wspi
 * **Słuchanie podcastów** - pozwalają "spędzać czas" z ludźmi z którymi jeszcze nie mam okazji robić to osobiście.
 * **Specjalizacja & Generalizacja** - nie posiadam żadnej specjalizacji. Uczę się wszystkiego o wszystkim.
 
-### Dźwignia
+### [[Dźwignia]]
 
 > Dajcie mi punkt podparcia, a poruszę ziemię. ~ Archimedes
 

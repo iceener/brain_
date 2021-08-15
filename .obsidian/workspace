@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c20fdaf87d50432e",
+        "id": "db600831e23b1658",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Dźwignia.md",
             "mode": "source"
           }
         }
@@ -48,11 +48,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -68,14 +70,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Dźwignia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -91,19 +93,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "c20fdaf87d50432e",
+  "active": "db600831e23b1658",
   "lastOpenFiles": [
-    "README.md",
+    "Dźwignia.md",
+    "wiedza/modele-mentalne/leverage.md",
     "proces/moj-proces.md",
     "SUMMARY.md",
-    "wiedza/ksiazki/war-of-art.md",
-    "wiedza/przemyslenia.md",
-    "optymalizacja/automatyzacja/narzędzia.md",
+    "README.md",
     "optymalizacja/automatyzacja.md",
-    "wiedza/modele-mentalne/inversion.md",
-    "wiedza/modele-mentalne/first principles.md",
-    "wiedza/modele-mentalne/second order thinking.md"
+    "wiedza/modele-mentalne/halo-effect.md",
+    "wiedza/modele-mentalne/circle-of-competence.md",
+    "wiedza/ksiazki/war-of-art.md",
+    "wiedza/przemyslenia.md"
   ]
 }
