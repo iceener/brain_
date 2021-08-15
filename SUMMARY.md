@@ -19,6 +19,8 @@
 
 * [📖 Książki](wiedza/ksiazki/README.md)
 	* [Seeking Wisdom](wiedza/ksiazki/seeking-wisdom.md)
+	* [Almanack of Naval Ravikant](wiedza/ksiazki/almanack-of-naval-ravikant)
+	* [Way of The Peaceful Warrior][wiedza/ksiazki/way-of-the-peaceful-warrior]
 * [🤔 Przemyślenia](wiedza/przemyslenia.md)
 * [💻 Programowanie](wiedza/programowanie.md)
 * [🎨 Projektowanie](wiedza/projektowanie.md)
