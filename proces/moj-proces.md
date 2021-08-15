@@ -2,9 +2,9 @@
 
 Istnieje wiele sposobów na realizację celów oraz szeroko rozumianą skuteczność w działaniu. Jakiś czas temu odkryłem że opieranie się o "sprawdzone techniki", jakie można znaleźć w Internecie i książkach nie jest dla mnie skuteczne. Ma to proste uzasadnienie: **każdy z nas jest inny.** Z tego powodu tworzę swój własny proces, który dostosowany jest wyłącznie do mnie i prawdopodobnie **nie zadziała u Ciebie.** W praktyce jednak z całą pewnością znajdziesz tutaj wiele inspiracji oraz źródeł, które pomogą Ci zbudować własny proces.
 
-[Inwersja](https://overment.gitbook.io/overment/wiedza/modele-mentalne/inversion) ([[inversion]])
-
 > Wszyscy nieustannie mówią Ci co jest dla Ciebie dobre. Nie chcą abyś szukał własnych odpowiedzi. Chcą abyś uwierzył w ich. ~ Dan Millman
+
+[Leverage](wiedza/modele-mentalne/leverage.md)
 
 ## Kontekst
 
@@ -128,7 +128,7 @@ Koncepcja dźwigni jest jedną z najważniejszych jakie znam. Sprawia że jestem
 > Najbardziej interesującą i najważniejszą formą dźwigni jest idea produktu z minimalnym kosztem replikacji. ~ Naval Ravikant
 
 #### **🔗 Źródła:**
-
+	
 * Naval Ravikant o dźwigni [https://nav.al/product-media](https://nav.al/product-media)
 * Trends VC o 1-osobowym, milionowym biznesie [https://trends.vc/trends-0065-million-dollar-one-person-businesses/](https://trends.vc/trends-0065-million-dollar-one-person-businesses/)
 

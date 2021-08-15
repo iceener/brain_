@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiedza/biznes.md",
+            "file": "proces/moj-proces.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiedza/biznes.md",
+                "file": "proces/moj-proces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "68c2cc3e8459cc1e",
   "lastOpenFiles": [
-    "wiedza/biznes.md",
-    "SUMMARY.md",
     "proces/moj-proces.md",
-    "wiedza/modele-mentalne/inversion.md",
-    "wiedza/modele-mentalne/first principles.md",
-    "occams razor.md",
-    "wiedza/modele-mentalne/second-order-thinking.md",
-    "optymalizacja/untitled.md",
-    "wiedza/modele-mentalne/inwersja.md",
-    "wiedza/modele-mentalne/leverage.md"
+    "SUMMARY.md",
+    "projekty/overment.md",
+    "wiedza/modele-mentalne/leverage.md",
+    "projekty/easy-cart.md",
+    "projekty/eduweb.md",
+    "optymalizacja/automatyzacja.md",
+    "optymalizacja/optymalizacja.md",
+    "projekty/ahoy.md",
+    "wiedza/automatyzacja.md"
   ]
 }
