@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "optymalizacja/automatyzacja/scenariusze.md",
+            "file": "SUMMARY.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "optymalizacja/automatyzacja/scenariusze.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +95,15 @@
   },
   "active": "db600831e23b1658",
   "lastOpenFiles": [
-    "optymalizacja/automatyzacja/scenariusze.md",
     "SUMMARY.md",
-    "README.md",
-    "optymalizacja/automatyzacja/Untitled.md",
-    "optymalizacja/optymalizacja.md",
-    "optymalizacja/automatyzacja.md",
-    "optymalizacja/automatyzacja/narzędzia.md",
-    "wiedza/modele-mentalne/inversion.md",
-    "wiedza/modele-mentalne/halo-effect.md",
-    "wiedza/modele-mentalne/circle-of-competence.md"
+    "wiedza/ksiazki/make.md",
+    "wiedza/ksiazki/the-compound-effect.md",
+    "wiedza/ksiazki/who-says-elephant's-can't-dance.md",
+    "wiedza/ksiazki/the-mom-test.md",
+    "wiedza/ksiazki/the-brain-audit.md",
+    "wiedza/ksiazki/deep-work.md",
+    "wiedza/ksiazki/principles.md",
+    "wiedza/ksiazki/getting-real.md",
+    "wiedza/ksiazki/deviate.md"
   ]
 }
