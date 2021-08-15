@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiedza/ksiazki/seeking-wisdom.md",
+            "file": "wiedza/modele-mentalne/README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiedza/ksiazki/seeking-wisdom.md",
+                "file": "wiedza/modele-mentalne/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c20fdaf87d50432e",
   "lastOpenFiles": [
-    "wiedza/ksiazki/seeking-wisdom.md",
-    "wiedza/ksiazki/README.md",
-    "SUMMARY.md",
-    "README.md",
-    "wiedza/ksiazki.md",
-    "optymalizacja/automatyzacja.md",
-    "optymalizacja/optymalizacja.md",
-    "wiedza/modele-mentalne/second order thinking.md",
     "wiedza/modele-mentalne/README.md",
-    "wiedza/modele-mentalne/occams razor.md"
+    "wiedza/ksiazki/README.md",
+    "wiedza/modele-mentalne/adas-nowy.md",
+    "wiedza/modele-mentalne/ADam-Gospodarczyk.md",
+    "wiedza/modele-mentalne/model-mentalny.md",
+    "wiedza/modele-mentalne/mam.md",
+    "adam.md",
+    "wiedza/ksiazki/seeking-wisdom.md",
+    "SUMMARY.md",
+    "README.md"
   ]
 }
