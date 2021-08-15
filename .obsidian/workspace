@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "68c2cc3e8459cc1e",
+        "id": "c20fdaf87d50432e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -86,7 +86,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "68c2cc3e8459cc1e",
+  "active": "c20fdaf87d50432e",
   "lastOpenFiles": [
     "optymalizacja/automatyzacja.md",
     "proces/moj-proces.md",

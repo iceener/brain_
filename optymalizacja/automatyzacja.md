@@ -1,4 +1,4 @@
 # 🤖 Automatyzacja
 
-Nowa automatyzacja.
+Zmiana.
 
