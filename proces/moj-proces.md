@@ -15,7 +15,7 @@ Nie zgadzam się ani z jednym ani drugim \(odnosząc się do mojego kontekstu\)
 
 Wyznaczając cele doskonale wiemy dokąd zmierzamy \([SMART](https://www.mindtools.com/pages/article/smart-goals.htm)\). Korzystając z narzędzi takich jak wizualizacja, łatwo możemy wyobrazić sobie siebie z czasu w którym osiągnęliśmy cel. To pozwala budować odpowiednie postawy \(np. entuzjazm\) dzięki którym dążymy do określonego przez nas punktu.
 
-W przypadku gdy cel jest za duży, wystarczy podzielić go na mniejsze i w ten sposób zmniejszyć "opór" \([War of Art ~ Steven Pressfield](../wiedza/ksiazki/war-of-art) \) a ich realizacja da nam korzyści płynące z wykorzystania dopaminy \(więcej w [[[Huberman Lab]] Podcast \#12](https://www.youtube.com/watch?v=vA50EK70whE)\).
+W przypadku gdy cel jest za duży, wystarczy podzielić go na mniejsze i w ten sposób zmniejszyć "opór" \([War of Art ~ Steven Pressfield](../wiedza/ksiazki/war-of-art) \) a ich realizacja da nam korzyści płynące z wykorzystania dopaminy \(więcej w [[Andrew Huberman]] Lab Podcast \#12 [https://www.youtube.com/watch?v=vA50EK70whE](https://www.youtube.com/watch?v=vA50EK70whE)
 
 **Problem w tym, że wyznaczanie celów, szczególnie długoterminowych ma kilka wad:**
 
@@ -46,22 +46,22 @@ Działam w oparciu o nieustannie optymalizowany proces uwzględniający:
 
 Fundamenty dotyczą mojego ogólnego zdrowia i samopoczucia. W ich skład wchodzą:
 
-* **Regularny sen** - Polecam Master Your Sleep - [[[Huberman Lab]] Podcast \#2](https://www.youtube.com/watch?v=nm1TxQj9IsQ). Nie stosuję żadnych dodatkowych wspomagaczy ani narzędzi monitorujących. Pilnuję tego aby przed snem nie oglądać ekranów.
+* **Regularny sen** - Polecam Master Your Sleep - [[Huberman Lab]] [Podcast \#2](https://www.youtube.com/watch?v=nm1TxQj9IsQ). Nie stosuję żadnych dodatkowych wspomagaczy ani narzędzi monitorujących. Pilnuję tego aby przed snem nie oglądać ekranów.
 * **Dieta** - regularne pory jedzenia + witaminy D, K, Omega 3 i magnez + raz na kwartał 30 dni pyłku pszczelego do śniadania rozcieńczanego przez noc w przegotowanej, rozcieńczonej wodzie.
 * **Sport** \(3x w [tygodniu trening](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine) oraz codziennie rozciąganie z [Romwod](https://romwod.com/)\)
-* **Ćwiczenia oddechowe** z [aplikacją Oak](https://www.oakmeditation.com/) \(polecam również [[[Huberman Lab]]](https://www.youtube.com/watch?v=rBdhqBGqiMc) na ten temat\)
+* **Ćwiczenia oddechowe** z [aplikacją Oak](https://www.oakmeditation.com/) \(polecam również [[Huberman Lab]] [https://www.youtube.com/watch?v=rBdhqBGqiMc](https://www.youtube.com/watch?v=rBdhqBGqiMc) na ten temat\)
 * **[[Medytacja]]** ~20-30 minut dziennie z aplikacją [Headspace](https://www.headspace.com/) lub [Waking Up](https://wakingup.com/)
-* **Nuda** - kluczowy element pozostawania kreatywnym, szczególnie w [połączeniu z chodzeniem](https://thriveglobal.com/stories/three-ways-to-reset-your-stress-in-any-situation/).
+* **[[Nuda]]** - kluczowy element pozostawania kreatywnym, szczególnie w [połączeniu z chodzeniem](https://thriveglobal.com/stories/three-ways-to-reset-your-stress-in-any-situation/).
 
 ### Poznawanie siebie
 
 Poznawanie siebie to najważniejszy po fundamentach element mojego procesu.
 
-* **Prowadzenie dziennika** - Dziennik prowadzę na iPadzie w aplikacji Notability. Piszę codziennie ale nie mam ustalonej pory, struktury oraz wymagań dotyczących ilości. Często poza pisaniem również czytam strony zapisane miesiące lub lata temu.
-* **Testy osobowości** - Mowa tutaj o [StrenghtsFinder](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx), [MBTI](https://www.16personalities.com/), [Principles You](http://principlesyou.com/), [The Big Five](https://www.understandmyself.com/personality-assessment). Poza wykonaniem tych testów, dużo uwagi poświęcam na eksplorację rezultatów oraz przekładanie ich na aktywności, które stanowią nieodłączoną część mojej codzienności.
-  * Mój profil MBTI: [INFJ](https://www.16personalities.com/infj-personality)
-  * Moje TOP5 Gallupa: 1. Aktywator, 2. Uczenie się, 3. Osiąganie, 4. Skupienie, 5. Bliskość
-  * Mój profil Principles You: [The Quiet Leader](https://principlesyou.com/archetypes/quietleader)
+* **Prowadzenie dziennika** - [[Dziennik]] prowadzę na [[iPad]]zie w aplikacji [[Notability]]. Piszę codziennie ale nie mam ustalonej pory, struktury oraz wymagań dotyczących ilości. Często poza pisaniem również czytam strony zapisane miesiące lub lata temu.
+* **Testy osobowości** - Mowa tutaj o [[StrenghtsFinder]] [https://www.gallup.com/cliftonstrengths/en/252137/home.aspx](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx), [[MBTI]] [https://www.16personalities.com/)](https://www.16personalities.com/), [Principles You](http://principlesyou.com/), [The Big Five](https://www.understandmyself.com/personality-assessment). Poza wykonaniem tych testów, dużo uwagi poświęcam na eksplorację rezultatów oraz przekładanie ich na aktywności, które stanowią nieodłączoną część mojej codzienności.
+  * Mój profil [[MBTI]]: [INFJ](https://www.16personalities.com/infj-personality)
+  * Moje TOP5 [[Gallup]]a: 1. Aktywator, 2. Uczenie się, 3. Osiąganie, 4. Skupienie, 5. Bliskość
+  * Mój profil [[Principles You]]: [The Quiet Leader](https://principlesyou.com/archetypes/quietleader)
 * **Spędzanie czasu sam ze sobą** - większość czasu spędzam sam ze sobą. Często zdarza mi się wyjeżdżać, również w pojedynkę.
 * **Pozostawanie otwartym** - intencjonalnie staram się pozostawać otwartym na popełnianie błędów \(co nie zawsze jest łatwe\) oraz na punkt widzenia innych osób, szczególnie jeżeli nie jest zgodny z moim.
 
@@ -71,7 +71,7 @@ Mam przekonanie o tym, że człowiek w swoich fundamentach nie może się zmieni
 
 W sposób bardzo świadomy kształtuję swoje najbliższe otoczenie. Dbam o to aby utrzymywać kontakt z ludźmi w przypadku których mamy na siebie wzajemnie pozytywny wpływ.
 
-* **Najbliższe otoczenie** - Zwracam uwagę na to z kim spędzam najwięcej czasu.
+* **Najbliższe [[otoczenie]]** - Zwracam uwagę na to z kim spędzam najwięcej czasu.
 * **Proaktywność** - Aktywnie utrzymuję kontakt z wybranymi osobami.
 * **Odkrywanie** - Intencjonalnie docieram do osób z którymi "czuję" że chcę mieć kontakt.
 * **Ograniczenie** - Eliminuję spotkania i przebywanie wśród osób
@@ -108,8 +108,8 @@ Znaczna większość mojej uwagi oraz czasu, wypełnione są aktywnościami wspi
 
 95% moich źródeł wiedzy jest anglojęzyczna.
 
-* **Modele mentalne \(**[Modele mentalne](https://www.notion.so/Modele-mentalne-6dac2a81d78b4f62b6928f69ef4cf0bc)\) - wspierają mój proces myślowy.
-* **Czytanie książek \(**[Książki](https://www.notion.so/Ksi-ki-ba56961926854bb986a73f881e569c90)\) - są najlepszym nauczycielem.
+* **Modele mentalne \([Modele](../wiedza/modele-mentalne/README.md)) - wspierają mój proces myślowy.
+* **Czytanie książek \([Książki](../wiedza/ksiazki/README.md)) - są najlepszym nauczycielem.
 * **Słuchanie podcastów** - pozwalają "spędzać czas" z ludźmi z którymi jeszcze nie mam okazji robić to osobiście.
 * **Specjalizacja & Generalizacja** - nie posiadam żadnej specjalizacji. Uczę się wszystkiego o wszystkim.
 

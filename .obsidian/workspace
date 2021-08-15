@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiedza/modele-mentalne/inversion.md",
+            "file": "proces/moj-proces.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiedza/modele-mentalne/inversion.md",
+                "file": "proces/moj-proces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +96,15 @@
   },
   "active": "db600831e23b1658",
   "lastOpenFiles": [
-    "wiedza/modele-mentalne/inversion.md",
-    "wiedza/modele-mentalne/README.md",
-    "wiedza/ksiazki/make.md",
     "proces/moj-proces.md",
-    "optymalizacja/automatyzacja/scenariusze.md",
+    "proces.md",
+    "SUMMARY.md",
+    "wiedza/ksiazki/almanack-of-naval-ravikant.md",
+    "wiedza/ksiazki/antifragile.md",
+    "wiedza/ksiazki/anything-you-want.md",
+    "wiedza/ksiazki/body-mind-mastery.md",
     "optymalizacja/automatyzacja/narzędzia.md",
-    "optymalizacja/optymalizacja.md",
-    "wiedza/modele-mentalne/leverage.md",
-    "Huberman Lab.md",
-    "wiedza/ksiazki/war-of-art.md"
+    "optymalizacja/automatyzacja/scenariusze.md",
+    "optymalizacja/automatyzacja.md"
   ]
 }
