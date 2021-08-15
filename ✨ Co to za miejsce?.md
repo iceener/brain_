@@ -1,5 +1,3 @@
-# ✨ Co to za miejsce?
-
 W tym miejscu dzielę się z Tobą wszystkim co wiem. Stworzyłem je przede wszystkim dla siebie, aby móc łatwo wracać do wszystkich zamieszczonych tu materiałów. Jednocześnie pomyślałem że to wszystko może okazać się równie wartościowe dla Ciebie.
 
 ## Znajdziesz tutaj
@@ -21,6 +19,6 @@ Wszystkie zawarte tutaj informacje możesz przeszukiwać na dwa sposoby:
 
 ## **Koncepcja**
 
-Cały ten projekt oparty jest o koncepcję tzw. [digital garden](https://joelhooks.com/digital-garden). W moim przypadku zdecydowałem się o stworzenie go w oparciu o Notion oraz usługę [Super.so](http://super.so) z dodatkiem moich autorskich modyfikacji szablonu i niektórych elementów.
+Cały ten projekt oparty jest o koncepcję tzw. [digital garden](https://joelhooks.com/digital-garden). W moim przypadku testowałem połączenie Notion oraz Super.so oraz integrację Githuba z GitBookiem. Ostatecznie zdecydowałem się na Obisidan Publish z szablonem uwzględniającym moje własne style CSS. 
 
 > **Ważne!** Jeżeli w jakichś definicjach znajdziesz błąd lub chcesz zasugerować zmianę, będę Ci za to bardzo wdzięczny. Możesz to zrobić z pomocą Pull Request przesłanym do [tego repozytorium](https://github.com/iceener/brain), [zgłaszając Issue](https://github.com/iceener/brain/issues/new) lub po prostu pisząc do mnie na adam@overment.com

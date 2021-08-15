@@ -1,0 +1,75 @@
+:root {
+    --text-accent: rgb(238, 27, 231);
+	--background-primary-alt: #111;
+}
+.theme-dark {
+    --text-accent: rgb(238, 27, 231);
+    --background-primary-alt: #111;
+}
+
+html, body.theme-dark {
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    background: #111;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    line-height: 1em;
+    font-smoothing: antialiased;
+    text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+}
+
+.markdown-preview-view h1 {
+    font-size: 32px;
+    font-family: Content-font, Roboto, sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+.markdown-preview-view {
+    font-size: 16px;
+    line-height:  26px;
+}
+
+.markdown-preview-view .internal-link.is-unresolved {
+    opacity: .75;
+}
+.published-container.is-readable-line-width .site-body {
+    justify-content: initial;
+}
+
+.site-body-left-column-site-name {
+    padding-left: 50px;
+    position: relative;
+}
+
+.site-body-left-column {
+    flex: 0 0 330px;
+}
+
+.published-container.is-readable-line-width .site-body-center-column {
+    flex: 0 1 940px;
+}
+
+.site-body-left-column-site-name:before {
+    content: '';
+    display: block;
+    width: 30px;
+    height: 30px;
+    background: url(https://space.overment.com/HckdAsh2o3u7e7pzIHa5/29215115.png);
+    background-size: cover;
+    position: absolute;
+    left: 20px;
+    top: 11px;
+}
+
+.has-navigation .site-body-left-column {
+    background: #000;
+}

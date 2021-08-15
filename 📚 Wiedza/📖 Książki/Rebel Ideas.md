@@ -8,7 +8,7 @@ W dużym stopniu właśnie o tym jest Rebel Ideas - książka podkreślająca to
 
 Taka różnorodność nie bierze się jednak np. z cech zewnętrznych, lecz z doświadczeń kształtujących różne schematy myślenia. 
 
-W kreatywnym rozwiązywaniu problemów kluczowa jest perspektywa a konkretnie wiele różnych perspektyw. I właśnie z tego powodu różnorodność poznawcza odgrywa tutaj tak ważną rolę. 
+W kreatywnym rozwiązywaniu problemów kluczowa jest [[Perspektywa]] a konkretnie wiele różnych perspektyw. I właśnie z tego powodu różnorodność poznawcza odgrywa tutaj tak ważną rolę. 
 
 W chwili gdy patrzymy na ten sam problem, na wiele różnych sposobów, dostrzegamy rozwiązania które w połączeniu ze sobą mogą okazać się wybitne. 
 

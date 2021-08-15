@@ -1,4 +1,4 @@
-# [[Inwersja]]
+# [[Inversion]]
 ## O co chodzi? 
 O myślenie odwrotne.
 
@@ -9,7 +9,7 @@ Za każdym razem gdy podejmujesz decyzję czy rozwiązujesz problem, spróbuj od
 - zamiast budować, zastanów się jak możesz zniszczyć (odkryjesz słabe punkty)
 - zastanów się co się stanie gdy podejmiesz odwrotną decyzję (lub jej nie podejmiesz)
 
-[[Inwersja]] to proste i poteżne narzędzię, które pozwala Ci odkrywać rzeczy o których możesz nie mieć pojęcia, ponieważ dzięki zmianie Twoich założeń, zmienia się również [[perspektywa]]. To może albo doprowadzić Cię do lepszych rozwiązązań lub odkryć słabe punkty Twojego rozwiązania.  
+[[Inversion]] to proste i poteżne narzędzię, które pozwala Ci odkrywać rzeczy o których możesz nie mieć pojęcia, ponieważ dzięki zmianie Twoich założeń, zmienia się również [[Perspektywa]]. To może albo doprowadzić Cię do lepszych rozwiązązań lub odkryć słabe punkty Twojego rozwiązania.  
 
 [[Waren Buffet]] oraz [[Charlie Munger]] uważają, że inwersja jest dla nich jednym z ważniejszych (o ile nie najważniejszym z modeli mentalnych).
 
@@ -18,5 +18,5 @@ Sięgam po nią dosłownie na każdym kroku. Wyrobiłem w sobie nawyk odwracania
 
 W praktyce gdy staję przed problemem, który wydaje się być trudny lub nawet niemożliwy do rozwiązania, zdarza mi się mówić: "Załóżmy na chwilę, że wszystko co wiem o X nie jest prawdą. I co teraz?"
 
-To sprawia że zmienia się moja [[perspektywa]] i zwykle zaczynam zauważać rzeczy o na które wcześniej nie zwracałem uwagi. 
+To sprawia że zmienia się moja [[Perspektywa]] i zwykle zaczynam zauważać rzeczy o na które wcześniej nie zwracałem uwagi. 
 

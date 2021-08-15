@@ -1,21 +1,19 @@
-# 💫 Mój proces
-
-Istnieje wiele sposobów na realizację celów oraz szeroko rozumianą skuteczność w działaniu. Jakiś czas temu odkryłem że opieranie się o "sprawdzone techniki", jakie można znaleźć w Internecie i książkach nie jest dla mnie skuteczne. Ma to proste uzasadnienie: **każdy z nas jest inny.** Z tego powodu tworzę swój własny proces, który dostosowany jest wyłącznie do mnie i prawdopodobnie **nie zadziała u Ciebie.** W praktyce jednak z całą pewnością znajdziesz tutaj wiele inspiracji oraz źródeł, które pomogą Ci zbudować własny proces.
+Istnieje wiele sposobów na realizację celów oraz szeroko rozumianą skuteczność w działaniu. Jakiś czas temu odkryłem że opieranie się o "sprawdzone techniki", jakie można znaleźć w Internecie i książkach nie jest dla mnie skuteczne. Ma to proste uzasadnienie: **każdy z nas jest inny.** Z tego powodu tworzę swój własny [[Proces]], który dostosowany jest wyłącznie do mnie i prawdopodobnie **nie zadziała u Ciebie.** W praktyce jednak z całą pewnością znajdziesz tutaj wiele inspiracji oraz źródeł, które pomogą Ci zbudować własny [[Proces]].
 
 > Wszyscy nieustannie mówią Ci co jest dla Ciebie dobre. Nie chcą abyś szukał własnych odpowiedzi. Chcą abyś uwierzył w ich. ~ [[Dan Millman]]
 
 
 ## Kontekst
 
-Na każdym kroku możemy spotkać się z opinią, że wyznaczanie celów jest **niezbędne do osiągania rezultatów.** Inni mówią że praca w oparciu o cele nie jest skuteczna i lepiej działać w oparciu o [[proces]].
+Na każdym kroku możemy spotkać się z opinią, że wyznaczanie celów jest **niezbędne do osiągania rezultatów.** Inni mówią że praca w oparciu o cele nie jest skuteczna i lepiej działać w oparciu o [[Proces]].
 
 Nie zgadzam się ani z jednym ani drugim \(odnosząc się do mojego kontekstu\)
 
 ### Cele
 
-Wyznaczając [[cel]]e doskonale wiemy dokąd zmierzamy \([SMART](https://www.mindtools.com/pages/article/smart-goals.htm)\). Korzystając z narzędzi takich jak wizualizacja, łatwo możemy wyobrazić sobie siebie z czasu w którym osiągnęliśmy cel. To pozwala budować odpowiednie postawy \(np. entuzjazm\) dzięki którym dążymy do określonego przez nas punktu.
+Wyznaczając [[Cel]]e doskonale wiemy dokąd zmierzamy \([SMART](https://www.mindtools.com/pages/article/smart-goals.htm)\). Korzystając z narzędzi takich jak wizualizacja, łatwo możemy wyobrazić sobie siebie z czasu w którym osiągnęliśmy cel. To pozwala budować odpowiednie postawy \(np. entuzjazm\) dzięki którym dążymy do określonego przez nas punktu.
 
-W przypadku gdy cel jest za duży, wystarczy podzielić go na mniejsze i w ten sposób zmniejszyć "opór" \([War of Art ~ Steven Pressfield](../wiedza/ksiazki/war-of-art) \) a ich realizacja da nam korzyści płynące z wykorzystania dopaminy \(więcej w [[Andrew Huberman]] Lab Podcast \#12 [https://www.youtube.com/watch?v=vA50EK70whE](https://www.youtube.com/watch?v=vA50EK70whE)
+W przypadku gdy cel jest za duży, wystarczy podzielić go na mniejsze i w ten sposób zmniejszyć "opór" \ ([[War of Art]]) a ich realizacja da nam korzyści płynące z wykorzystania dopaminy \(więcej w [[Andrew Huberman]] Lab Podcast \#12 [https://www.youtube.com/watch?v=vA50EK70whE](https://www.youtube.com/watch?v=vA50EK70whE)
 
 **Problem w tym, że wyznaczanie celów, szczególnie długoterminowych ma kilka wad:**
 
@@ -31,7 +29,7 @@ Między innymi powyższe powody doprowadziły mnie do tego aby zrezygnować z wy
 - Z definicji w kierunku można podążać ale nie da się do niego dojść.
 
 ### Proces
-Działam w oparciu o nieustannie optymalizowany proces uwzględniający:
+Działam w oparciu o nieustannie optymalizowany [[Proces]] uwzględniający:
 
 * Fundamenty \(sen, dieta, sport, nuda\)
 * Poznawanie siebie \(pisanie dziennika i czytanie go, StrengthsFinder, MBTI, Principles You\)
@@ -40,7 +38,7 @@ Działam w oparciu o nieustannie optymalizowany proces uwzględniający:
 * Dźwignię \(moja godzina generuje zwielokrotniony efekt\)
 * Wolność \(nie sprzedaję mojego czasu, unikam planowanych aktywności\)
 
-## Mój proces
+## Mój [[Proces]]
 
 ### Fundamenty
 
@@ -48,7 +46,7 @@ Fundamenty dotyczą mojego ogólnego zdrowia i samopoczucia. W ich skład wchodz
 
 * **Regularny sen** - Polecam Master Your Sleep - [[Huberman Lab]] [Podcast \#2](https://www.youtube.com/watch?v=nm1TxQj9IsQ). Nie stosuję żadnych dodatkowych wspomagaczy ani narzędzi monitorujących. Pilnuję tego aby przed snem nie oglądać ekranów.
 * **Dieta** - regularne pory jedzenia + witaminy D, K, Omega 3 i magnez + raz na kwartał 30 dni pyłku pszczelego do śniadania rozcieńczanego przez noc w przegotowanej, rozcieńczonej wodzie.
-* **Sport** \(3x w [tygodniu trening](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine) oraz codziennie rozciąganie z [Romwod](https://romwod.com/)\)
+* **Sport** \(3x w [tygodniu trening](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine) oraz codziennie rozciąganie z [[[Romwod]]](https://[[Romwod]].com/)\)
 * **Ćwiczenia oddechowe** z [aplikacją Oak](https://www.oakmeditation.com/) \(polecam również [[Huberman Lab]] [https://www.youtube.com/watch?v=rBdhqBGqiMc](https://www.youtube.com/watch?v=rBdhqBGqiMc) na ten temat\)
 * **[[Medytacja]]** ~20-30 minut dziennie z aplikacją [Headspace](https://www.headspace.com/) lub [Waking Up](https://wakingup.com/)
 * **[[Nuda]]** - kluczowy element pozostawania kreatywnym, szczególnie w [połączeniu z chodzeniem](https://thriveglobal.com/stories/three-ways-to-reset-your-stress-in-any-situation/).
@@ -71,7 +69,7 @@ Mam przekonanie o tym, że człowiek w swoich fundamentach nie może się zmieni
 
 W sposób bardzo świadomy kształtuję swoje najbliższe otoczenie. Dbam o to aby utrzymywać kontakt z ludźmi w przypadku których mamy na siebie wzajemnie pozytywny wpływ.
 
-* **Najbliższe [[otoczenie]]** - Zwracam uwagę na to z kim spędzam najwięcej czasu.
+* **Najbliższe [[Otoczenie]]** - Zwracam uwagę na to z kim spędzam najwięcej czasu.
 * **Proaktywność** - Aktywnie utrzymuję kontakt z wybranymi osobami.
 * **Odkrywanie** - Intencjonalnie docieram do osób z którymi "czuję" że chcę mieć kontakt.
 * **Ograniczenie** - Eliminuję spotkania i przebywanie wśród osób
@@ -86,23 +84,19 @@ Rozmowa [[Naval Ravikant]] ze swoim mentorem \([[Kapil Gupta]]\)
 
 [[Kapil Gupta]]
 
-[![\# Conquering the Mind](https://space.overment.com/oOvVuzXqP1tLt1UQW88N/naval.jpeg)](https://www.youtube.com/watch?v=sBtuqpNZwio)
-
-[https://www.youtube.com/watch?v=sBtuqpNZwio](https://www.youtube.com/watch?v=sBtuqpNZwio)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sBtuqpNZwio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Rozmowa Dr [[Andrew Huberman]]a w podcaście [[Rich Roll]]
 
 > "Nasz cały układ nerwowy zaprojektowany jest po to aby realizować jedną i tylko jedną rzecz: połączyć infromacje z otaczającego nasz świata z tymi pochodzącymi z naszego ciała. Inaczej mówiąc: jego rolą jest **dopasowanie** tego co na zewnątrz z tym co wewnątrz."
 
-[![Change Your Brain: Neuroscientist Dr. Andrew Huberman \| Rich Roll Podcast](https://space.overment.com/zAJBhWPEkbM72zR2mTtm/hack.jpeg)](https://www.youtube.com/watch?v=SwQhKFMxmDY)
-
-[https://www.youtube.com/watch?v=SwQhKFMxmDY](https://www.youtube.com/watch?v=SwQhKFMxmDY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SwQhKFMxmDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Prezentacja Marka Kaczmarzyka na TEDxBydgoszcz
 
 > "Skoro do naszego mózgu w każdej sekundzie dociera tak dużo informacji, to w jaki sposób wybierane są te, które są najbardziej istotne? Odpowiedź brzmi: **najważniejszą informacją dla naszego mózgu jest informacja o innym mózgu.**"
 
-[https://www.youtube.com/watch?v=ivLcmB\_Gogc](https://www.youtube.com/watch?v=ivLcmB_Gogc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ivLcmB_Gogc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Rozwój
 
@@ -110,8 +104,8 @@ Znaczna większość mojej uwagi oraz czasu, wypełnione są aktywnościami wspi
 
 95% moich źródeł wiedzy jest anglojęzyczna.
 
-* **Modele mentalne \([Modele](../wiedza/modele-mentalne/README.md)) - wspierają mój proces myślowy.
-* **Czytanie książek \([Książki](../wiedza/ksiazki/README.md)) - są najlepszym nauczycielem.
+* **Modele mentalne \([Modele](📚%20wiedza/💡%20Modele%20Mentalne/README.md)) - wspierają mój [[Proces]] myślowy.
+* **Czytanie książek \([Książki](README.md)) - są najlepszym nauczycielem.
 * **Słuchanie podcastów** - pozwalają "spędzać czas" z ludźmi z którymi jeszcze nie mam okazji robić to osobiście.
 * **Specjalizacja & Generalizacja** - nie posiadam żadnej specjalizacji. Uczę się wszystkiego o wszystkim.
 

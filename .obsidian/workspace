@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "✨ Co to za miejsce?.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "✨ Co to za miejsce?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,28 +93,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "✨ Co to za miejsce?.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "db600831e23b1658",
   "lastOpenFiles": [
-    "SUMMARY.md",
-    "wiedza/ksiazki/rebel-ideas.md",
-    "proces/moj-proces.md",
-    "wiedza/ksiazki/README.md",
-    "wiedza/programowanie/README.md",
-    "projekty/ahoy.md",
-    "projekty/easy-cart.md",
-    "optymalizacja/optymalizacja.md",
-    "optymalizacja/automatyzacja/scenariusze.md",
-    "proces.md"
+    "✨ Co to za miejsce?.md",
+    "📚 Wiedza/🎙 Podcasty/Untitled.md",
+    "📚 Wiedza/👽 Ludzie/Andrew Huberman.md",
+    "🦾 Optymalizacja/🖥️ Sprzęt/iPad.md",
+    "🦾 Optymalizacja/🤖 Automatyzacja/Untitled.md",
+    "automatyzacja.md",
+    "📚 Wiedza/📑 Słownik/Cel.md",
+    "📚 Wiedza/📑 Słownik/Kierunek.md",
+    "📚 Wiedza/📑 Słownik/Otoczenie.md",
+    "📚 Wiedza/📑 Słownik/Perspektywa.md"
   ]
 }
