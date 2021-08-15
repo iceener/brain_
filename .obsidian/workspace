@@ -7,8 +7,11 @@
         "id": "db600831e23b1658",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SUMMARY.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SUMMARY.md"
+              }
             }
           }
         ]
@@ -100,9 +106,9 @@
   },
   "active": "db600831e23b1658",
   "lastOpenFiles": [
+    "SUMMARY.md",
     "📚 Wiedza/📖 Książki/Rebel Ideas.md",
     "📚 Wiedza/📖 Książki/Rebels.md",
-    "SUMMARY.md",
     "📚 Wiedza/📖 Książki/Adam.md",
     "📚 Wiedza/📖 Książki/RebelIdeas.md",
     "📚 Wiedza/📖 Książki/rebel-ideas.md",
