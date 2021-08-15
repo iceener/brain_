@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiedza/ksiazki/README.md",
+            "file": "wiedza/ksiazki/seeking-wisdom.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiedza/ksiazki/README.md",
+                "file": "wiedza/ksiazki/seeking-wisdom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "c20fdaf87d50432e",
   "lastOpenFiles": [
-    "wiedza/ksiazki/README.md",
-    "wiedza/ksiazki/almanack-of-naval-ravikant.md",
-    "wiedza/ksiazki/way-of-the-peaceful-warrior.md",
     "wiedza/ksiazki/seeking-wisdom.md",
+    "wiedza/ksiazki/almanack-of-naval-ravikant.md",
+    "wiedza/ksiazki/README.md",
+    "wiedza/ksiazki/way-of-the-peaceful-warrior.md",
     "SUMMARY.md",
     "wiedza/modele-mentalne/README.md",
     "wiedza/modele-mentalne/adas-nowy.md",
