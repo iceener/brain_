@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "wiedza/ksiazki/seeking-wisdom.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "wiedza/ksiazki/seeking-wisdom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "c20fdaf87d50432e",
   "lastOpenFiles": [
-    "SUMMARY.md",
-    "README.md",
     "wiedza/ksiazki/seeking-wisdom.md",
     "wiedza/ksiazki/README.md",
+    "SUMMARY.md",
+    "README.md",
     "wiedza/ksiazki.md",
     "optymalizacja/automatyzacja.md",
     "optymalizacja/optymalizacja.md",

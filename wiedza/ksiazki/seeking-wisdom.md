@@ -1,6 +1,6 @@
-Seeking Wisdom
+# Seeking Wisdom 
 
-Autor: Peter Bevelin
+**Autor: Peter Bevelin**
 
 ## Kontekst
 
