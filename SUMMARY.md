@@ -17,7 +17,8 @@
   * [Circle of Competence](wiedza/modele-mentalne/circle-of-competence.md)
   * [Halo Effect](wiedza/modele-mentalne/halo-effect.md)
 
-* [📖 Książki](wiedza/ksiazki.md)
+* [📖 Książki](wiedza/ksiazki/README.md)
+	* [Seeking Widom][wiedza/ksiazki/seeking-wisdom.md]
 * [🤔 Przemyślenia](wiedza/przemyslenia.md)
 * [💻 Programowanie](wiedza/programowanie.md)
 * [🎨 Projektowanie](wiedza/projektowanie.md)

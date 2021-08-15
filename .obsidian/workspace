@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "optymalizacja/automatyzacja.md",
+            "file": "wiedza/ksiazki/seeking-wisdom.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "optymalizacja/automatyzacja.md",
+                "file": "wiedza/ksiazki/seeking-wisdom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c20fdaf87d50432e",
   "lastOpenFiles": [
+    "wiedza/ksiazki/seeking-wisdom.md",
+    "SUMMARY.md",
+    "README.md",
+    "wiedza/ksiazki/README.md",
+    "wiedza/ksiazki.md",
     "optymalizacja/automatyzacja.md",
     "optymalizacja/optymalizacja.md",
     "wiedza/modele-mentalne/second order thinking.md",
     "wiedza/modele-mentalne/README.md",
-    "wiedza/modele-mentalne/occams razor.md",
-    "wiedza/modele-mentalne/leverage.md",
-    "wiedza/modele-mentalne/first principles.md",
-    "wiedza/modele-mentalne/inversion.md",
-    "wiedza/automatyzacja.md",
-    "SUMMARY.md"
+    "wiedza/modele-mentalne/occams razor.md"
   ]
 }
