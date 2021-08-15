@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiedza/modele-mentalne/README.md",
+            "file": "wiedza/ksiazki/almanack-of-naval-ravikant.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiedza/modele-mentalne/README.md",
+                "file": "wiedza/ksiazki/almanack-of-naval-ravikant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "c20fdaf87d50432e",
   "lastOpenFiles": [
+    "wiedza/ksiazki/almanack-of-naval-ravikant.md",
     "wiedza/modele-mentalne/README.md",
     "wiedza/ksiazki/README.md",
     "wiedza/modele-mentalne/adas-nowy.md",
@@ -96,7 +97,6 @@
     "wiedza/modele-mentalne/mam.md",
     "adam.md",
     "wiedza/ksiazki/seeking-wisdom.md",
-    "SUMMARY.md",
-    "README.md"
+    "SUMMARY.md"
   ]
 }
