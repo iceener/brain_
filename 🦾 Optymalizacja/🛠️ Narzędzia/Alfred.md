@@ -1,0 +1,1 @@
+[[Alfred]] to nakładka (lub alternatywa) dla Spotlight. Dzięki płatnemu rozszerzeniu (PowerPack) umożliwia połączenie np. z [[Keyboard Maestro]] czy [[Spotify]].

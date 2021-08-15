@@ -6,12 +6,22 @@
       {
         "id": "03ca1299e35e9e72",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/📖 Książki/🎖️ Książki.md",
+            "file": "🦾 Optymalizacja/🛠️ Narzędzia/TabNine.md",
             "mode": "source"
-          }
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "e4fe932efcc09c4a",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -52,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -68,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/📖 Książki/🎖️ Książki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "📚 Wiedza/📖 Książki/🎖️ Książki.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -104,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03ca1299e35e9e72",
+  "active": "e4fe932efcc09c4a",
   "lastOpenFiles": [
-    "📚 Wiedza/📖 Książki/🎖️ Książki.md",
-    "📚 Wiedza/📖 Książki/Next line.md",
-    "📚 Wiedza/📖 Książki/Something more.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Keyboard Maestro.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/StreamDeck.md",
-    "🦾 Optymalizacja/🤖 Automatyzacja/Automatyzacja.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/iPad.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/README.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/iPhone.md",
-    "🦾 Optymalizacja/🤖 Automatyzacja/Narzędzia.md"
+    "🦾 Optymalizacja/🛠️ Narzędzia/TabNine.md",
+    "📚 Wiedza/📑 Słownik/Cel.md",
+    "📚 Wiedza/📑 Słownik/Indie Hackers.md",
+    "📚 Wiedza/📑 Słownik/Kierunek.md",
+    "📚 Wiedza/🤔 Przemyślenia/Rzeczywistość.md",
+    "📚 Wiedza/🤔 Przemyślenia/Rozczarowanie.md",
+    "📚 Wiedza/🤔 Przemyślenia/README.md",
+    "📚 Wiedza/🤔 Przemyślenia/Podejmowanie decyzji.md",
+    "📚 Wiedza/🤔 Przemyślenia/Negocjacje.md",
+    "📚 Wiedza/🤔 Przemyślenia/Intuicja.md"
   ]
 }

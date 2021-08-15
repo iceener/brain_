@@ -1,0 +1,6 @@
+- [[Cel]]
+- [[Kierunek]]
+- [[Proces]]
+- [[Otoczenie]]
+- [[Perspektywa]]
+- [[Indie Hackers]]

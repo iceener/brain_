@@ -2,7 +2,7 @@
 
 Jak jest w rzeczywistości? Nie wiem. Ale potrafię upraszczać nawet najbardziej skomplikowane zagadnienia i mówić o nich prosto.
 
-W dużym stopniu właśnie o tym jest Rebel Ideas - książka podkreślająca to jak ważna jest różnorodność poznawcza w kontekście nieszablonowego myślenia oraz wychodzenia poza wszelkie granice. 
+W dużym stopniu właśnie o tym jest [[Rebel Ideas]] - książka podkreślająca to jak ważna jest różnorodność poznawcza w kontekście nieszablonowego myślenia oraz wychodzenia poza wszelkie granice. 
 
 Taka różnorodność nie bierze się jednak np. z cech zewnętrznych, lecz z doświadczeń kształtujących różne schematy myślenia. 
 

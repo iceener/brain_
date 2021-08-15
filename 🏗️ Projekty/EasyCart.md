@@ -1,5 +1,6 @@
 ## Aktualności 
 - Sierpień 2021 Pierwszy klient po testach przełącza wszystkie swoje produkty na EC 🎉
+- Sierpień 2021 - EasyCart staje się projektem #buildinpublic
 - Sierpień 2021 - EasyCart jest na etapie zamkniętej bety
 
 ---

@@ -1,0 +1,11 @@
+## Książki
+- [[Getting Real]]
+- [[Alamanck of Naval Ravikant]]
+- [[Anything You Want]]
+- [[MAKE]]
+- [[Hard Things About Hard Things]]
+- [[Creativity Inc]]
+- [[Shape Up]]
+- [[Principles]]
+- [[Good to Great]]
+- [[Infinite Games]]

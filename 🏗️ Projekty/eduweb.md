@@ -1,2 +1,1 @@
-# eduweb
-
+[[eduweb]] to projekt w który angażuję się od kwietnia 2020 roku. Prywatnie jest to dla mnie spełnienie marzeń, ponieważ
