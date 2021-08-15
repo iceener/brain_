@@ -4,7 +4,7 @@
 
 ## ➿Proces
 
-* [💫 Mój proces](proces/💫 Proces.md)
+* [💫 Mój proces](➿%20proces/💫%20Proces.md)
 
 ## 📚 Wiedza
 
