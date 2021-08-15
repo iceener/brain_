@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "📚 Wiedza/📖 Książki/🎖️ Książki.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "📚 Wiedza/📖 Książki/🎖️ Książki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "📚 Wiedza/📖 Książki/🎖️ Książki.md"
               }
             }
           }
@@ -106,15 +106,15 @@
   },
   "active": "03ca1299e35e9e72",
   "lastOpenFiles": [
-    "SUMMARY.md",
-    "🏗️ Projekty/overment.md",
-    "📚 Wiedza/💻 Programowanie/JavaScript/Closures.md",
-    "📚 Wiedza/💻 Programowanie/JavaScript/Execution Context.md",
-    "Execution Context.md",
-    "📚 Wiedza/💻 Programowanie/JavaScript/JavaScript.md",
-    "📚 Wiedza/💻 Programowanie/JavaScript/Scope.md",
-    "📚 Wiedza/💻 Programowanie/JavaScript/Lexical Scope.md",
-    "Lexical Scope.md",
-    "📚 Wiedza/💡 Modele Mentalne/Leverage.md"
+    "📚 Wiedza/📖 Książki/🎖️ Książki.md",
+    "📚 Wiedza/📖 Książki/Next line.md",
+    "📚 Wiedza/📖 Książki/Something more.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Keyboard Maestro.md",
+    "🦾 Optymalizacja/🖥️ Sprzęt/StreamDeck.md",
+    "🦾 Optymalizacja/🤖 Automatyzacja/Automatyzacja.md",
+    "🦾 Optymalizacja/🖥️ Sprzęt/iPad.md",
+    "🦾 Optymalizacja/🖥️ Sprzęt/README.md",
+    "🦾 Optymalizacja/🖥️ Sprzęt/iPhone.md",
+    "🦾 Optymalizacja/🤖 Automatyzacja/Narzędzia.md"
   ]
 }

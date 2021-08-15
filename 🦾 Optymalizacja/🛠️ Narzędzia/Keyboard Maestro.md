@@ -1,4 +1,6 @@
-[[Keyboard Maestro]] to aplikacja którą wykorzystuę do automatyzacji wielu zadań w ramach systemu operacyjnego OSX. 
+[[Keyboard Maestro]] to aplikacja którą wykorzystuę do automatyzacji wielu zadań w ramach systemu operacyjnego OSX. Wykorzystuję ją razem z [[Alfred]] oraz [[StreamDeck]].
+
+Regularnie zdarza mi się wykorzystywać skrypty [[🎖️ JavaScript]] i [[Node.js]] do tworzenia pojedynczych akcji.
 
 ## Pojedyncze akcje
 - Szybsza nawigacja w systemie (np. przełączanie aplikacji, czy uruchamianie funkcji)
@@ -36,4 +38,5 @@
 
 ## Automatyzacje zewnętrzne
 - Uruchamianie webhooków przejmowanych przez [[Integromat]], [[Zapier]] lub [[Mikroserwisy]]
+- Wysyłanie danych przez [[Integromat]] do [[Airtable]]
 - Wysyłanie powiadomień na telefon

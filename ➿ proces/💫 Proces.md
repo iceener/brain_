@@ -82,8 +82,6 @@ Rozmowa [[Naval Ravikant]] ze swoim mentorem \([[Kapil Gupta]]\)
 
 > "Istnieje sposób na to aby rozwiązać wszystkie swoje problemy bez potrzeby ruszenia palcem. Chodzi o ekspozycję." \(30:50\)
 
-[[Kapil Gupta]]
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sBtuqpNZwio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Rozmowa Dr [[Andrew Huberman]]a w podcaście [[Rich Roll]]
@@ -104,8 +102,8 @@ Znaczna większość mojej uwagi oraz czasu, wypełnione są aktywnościami wspi
 
 95% moich źródeł wiedzy jest anglojęzyczna.
 
-* **Modele mentalne \([Modele](📚%20wiedza/💡%20Modele%20Mentalne/README.md)) - wspierają mój [[Proces]] myślowy.
-* **Czytanie książek \([Książki](README.md)) - są najlepszym nauczycielem.
+* **Modele mentalne** \([Modele](📚%20wiedza/💡%20Modele%20Mentalne/README.md)) - wspierają mój [[Proces]] myślowy.
+* **Czytanie książek** \([Książki](README.md)) - są najlepszym nauczycielem.
 * **Słuchanie podcastów** - pozwalają "spędzać czas" z ludźmi z którymi jeszcze nie mam okazji robić to osobiście.
 * **Specjalizacja & Generalizacja** - nie posiadam żadnej specjalizacji. Uczę się wszystkiego o wszystkim.
 

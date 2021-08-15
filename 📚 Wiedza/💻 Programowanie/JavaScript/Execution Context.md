@@ -1,7 +1,7 @@
-To abstrakcyjny koncept środowiska w którym **interpretowany i wykonywany jest kod [[JavaScript]]**. Za każdym razem gdy uruchamiamy kod JS, dzieje się to w [[Execution Context]]
+To abstrakcyjny koncept środowiska w którym **interpretowany i wykonywany jest kod [[🎖️ JavaScript]]**. Za każdym razem gdy uruchamiamy kod JS, dzieje się to w [[Execution Context]]
 
 Wyróżniamy trzy rodzaje kontekstu wykonania: 
-- Globalny - istnieje tylko jeden w programie [[JavaScript]]
+- Globalny - istnieje tylko jeden w programie [[🎖️ JavaScript]]
 - Funkcyjny - tworzony jest w chwili wykonania funkcji. Każda funkcja posiada swój kontekst wykonania.
 - Eval - kod wykonywany wewnątrz funkcji Eval również posiada swój kontekst.
 
