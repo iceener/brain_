@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "proces/moj-proces.md",
+            "file": "wiedza/programowanie/README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proces/moj-proces.md",
+                "file": "wiedza/programowanie/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "proces/moj-proces.md"
+                "file": "wiedza/programowanie/README.md"
               }
             }
           }
@@ -106,6 +106,7 @@
   },
   "active": "db600831e23b1658",
   "lastOpenFiles": [
+    "wiedza/programowanie/README.md",
     "proces/moj-proces.md",
     "projekty/ahoy.md",
     "projekty/easy-cart.md",
@@ -114,7 +115,6 @@
     "proces.md",
     "SUMMARY.md",
     "wiedza/ksiazki/almanack-of-naval-ravikant.md",
-    "wiedza/ksiazki/antifragile.md",
-    "wiedza/ksiazki/anything-you-want.md"
+    "wiedza/ksiazki/antifragile.md"
   ]
 }
