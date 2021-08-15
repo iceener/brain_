@@ -2,7 +2,7 @@
 
 Istnieje wiele sposobów na realizację celów oraz szeroko rozumianą skuteczność w działaniu. Jakiś czas temu odkryłem że opieranie się o "sprawdzone techniki", jakie można znaleźć w Internecie i książkach nie jest dla mnie skuteczne. Ma to proste uzasadnienie: **każdy z nas jest inny.** Z tego powodu tworzę swój własny proces, który dostosowany jest wyłącznie do mnie i prawdopodobnie **nie zadziała u Ciebie.** W praktyce jednak z całą pewnością znajdziesz tutaj wiele inspiracji oraz źródeł, które pomogą Ci zbudować własny proces.
 
-> Wszyscy nieustannie mówią Ci co jest dla Ciebie dobre. Nie chcą abyś szukał własnych odpowiedzi. Chcą abyś uwierzył w ich. ~ Dan Millman
+> Wszyscy nieustannie mówią Ci co jest dla Ciebie dobre. Nie chcą abyś szukał własnych odpowiedzi. Chcą abyś uwierzył w ich. ~ [[Dan Millman]]
 
 
 ## Kontekst
@@ -80,7 +80,7 @@ W sposób bardzo świadomy kształtuję swoje najbliższe otoczenie. Dbam o to a
 
 #### **🔗 Źródła:**
 
-Rozmowa Navala Ravikanta ze swoim mentorem \(Kapil Gupta\)
+Rozmowa [[Naval Ravikant]] ze swoim mentorem \([[Kapil Gupta]]\)
 
 > "Istnieje sposób na to aby rozwiązać wszystkie swoje problemy bez potrzeby ruszenia palcem. Chodzi o ekspozycję." \(30:50\)
 
@@ -88,7 +88,7 @@ Rozmowa Navala Ravikanta ze swoim mentorem \(Kapil Gupta\)
 
 [https://www.youtube.com/watch?v=sBtuqpNZwio](https://www.youtube.com/watch?v=sBtuqpNZwio)
 
-Rozmowa Dr Andrew Hubermana w podcaście Rich Roll
+Rozmowa Dr [[Andrew Huberman]]a w podcaście [[Rich Roll]]
 
 > "Nasz cały układ nerwowy zaprojektowany jest po to aby realizować jedną i tylko jedną rzecz: połączyć infromacje z otaczającego nasz świata z tymi pochodzącymi z naszego ciała. Inaczej mówiąc: jego rolą jest **dopasowanie** tego co na zewnątrz z tym co wewnątrz."
 
@@ -119,15 +119,15 @@ Znaczna większość mojej uwagi oraz czasu, wypełnione są aktywnościami wspi
 
 Koncepcja dźwigni ([[leverage]]) jest jedną z najważniejszych jakie znam. Sprawia że jestem w stanie zamieniać jedną moją godzinę w sto, a raz wykonana praca przynosi mi efekty przez lata.
 
-* **Mój czas nie jest na sprzedaż** - w połowie 2020 podjąłem decyzję o tym, że nie sprzedaję swojego czasu. Poświęcam go w całości na tworzenie produktów oraz aktywności, które działają na skali oraz pomagają innym przez długi czas.
-* **Zwielokrotnianie efektów** - podejmując jakieś działanie zadaję sobie pytanie "co zrobić aby przyniosło mi zwielokrotniony efekt". Inaczej mówiąc "jak z jednej mojej godziny zrobić 100?"
+* **Mój czas nie jest na sprzedaż [[principles]]** - w połowie 2020 podjąłem decyzję o tym, że nie sprzedaję swojego czasu. Poświęcam go w całości na tworzenie produktów oraz aktywności, które działają na skali oraz pomagają innym przez długi czas.
+* **Zwielokrotnianie efektów [[leverage]]** - podejmując jakieś działanie zadaję sobie pytanie "co zrobić aby przyniosło mi zwielokrotniony efekt". Inaczej mówiąc "jak z jednej mojej godziny zrobić 100?"
 * **Optymalizacja** - zwracam uwagę na drobne szczegóły, eliminując je lub optymalizując do granic możliwości \(albo rozsądku\).
 * **Automatyzacja** - znaczna częśćc moich aktywności oparta jest o automatyzacje, które wspierają moje działania lub realizują je całkowicie za mnie.
 
-> Najbardziej interesującą i najważniejszą formą dźwigni jest idea produktu z minimalnym kosztem replikacji. ~ Naval Ravikant
+> Najbardziej interesującą i najważniejszą formą dźwigni jest idea produktu z minimalnym kosztem replikacji. ~ [[Naval Ravikant]]
 
 #### **🔗 Źródła:**
 	
-* Naval Ravikant o dźwigni [https://nav.al/product-media](https://nav.al/product-media)
+* [[Naval Ravikant]] o dźwigni [[leverage]] [https://nav.al/product-media](https://nav.al/product-media)
 * Trends VC o 1-osobowym, milionowym biznesie [https://trends.vc/trends-0065-million-dollar-one-person-businesses/](https://trends.vc/trends-0065-million-dollar-one-person-businesses/)
 
