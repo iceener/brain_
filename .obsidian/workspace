@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "wiedza/ksiazki/make.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "wiedza/ksiazki/make.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,19 +92,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "db600831e23b1658",
   "lastOpenFiles": [
-    "SUMMARY.md",
     "wiedza/ksiazki/make.md",
-    "wiedza/ksiazki/the-compound-effect.md",
-    "wiedza/ksiazki/who-says-elephant's-can't-dance.md",
-    "wiedza/ksiazki/the-mom-test.md",
-    "wiedza/ksiazki/the-brain-audit.md",
-    "wiedza/ksiazki/deep-work.md",
-    "wiedza/ksiazki/principles.md",
-    "wiedza/ksiazki/getting-real.md",
-    "wiedza/ksiazki/deviate.md"
+    "wiedza/ksiazki/seeking-wisdom.md",
+    "wiedza/ksiazki/simplify.md",
+    "wiedza/ksiazki/way-of-the-peaceful-warrior.md",
+    "wiedza/ksiazki/war-of-art.md",
+    "Integromat.md",
+    "optymalizacja/automatyzacja/narzędzia.md",
+    "Zapier.md",
+    "proces/moj-proces.md",
+    "SUMMARY.md"
   ]
 }
