@@ -8,6 +8,7 @@
 
 ## 📚 Wiedza
 
+* [🎙 Podcasty](wiedza/🎙 Podcasty/README.md)
 * [💡 Modele mentalne](wiedza/modele-mentalne/README.md)
 * [📖 Książki](wiedza/ksiazki/README.md)
 * [🤔 Przemyślenia](wiedza/przemyslenia.md)
