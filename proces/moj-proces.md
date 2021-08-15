@@ -11,9 +11,9 @@ Na każdym kroku możemy spotkać się z opinią, że wyznaczanie celów jest **
 
 Nie zgadzam się ani z jednym ani drugim \(odnosząc się do mojego kontekstu\)
 
-### [[Cel]]e
+### Cele
 
-Wyznaczając cele doskonale wiemy dokąd zmierzamy \([SMART](https://www.mindtools.com/pages/article/smart-goals.htm)\). Korzystając z narzędzi takich jak wizualizacja, łatwo możemy wyobrazić sobie siebie z czasu w którym osiągnęliśmy cel. To pozwala budować odpowiednie postawy \(np. entuzjazm\) dzięki którym dążymy do określonego przez nas punktu.
+Wyznaczając [[cel]]e doskonale wiemy dokąd zmierzamy \([SMART](https://www.mindtools.com/pages/article/smart-goals.htm)\). Korzystając z narzędzi takich jak wizualizacja, łatwo możemy wyobrazić sobie siebie z czasu w którym osiągnęliśmy cel. To pozwala budować odpowiednie postawy \(np. entuzjazm\) dzięki którym dążymy do określonego przez nas punktu.
 
 W przypadku gdy cel jest za duży, wystarczy podzielić go na mniejsze i w ten sposób zmniejszyć "opór" \([War of Art ~ Steven Pressfield](../wiedza/ksiazki/war-of-art) \) a ich realizacja da nam korzyści płynące z wykorzystania dopaminy \(więcej w [[Andrew Huberman]] Lab Podcast \#12 [https://www.youtube.com/watch?v=vA50EK70whE](https://www.youtube.com/watch?v=vA50EK70whE)
 
@@ -27,7 +27,7 @@ W przypadku gdy cel jest za duży, wystarczy podzielić go na mniejsze i w ten s
 Między innymi powyższe powody doprowadziły mnie do tego aby zrezygnować z wyznaczania celów \([stosowałem OKRy](https://produktywni.pl/blog/okr-technika-stawiania-celow/)\) na rzecz opracowania procesu, który prowadzi mnie w ustalonym przeze mnie kierunku.
 
 ### Kierunek vs. Cel
-- Cel posiada datę realizacji i warunki jego spełnienia. Kierunek nie.
+- [[Cel]] posiada datę realizacji i warunki jego spełnienia. [[Kierunek]] nie.
 - Z definicji w kierunku można podążać ale nie da się do niego dojść.
 
 ### Proces
@@ -78,13 +78,15 @@ W sposób bardzo świadomy kształtuję swoje najbliższe otoczenie. Dbam o to a
 
 > Otaczaj się ludźmi, którzy osiągnęli to, co Ty chcesz osiągnąć i masz z nimi coś wspólnego.
 
-#### **🔗 Źródła:**
+#### 🔗 Źródła:
 
 Rozmowa [[Naval Ravikant]] ze swoim mentorem \([[Kapil Gupta]]\)
 
 > "Istnieje sposób na to aby rozwiązać wszystkie swoje problemy bez potrzeby ruszenia palcem. Chodzi o ekspozycję." \(30:50\)
 
-[![\# Kapil Gupta: Conquering the Mind](https://space.overment.com/oOvVuzXqP1tLt1UQW88N/naval.jpeg)](https://www.youtube.com/watch?v=sBtuqpNZwio)
+[[Kapil Gupta]]
+
+[![\# Conquering the Mind](https://space.overment.com/oOvVuzXqP1tLt1UQW88N/naval.jpeg)](https://www.youtube.com/watch?v=sBtuqpNZwio)
 
 [https://www.youtube.com/watch?v=sBtuqpNZwio](https://www.youtube.com/watch?v=sBtuqpNZwio)
 
@@ -126,8 +128,7 @@ Koncepcja dźwigni ([[leverage]]) jest jedną z najważniejszych jakie znam. Spr
 
 > Najbardziej interesującą i najważniejszą formą dźwigni jest idea produktu z minimalnym kosztem replikacji. ~ [[Naval Ravikant]]
 
-#### **🔗 Źródła:**
+#### 🔗 Źródła:
 	
 * [[Naval Ravikant]] o dźwigni [[leverage]] [https://nav.al/product-media](https://nav.al/product-media)
 * Trends VC o 1-osobowym, milionowym biznesie [https://trends.vc/trends-0065-million-dollar-one-person-businesses/](https://trends.vc/trends-0065-million-dollar-one-person-businesses/)
-

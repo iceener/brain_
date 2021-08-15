@@ -7,8 +7,11 @@
         "id": "db600831e23b1658",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "proces/moj-proces.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "proces/moj-proces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,25 +86,35 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "a405d97f0190fc0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "proces/moj-proces.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "db600831e23b1658",
   "lastOpenFiles": [
     "proces/moj-proces.md",
+    "projekty/ahoy.md",
+    "projekty/easy-cart.md",
+    "optymalizacja/optymalizacja.md",
+    "optymalizacja/automatyzacja/scenariusze.md",
     "proces.md",
     "SUMMARY.md",
     "wiedza/ksiazki/almanack-of-naval-ravikant.md",
     "wiedza/ksiazki/antifragile.md",
-    "wiedza/ksiazki/anything-you-want.md",
-    "wiedza/ksiazki/body-mind-mastery.md",
-    "optymalizacja/automatyzacja/narzędzia.md",
-    "optymalizacja/automatyzacja/scenariusze.md",
-    "optymalizacja/automatyzacja.md"
+    "wiedza/ksiazki/anything-you-want.md"
   ]
 }
