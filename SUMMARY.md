@@ -11,6 +11,7 @@
 * [🎙 Podcasty](📚%20Wiedza/🎙%20Podcasty/README.md)
 * [💡 Modele mentalne](📚%20Wiedza/💡%20Modele%20Mentalne/README.md)
 * [📖 Książki](📚%20Wiedza/📖%20Książki/README.md)
+	* [Alamanck of Naval Ravikant](📚%20Wiedza/📖%20Książki/Alamanck%20of%20Naval%20Ravikant.md)
 * [🤔 Przemyślenia](📚%20Wiedza/🤔%20Przemyślenia/README.md)
 * [💻 Programowanie](📚%20Wiedza/💻%20Programowanie/README.md)
 * [🎨 Projektowanie](📚%20Wiedza/🎨%20Projektowanie/README.md)
