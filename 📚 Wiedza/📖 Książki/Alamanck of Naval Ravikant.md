@@ -9,7 +9,7 @@ Naval kładzie ogromny nacisk w tej książce na mechanizm dźwigni (eng. [[leve
 
 Poza zawodowymi sukcesami, Naval wyróżnia się szczególną mądrością oraz faktem, że jest po prostu szczęśliwy a to nie zawsze idzie w parze z sukcesem zawodowym. 
 
-> Każdy wielki programista posiada już dziś armię robotów, która pracuje dla niego dzień i noc, nawet wtedy gdy on śpi ([[Automatyzacja]])
+> Każdy wielki programista posiada już dziś armię robotów, która pracuje dla niego dzień i noc, nawet wtedy gdy on śpi ([[🎖️ Automatyzacja]])
 
 ## Lekcje
 - Naucz się budować i sprzedawać: staniesz się niepowstrzymany

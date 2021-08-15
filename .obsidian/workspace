@@ -4,24 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "03ca1299e35e9e72",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "🦾 Optymalizacja/🛠️ Narzędzia/TabNine.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
         "id": "e4fe932efcc09c4a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📚 Wiedza/🎲 Biznes/Marketing.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -62,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -79,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📚 Wiedza/🎲 Biznes/Marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📚 Wiedza/🎲 Biznes/Marketing.md"
+              }
             }
           }
         ]
@@ -114,15 +106,15 @@
   },
   "active": "e4fe932efcc09c4a",
   "lastOpenFiles": [
-    "🦾 Optymalizacja/🛠️ Narzędzia/TabNine.md",
-    "📚 Wiedza/📑 Słownik/Cel.md",
-    "📚 Wiedza/📑 Słownik/Indie Hackers.md",
-    "📚 Wiedza/📑 Słownik/Kierunek.md",
-    "📚 Wiedza/🤔 Przemyślenia/Rzeczywistość.md",
-    "📚 Wiedza/🤔 Przemyślenia/Rozczarowanie.md",
-    "📚 Wiedza/🤔 Przemyślenia/README.md",
-    "📚 Wiedza/🤔 Przemyślenia/Podejmowanie decyzji.md",
-    "📚 Wiedza/🤔 Przemyślenia/Negocjacje.md",
-    "📚 Wiedza/🤔 Przemyślenia/Intuicja.md"
+    "📚 Wiedza/🎲 Biznes/Marketing.md",
+    "📚 Wiedza/🎲 Biznes/Untitled.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Keyboard Maestro.md",
+    "🦾 Optymalizacja/🤖 Automatyzacja/Narzędzia.md",
+    "🦾 Optymalizacja/🤖 Automatyzacja/Mikroserwisy.md",
+    "🦾 Optymalizacja/🤖 Automatyzacja/Scenariusze.md",
+    "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
+    "🦾 Optymalizacja/🤖 Automatyzacja/Automatyzacja.md",
+    "🏗️ Projekty/zautomatyzowani.md",
+    "Craftsman Mindset.md"
   ]
 }

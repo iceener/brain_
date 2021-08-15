@@ -5,7 +5,7 @@
 ## Kontekst
 [[Pieter Levels]] jest jednym z najbardziej rozpoznawalnych w społeczności [[Indie Hackers]]. Stworzył m.in. [https://nomadlist.com/](https://nomadlist.com/), [https://remoteok.io/](https://remoteok.io/) oraz kilkanaście podobnych projektów. W przypadku remoteok cały serwis to JEDEN plik PHP, który obecnie generuje przychód na poziomie $3,5k+ DZIENNIE (stan na połowę 2021 roku).
 
-[[make]] to książka pokazująca proces tworzenia firmy w pojedynkę lub małym zespole (w duchu [[Indie Hackers]]). Kładzie ogromny nacisk na rozwiązywanie realnych [[problem]]ów oraz [[automatyzacja]].
+[[make]] to książka pokazująca proces tworzenia firmy w pojedynkę lub małym zespole (w duchu [[Indie Hackers]]). Kładzie ogromny nacisk na rozwiązywanie realnych [[problem]]ów oraz [[🎖️ Automatyzacja]].
 
 ## Cytaty
 > Najważniejszą rzeczą jest odkrywanie pomysłów poprzez rozwiązywanie swoich własnych [[problem]]ów. (eng.: "The most important thing is to find ideas from solving your own problems.")

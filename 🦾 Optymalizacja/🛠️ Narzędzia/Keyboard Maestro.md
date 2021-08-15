@@ -13,7 +13,7 @@ Regularnie zdarza mi się wykorzystywać skrypty [[🎖️ JavaScript]] i [[Node
 - Szybsza nawigacja w tekście
 - [[Text Expander]] ze wsparciem zewnętrznych skrytpów (np. generowanie daty)
 - Praca ze składnią Markdown
-- Szybkie otwieranie notatek (Notion / Obsidian)
+- Szybkie otwieranie notatek ([[Notion]] / [[Obsidian]])
 - Szybkie dodawanie informacji do notatek (nawet bez otwierania edytora)
 
 ## Praca z plikami
