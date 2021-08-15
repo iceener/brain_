@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiedza/ksiazki/make.md",
+            "file": "wiedza/modele-mentalne/inversion.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiedza/ksiazki/make.md",
+                "file": "wiedza/modele-mentalne/inversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,10 +92,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "db600831e23b1658",
   "lastOpenFiles": [
+    "wiedza/modele-mentalne/inversion.md",
+    "wiedza/modele-mentalne/README.md",
     "wiedza/ksiazki/make.md",
     "proces/moj-proces.md",
     "optymalizacja/automatyzacja/scenariusze.md",
@@ -102,8 +106,6 @@
     "optymalizacja/optymalizacja.md",
     "wiedza/modele-mentalne/leverage.md",
     "Huberman Lab.md",
-    "wiedza/ksiazki/war-of-art.md",
-    "SUMMARY.md",
-    "wiedza/ksiazki/seeking-wisdom.md"
+    "wiedza/ksiazki/war-of-art.md"
   ]
 }
