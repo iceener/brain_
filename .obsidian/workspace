@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiedza/programowanie/README.md",
+            "file": "optymalizacja/automatyzacja/scenariusze.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiedza/programowanie/README.md",
+                "file": "optymalizacja/automatyzacja/scenariusze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +95,15 @@
   },
   "active": "db600831e23b1658",
   "lastOpenFiles": [
-    "wiedza/programowanie/Untitled.md",
-    "wiedza/programowanie/html-css.md",
-    "wiedza/programowanie/javascript.md",
-    "wiedza/programowanie/rapid-dev.md",
-    "wiedza/programowanie/nodejs.md",
-    "wiedza/programowanie/narzedzia.md",
+    "optymalizacja/automatyzacja/scenariusze.md",
     "SUMMARY.md",
     "README.md",
-    "wiedza/programowanie.md",
-    "wiedza/przemyslenia.md"
+    "optymalizacja/automatyzacja/Untitled.md",
+    "optymalizacja/optymalizacja.md",
+    "optymalizacja/automatyzacja.md",
+    "optymalizacja/automatyzacja/narzędzia.md",
+    "wiedza/modele-mentalne/inversion.md",
+    "wiedza/modele-mentalne/halo-effect.md",
+    "wiedza/modele-mentalne/circle-of-competence.md"
   ]
 }

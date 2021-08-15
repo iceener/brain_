@@ -2,3 +2,5 @@
 .view-content { height: 100%; }
 .workspace-split.mod-root > .workspace-leaf:first-of-type .workspace-leaf-content { border-radius: 0; }
 .workspace-split.mod-root { margin-left: -4px; }
+.titlebar-inner { display: none;}
+.backlink-pane, .nav-files-container { padding-top: 25px; }

@@ -35,6 +35,7 @@
 
 * [🤖 Automatyzacja](optymalizacja/automatyzacja.md)
 	* [Narzędzia](optymalizacja/automatyzacja/narzędzia.md)
+	* [Narzędzia](optymalizacja/automatyzacja/scenariusze.md)
 * [🛠️ Optymalizacja](optymalizacja/optymalizacja.md)
 
 ## Projekty
