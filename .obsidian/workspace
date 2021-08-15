@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "db600831e23b1658",
+        "id": "03ca1299e35e9e72",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -104,8 +104,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "db600831e23b1658",
+  "active": "03ca1299e35e9e72",
   "lastOpenFiles": [
+    "Untitled.md",
     "SUMMARY.md",
     "📚 Wiedza/📖 Książki/Rebel Ideas.md",
     "📚 Wiedza/📖 Książki/Rebels.md",
@@ -114,7 +115,6 @@
     "📚 Wiedza/📖 Książki/rebel-ideas.md",
     "📚 Wiedza/📖 Książki/ada.md",
     "📚 Wiedza/🎙 Podcasty/README.md",
-    "➿ proces/💫 Proces.md",
-    "✨ Co to za miejsce?.md"
+    "➿ proces/💫 Proces.md"
   ]
 }
