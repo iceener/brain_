@@ -113,11 +113,11 @@ Znaczna większość mojej uwagi oraz czasu, wypełnione są aktywnościami wspi
 * **Słuchanie podcastów** - pozwalają "spędzać czas" z ludźmi z którymi jeszcze nie mam okazji robić to osobiście.
 * **Specjalizacja & Generalizacja** - nie posiadam żadnej specjalizacji. Uczę się wszystkiego o wszystkim.
 
-### [[Dźwignia]]
+### Dźwignia [[leverage]]
 
 > Dajcie mi punkt podparcia, a poruszę ziemię. ~ Archimedes
 
-Koncepcja dźwigni jest jedną z najważniejszych jakie znam. Sprawia że jestem w stanie zamieniać jedną moją godzinę w sto, a raz wykonana praca przynosi mi efekty przez lata.
+Koncepcja dźwigni ([[leverage]]) jest jedną z najważniejszych jakie znam. Sprawia że jestem w stanie zamieniać jedną moją godzinę w sto, a raz wykonana praca przynosi mi efekty przez lata.
 
 * **Mój czas nie jest na sprzedaż** - w połowie 2020 podjąłem decyzję o tym, że nie sprzedaję swojego czasu. Poświęcam go w całości na tworzenie produktów oraz aktywności, które działają na skali oraz pomagają innym przez długi czas.
 * **Zwielokrotnianie efektów** - podejmując jakieś działanie zadaję sobie pytanie "co zrobić aby przyniosło mi zwielokrotniony efekt". Inaczej mówiąc "jak z jednej mojej godziny zrobić 100?"

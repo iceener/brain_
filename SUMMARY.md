@@ -23,6 +23,11 @@
 	* [War of Art](wiedza/ksiazki/war-of-art.md)
 * [🤔 Przemyślenia](wiedza/przemyslenia.md)
 * [💻 Programowanie](wiedza/programowanie.md)
+	* [Rapid Development](/wiedza/programowanie/rapid-dev.md)
+	* [Narzędzia](/wiedza/programowanie/narzedzia.md)
+	* [HML / CSS](/wiedza/programowanie/html-css.md)
+	* [JavaScript](/wiedza/programowanie/javascript.md)
+	* [Node.js](/wiedza/programowanie/nodejs.md)
 * [🎨 Projektowanie](wiedza/projektowanie.md)
 * [🎲 Biznes](wiedza/biznes.md)
 
