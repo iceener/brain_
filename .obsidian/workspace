@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiedza/ksiazki/seeking-wisdom.md",
+            "file": "SUMMARY.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiedza/ksiazki/seeking-wisdom.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,25 +78,36 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "b8f25cc7cba83dae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SUMMARY.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "c20fdaf87d50432e",
   "lastOpenFiles": [
-    "wiedza/ksiazki/seeking-wisdom.md",
-    "wiedza/ksiazki/almanack-of-naval-ravikant.md",
-    "wiedza/ksiazki/README.md",
-    "wiedza/ksiazki/way-of-the-peaceful-warrior.md",
     "SUMMARY.md",
-    "wiedza/modele-mentalne/README.md",
-    "wiedza/modele-mentalne/adas-nowy.md",
-    "wiedza/modele-mentalne/ADam-Gospodarczyk.md",
-    "wiedza/modele-mentalne/model-mentalny.md",
-    "wiedza/modele-mentalne/mam.md"
+    "wiedza/ksiazki/war-of-art.md",
+    "proces/moj-proces.md",
+    "README.md",
+    "wiedza/przemyslenia.md",
+    "optymalizacja/automatyzacja/narzędzia.md",
+    "optymalizacja/automatyzacja.md",
+    "wiedza/modele-mentalne/inversion.md",
+    "wiedza/modele-mentalne/first principles.md",
+    "wiedza/modele-mentalne/second order thinking.md"
   ]
 }
