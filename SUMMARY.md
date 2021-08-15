@@ -17,6 +17,7 @@
   * [Circle of Competence](wiedza/modele-mentalne/circle-of-competence.md)
   * [Halo Effect](wiedza/modele-mentalne/halo-effect.md)
 * [📖 Książki](wiedza/ksiazki/README.md)
+	* [Rebel Ideas](wiedza/ksiazki/rebel-ideas.md)
 	* [Seeking Wisdom](wiedza/ksiazki/seeking-wisdom.md)
 	* [Almanack of Naval Ravikant](wiedza/ksiazki/almanack-of-naval-ravikant.md)
 	* [Way of The Peaceful Warrior](wiedza/ksiazki/way-of-the-peaceful-warrior.md)

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wiedza/ksiazki/rebel-ideas.md",
+            "file": "SUMMARY.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiedza/ksiazki/rebel-ideas.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiedza/ksiazki/rebel-ideas.md"
+                "file": "SUMMARY.md"
               }
             }
           }
@@ -106,15 +106,15 @@
   },
   "active": "db600831e23b1658",
   "lastOpenFiles": [
+    "SUMMARY.md",
     "wiedza/ksiazki/rebel-ideas.md",
-    "wiedza/ksiazki/README.md",
     "proces/moj-proces.md",
+    "wiedza/ksiazki/README.md",
     "wiedza/programowanie/README.md",
     "projekty/ahoy.md",
     "projekty/easy-cart.md",
     "optymalizacja/optymalizacja.md",
     "optymalizacja/automatyzacja/scenariusze.md",
-    "proces.md",
-    "SUMMARY.md"
+    "proces.md"
   ]
 }
