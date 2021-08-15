@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🏗️ Projekty/overment.md",
+            "file": "SUMMARY.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏗️ Projekty/overment.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏗️ Projekty/overment.md"
+                "file": "SUMMARY.md"
               }
             }
           }
@@ -106,6 +106,7 @@
   },
   "active": "03ca1299e35e9e72",
   "lastOpenFiles": [
+    "SUMMARY.md",
     "🏗️ Projekty/overment.md",
     "📚 Wiedza/💻 Programowanie/JavaScript/Closures.md",
     "📚 Wiedza/💻 Programowanie/JavaScript/Execution Context.md",
@@ -114,7 +115,6 @@
     "📚 Wiedza/💻 Programowanie/JavaScript/Scope.md",
     "📚 Wiedza/💻 Programowanie/JavaScript/Lexical Scope.md",
     "Lexical Scope.md",
-    "📚 Wiedza/💡 Modele Mentalne/Leverage.md",
-    "Scope.md"
+    "📚 Wiedza/💡 Modele Mentalne/Leverage.md"
   ]
 }

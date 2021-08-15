@@ -6,6 +6,10 @@
 
 * [💫 Mój proces](➿%20proces/💫%20Proces.md)
 
+
+## 🏗️ Projekty
+* [EasyCart](🏗️%20Projekty/EasyCart.md)
+
 ## 📚 Wiedza
 
 * [🎙 Podcasty](📚%20Wiedza/🎙%20Podcasty/README.md)
