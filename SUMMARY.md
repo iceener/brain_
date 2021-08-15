@@ -1,6 +1,6 @@
 # Table of contents
 
-* [✨ Co to za miejsce?](README.md)
+* [✨ Co to za miejsce?](✨ Co to za miejsce?.md)
 
 ## ➿Proces
 
