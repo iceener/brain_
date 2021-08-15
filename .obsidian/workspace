@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "wiedza/ksiazki/README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "wiedza/ksiazki/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c20fdaf87d50432e",
   "lastOpenFiles": [
-    "SUMMARY.md",
-    "wiedza/ksiazki/way-of-the-peaceful-warrior.md",
-    "wiedza/ksiazki/almanack-of-naval-ravikant.md",
-    "wiedza/modele-mentalne/README.md",
     "wiedza/ksiazki/README.md",
+    "wiedza/ksiazki/almanack-of-naval-ravikant.md",
+    "wiedza/ksiazki/way-of-the-peaceful-warrior.md",
+    "wiedza/ksiazki/seeking-wisdom.md",
+    "SUMMARY.md",
+    "wiedza/modele-mentalne/README.md",
     "wiedza/modele-mentalne/adas-nowy.md",
     "wiedza/modele-mentalne/ADam-Gospodarczyk.md",
     "wiedza/modele-mentalne/model-mentalny.md",
-    "wiedza/modele-mentalne/mam.md",
-    "adam.md"
+    "wiedza/modele-mentalne/mam.md"
   ]
 }
