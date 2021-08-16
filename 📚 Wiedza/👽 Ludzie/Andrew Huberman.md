@@ -11,6 +11,11 @@ Ta wiedza przydaje się przede wszystkim do tego aby:
 ### Oddychanie
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rBdhqBGqiMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Rich Roll
+> "Nasz cały układ nerwowy zaprojektowany jest po to aby realizować jedną i tylko jedną rzecz: połączyć infromacje z otaczającego nasz świata z tymi pochodzącymi z naszego ciała. Inaczej mówiąc: jego rolą jest **dopasowanie** tego co na zewnątrz z tym co wewnątrz."
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SwQhKFMxmDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Źródła
 - [zarządzać swoją energią i emocjami](https://hubermanlab.com/the-science-of-emotions-relationships/)

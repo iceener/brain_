@@ -52,22 +52,13 @@ Fundamentem jest dla mnie zdrowie (fizyczne i psychiczne) oraz sen.
 ### Poznawanie siebie
 Poznawanie siebie to najważniejszy po fundamentach element mojego procesu.
 
-- **Prowadzenie dziennika** - [[Dziennik]] prowadzę na [[iPad]]zie w [[Notability]]
-- 
-
-* **Prowadzenie dziennika** - [[Dziennik]] prowadzę na [[iPad]]zie w aplikacji [[Notability]]. 
-* **Testy osobowości** - Mowa tutaj o [[StrenghtsFinder]] [https://www.gallup.com/cliftonstrengths/en/252137/home.aspx](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx), [[MBTI]] [https://www.16personalities.com/)](https://www.16personalities.com/), [Principles You](http://principlesyou.com/), [The Big Five](https://www.understandmyself.com/personality-assessment). Poza wykonaniem tych testów, dużo uwagi poświęcam na eksplorację rezultatów oraz przekładanie ich na aktywności, które stanowią nieodłączoną część mojej codzienności.
-  * Mój profil [[MBTI]]: [INFJ](https://www.16personalities.com/infj-personality)
-  * Moje TOP5 [[Gallup]]a: 1. Aktywator, 2. Uczenie się, 3. Osiąganie, 4. Skupienie, 5. Bliskość
-  * Mój profil [[Principles You]]: [The Quiet Leader](https://principlesyou.com/archetypes/quietleader)
-* **Spędzanie czasu sam ze sobą** - większość czasu spędzam sam ze sobą. Często zdarza mi się wyjeżdżać, również w pojedynkę.
-* **Pozostawanie otwartym** - intencjonalnie staram się pozostawać otwartym na popełnianie błędów \(co nie zawsze jest łatwe\) oraz na punkt widzenia innych osób, szczególnie jeżeli nie jest zgodny z moim.
+- **Prowadzenie [[📓 Dziennik]]a**
+- **Testy osobowości** - [[💛 Poznawanie siebie#MBTI]], [[💛 Poznawanie siebie#StrenghtsFinder]], [[💛 Poznawanie siebie#Principles You]], [[💛 Poznawanie siebie#The Big Five]]
+- **Spędzanie czasu sam ze sobą** - bez rozproszeń i Internetu
+- **Pozostawanie otwartym** - staram się pozostawać otwartym na popełnianie błędów ([[Think Like a Rocket Scientist]] & [[Black Box Thinking]]) oraz fakt, że mogę się mylić.
 
 ### Otoczenie
-
-Mam przekonanie o tym, że człowiek w swoich fundamentach nie może się zmienić. Jednak istnieje wiele obszarów, które zmieniać się mogą \(np. nasze przekonania czy nawyki\). To sprawia że mniej lub bardziej jesteśmy \(lub nie jesteśmy\) sobą.
-
-W sposób bardzo świadomy kształtuję swoje najbliższe otoczenie. Dbam o to aby utrzymywać kontakt z ludźmi w przypadku których mamy na siebie wzajemnie pozytywny wpływ.
+Uważam że niemożliwa jest fundamentalna zmiana, natomiast nasze przekonania i nawyki mogą się zmieniać. Największy wpływ ma na nie nie nasze najbliższe otoczenie [[Otoczenie]] oraz aktywne działanie ([[Atomic Habits]])
 
 * **Najbliższe [[Otoczenie]]** - Zwracam uwagę na to z kim spędzam najwięcej czasu.
 * **Proaktywność** - Aktywnie utrzymuję kontakt z wybranymi osobami.
@@ -77,46 +68,29 @@ W sposób bardzo świadomy kształtuję swoje najbliższe otoczenie. Dbam o to a
 > Otaczaj się ludźmi, którzy osiągnęli to, co Ty chcesz osiągnąć i masz z nimi coś wspólnego.
 
 #### 🔗 Źródła:
-
-Rozmowa [[Naval Ravikant]] ze swoim mentorem \([[Kapil Gupta]]\)
-
-> "Istnieje sposób na to aby rozwiązać wszystkie swoje problemy bez potrzeby ruszenia palcem. Chodzi o ekspozycję." \(30:50\)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sBtuqpNZwio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Rozmowa Dr [[Andrew Huberman]]a w podcaście [[Rich Roll]]
-
-> "Nasz cały układ nerwowy zaprojektowany jest po to aby realizować jedną i tylko jedną rzecz: połączyć infromacje z otaczającego nasz świata z tymi pochodzącymi z naszego ciała. Inaczej mówiąc: jego rolą jest **dopasowanie** tego co na zewnątrz z tym co wewnątrz."
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SwQhKFMxmDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Prezentacja Marka Kaczmarzyka na TEDxBydgoszcz
-
-> "Skoro do naszego mózgu w każdej sekundzie dociera tak dużo informacji, to w jaki sposób wybierane są te, które są najbardziej istotne? Odpowiedź brzmi: **najważniejszą informacją dla naszego mózgu jest informacja o innym mózgu.**"
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ivLcmB_Gogc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [[Naval Ravikant#Naval Kapil Gupta]]
+- [[Andrew Huberman#Rich Roll]]
+- [Marek Kaczmarzyk na TEDxBydgoszcz](https://www.youtube.com/watch?v=ivLcmB_Gogc&feature=emb_title) - "Skoro do naszego mózgu w każdej sekundzie dociera tak dużo informacji, to w jaki sposób wybierane są te, które są najbardziej istotne? Odpowiedź brzmi: **najważniejszą informacją dla naszego mózgu jest informacja o innym mózgu.**"
 
 ### Rozwój
+Realizowanie i rozwijanie mojego [[Proces]]u jest dla mnie priorytetem. Niemal w 100% opieram go o źródła anglojęzyczne.
 
-Znaczna większość mojej uwagi oraz czasu, wypełnione są aktywnościami wspierającymi rozwój. Bardzo poważnie podchodzę do budowania swojego procesu na zdobywanie wiedzy oraz wiarygodnych źródeł.
-
-95% moich źródeł wiedzy jest anglojęzyczna.
-
-* **Modele mentalne** \([Modele](📚%20wiedza/💡%20Modele%20Mentalne/README.md)) - wspierają mój [[Proces]] myślowy.
-* **Czytanie książek** \([Książki](README.md)) - są najlepszym nauczycielem.
-* **Słuchanie podcastów** - pozwalają "spędzać czas" z ludźmi z którymi jeszcze nie mam okazji robić to osobiście.
-* **Specjalizacja & Generalizacja** - nie posiadam żadnej specjalizacji. Uczę się wszystkiego o wszystkim.
+- [[Modele mentalne]]
+- [[🎖️ Książki]]
+- [[🎖️ Podcast]]
+- Specjalizacja i Generalizacja - nie posiadam żadnej specjalizacji. Uczę się wszystkiego o wszystkim ([[Range]] & [[T-Shape Leader]])
 
 ### Dźwignia [[leverage]]
 
 > Dajcie mi punkt podparcia, a poruszę ziemię. ~ Archimedes
 
-Koncepcja dźwigni ([[leverage]]) jest jedną z najważniejszych jakie znam. Sprawia że jestem w stanie zamieniać jedną moją godzinę w sto, a raz wykonana praca przynosi mi efekty przez lata.
+Koncepcja dźwigni ([[leverage]]) jest jedną z najważniejszych jakie znam. Dzięki niej raz wykonana praca daje mi efekty przez lata.
 
-* **Mój czas nie jest na sprzedaż [[principles]]** - w połowie 2020 podjąłem decyzję o tym, że nie sprzedaję swojego czasu. Poświęcam go w całości na tworzenie produktów oraz aktywności, które działają na skali oraz pomagają innym przez długi czas.
-* **Zwielokrotnianie efektów [[leverage]]** - podejmując jakieś działanie zadaję sobie pytanie "co zrobić aby przyniosło mi zwielokrotniony efekt". Inaczej mówiąc "jak z jednej mojej godziny zrobić 100?"
-* **Optymalizacja** - zwracam uwagę na drobne szczegóły, eliminując je lub optymalizując do granic możliwości \(albo rozsądku\).
-* **Automatyzacja** - znaczna częśćc moich aktywności oparta jest o automatyzacje, które wspierają moje działania lub realizują je całkowicie za mnie.
+- Mój czas nie jest na sprzedaż ([[Principles]]) - od Q2 2020 podjąłem decyzję o tym, że nie będę sprzedawał swojego czasu. 
+- Podejmuje działania wykorzystujące skalę oraz pomagające innym przez długi czas.
+- Podejmując działania zadje sobie pytanie "jak z mojej jednej godziny zrobić 100?" [[Leverage]]
+- [[🎖️ Optymalizacja]] - zwracam uwagę na drobne szczegóły. Eliminuję je lub optymalizuję do granic możliwości (albo rozsądku).
+- [[🎖️ Automatyzacja]] - automatyzuje wiele obszarów mojej aktywności. Posiadam armię robotów, która pracuje dla mnie dzień i noc. 
 
 > Najbardziej interesującą i najważniejszą formą dźwigni jest idea produktu z minimalnym kosztem replikacji. ~ [[Naval Ravikant]]
 
