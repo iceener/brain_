@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/🎲 Biznes/Marketing.md",
-            "mode": "source"
+            "file": "➿ proces/💫 Proces.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/🎲 Biznes/Marketing.md",
+                "file": "➿ proces/💫 Proces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/🎲 Biznes/Marketing.md"
+                "file": "➿ proces/💫 Proces.md"
               }
             }
           }
@@ -101,20 +102,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "e4fe932efcc09c4a",
   "lastOpenFiles": [
-    "📚 Wiedza/🎲 Biznes/Marketing.md",
-    "📚 Wiedza/🎲 Biznes/Untitled.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Keyboard Maestro.md",
-    "🦾 Optymalizacja/🤖 Automatyzacja/Narzędzia.md",
-    "🦾 Optymalizacja/🤖 Automatyzacja/Mikroserwisy.md",
-    "🦾 Optymalizacja/🤖 Automatyzacja/Scenariusze.md",
-    "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
-    "🦾 Optymalizacja/🤖 Automatyzacja/Automatyzacja.md",
+    "➿ proces/💫 Proces.md",
     "🏗️ Projekty/zautomatyzowani.md",
-    "Craftsman Mindset.md"
+    "Dziennik.md",
+    "Nuda.md",
+    "📚 Wiedza/👽 Ludzie/Andrew Huberman.md",
+    "📚 Wiedza/👽 Ludzie/Dan Millman.md",
+    "➿ proces/💛 Poznawanie siebie.md",
+    "📚 Wiedza/📑 Słownik/Proces.md",
+    "📚 Wiedza/🎲 Biznes/Marketing.md",
+    "📚 Wiedza/🎲 Biznes/Untitled.md"
   ]
 }

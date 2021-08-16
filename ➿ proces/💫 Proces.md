@@ -1,28 +1,27 @@
-Istnieje wiele sposobów na realizację celów oraz szeroko rozumianą skuteczność w działaniu. Jakiś czas temu odkryłem że opieranie się o "sprawdzone techniki", jakie można znaleźć w Internecie i książkach nie jest dla mnie skuteczne. Ma to proste uzasadnienie: **każdy z nas jest inny.** Z tego powodu tworzę swój własny [[Proces]], który dostosowany jest wyłącznie do mnie i prawdopodobnie **nie zadziała u Ciebie.** W praktyce jednak z całą pewnością znajdziesz tutaj wiele inspiracji oraz źródeł, które pomogą Ci zbudować własny [[Proces]].
+Działam w oparciu o autorski [[Proces]] zaprojektowany z myślą o mnie. Nieustannie go kwestionuję, modyfikuję oraz ulepszam. Prawdopodobnie **nie zadziała u Ciebie.** Z pewnością znajdziesz tutaj jednak wiele inspiracji oraz źródeł, które pomogą Ci zbudować swój własny. 
 
 > Wszyscy nieustannie mówią Ci co jest dla Ciebie dobre. Nie chcą abyś szukał własnych odpowiedzi. Chcą abyś uwierzył w ich. ~ [[Dan Millman]]
 
-
 ## Kontekst
 
-Na każdym kroku możemy spotkać się z opinią, że wyznaczanie celów jest **niezbędne do osiągania rezultatów.** Inni mówią że praca w oparciu o cele nie jest skuteczna i lepiej działać w oparciu o [[Proces]].
+Powszechnie przyjęło się, że wyznaczenie [[Cel]]u jest **niezbędne do osiągnięcia rezultatów.** Inni mówią, że lepiej pracować w oparciu o [[Proces]]
 
-Nie zgadzam się ani z jednym ani drugim \(odnosząc się do mojego kontekstu\)
+Sam działam w oparciu o [[Cel]] ORAZ [[Proces]] (koncepcja [[Genius of The AND]] od [[Jim Collins]]).
 
 ### Cele
 
-Wyznaczając [[Cel]]e doskonale wiemy dokąd zmierzamy \([SMART](https://www.mindtools.com/pages/article/smart-goals.htm)\). Korzystając z narzędzi takich jak wizualizacja, łatwo możemy wyobrazić sobie siebie z czasu w którym osiągnęliśmy cel. To pozwala budować odpowiednie postawy \(np. entuzjazm\) dzięki którym dążymy do określonego przez nas punktu.
+Dobrze wyznaczony [[Cel]] określa miejsca i czas realizacji (\([SMART](https://www.mindtools.com/pages/article/smart-goals.htm)\)). W połączeniu z wizualizacją zrealizowanego celu, kształtujemy odpowiednie postawy (np. entuzjazm).
 
-W przypadku gdy cel jest za duży, wystarczy podzielić go na mniejsze i w ten sposób zmniejszyć "opór" \ ([[War of Art]]) a ich realizacja da nam korzyści płynące z wykorzystania dopaminy \(więcej w [[Andrew Huberman]] Lab Podcast \#12 [https://www.youtube.com/watch?v=vA50EK70whE](https://www.youtube.com/watch?v=vA50EK70whE)
+W przypadku dużego celu, wystarczy podzielić go na mniejsze aby zmniejszyć "opór" ([[War of Art]]). Realizacja mniejszych celów nadaje [[Momentum]] poprzez m.in. wykorzystanie dopaminy o której więcej mówi [[Andrew Huberman#Motywacja Drive]]
 
-**Problem w tym, że wyznaczanie celów, szczególnie długoterminowych ma kilka wad:**
+**W praktyce cele mają wady:** 
+- budują [[Oczekiwania]], które mogą nie zgodzić się z [[Rzeczywistość]]
+- nigdy nie wiemy czy naprawdę tego chcemy
+- nigdy nie wiemy co tak naprawdę otrzymamy [[Dan Millman#Oczekiwania wobec celu]]
+- realizacja dużego celu daje efekt **"no dobra, ale co teraz?!"**
+- zrezygnowanie z celu lub modyfikacja nie jest łatwa (np. ze względu na [[Commitment and Consistency Bias]] i/lub [[Status Quo Bias]]
 
-* Buduje [[Oczekiwania]], które mogą okazać się niezgodne z rzeczywistością
-* Od wyznaczenia celu do jego realizacji upływa czas i może okazać się, że wyznaczony przez nas cel, nie jest już tym czego chcemy \([przykład z filmu Siła Spokoju](https://youtu.be/wdKzBrzl_i8?t=42) - po wejściu na górę Dan odkrywa że wchodził na nią godzinami po to aby zobaczyć kamień. A jego oczekiwania były inne. Był rozczarowany\).
-* Nawet realizacja celu i osiągnięcie efektu zgodnego z oczekiwaniami, może doprowadzić nas w złe miejsce. Nazywam to efektem **"no dobra, ale co teraz?"**
-* Zrezygnowanie z celu lub jego modyfikacja często nie jest łatwa chociażby ze względu na skłonność do utrzymania zobowiązań \([Commitment and Consistency Bias](https://www.notion.so/Commitment-and-Consistency-Bias-cc02777a6559462a9848a62053e7ea03)\) czy tendencja do zachowania Statusu Quo \([Status Quo Bias](https://www.notion.so/Status-Quo-Bias-2396af95038a4be7917c1982fbd78e6b)\)
-
-Między innymi powyższe powody doprowadziły mnie do tego aby zrezygnować z wyznaczania celów \([stosowałem OKRy](https://produktywni.pl/blog/okr-technika-stawiania-celow/)\) na rzecz opracowania procesu, który prowadzi mnie w ustalonym przeze mnie kierunku.
+Między innymi z powyższych powodów, stosuję cele w pojedynczych przypadkach. Wcześniej stosowałem system [[OKR]]. Dziś głównie działam w oparciu o [[Proces]] i [[Kierunek]]
 
 ### Kierunek vs. Cel
 - [[Cel]] posiada datę realizacji i warunki jego spełnienia. [[Kierunek]] nie.
@@ -41,21 +40,22 @@ Działam w oparciu o nieustannie optymalizowany [[Proces]] uwzględniający:
 ## Mój [[Proces]]
 
 ### Fundamenty
+Fundamentem jest dla mnie zdrowie (fizyczne i psychiczne) oraz sen. 
 
-Fundamenty dotyczą mojego ogólnego zdrowia i samopoczucia. W ich skład wchodzą:
-
-* **Regularny sen** - Polecam Master Your Sleep - [[Huberman Lab]] [Podcast \#2](https://www.youtube.com/watch?v=nm1TxQj9IsQ). Nie stosuję żadnych dodatkowych wspomagaczy ani narzędzi monitorujących. Pilnuję tego aby przed snem nie oglądać ekranów.
-* **Dieta** - regularne pory jedzenia + witaminy D, K, Omega 3 i magnez + raz na kwartał 30 dni pyłku pszczelego do śniadania rozcieńczanego przez noc w przegotowanej, rozcieńczonej wodzie.
-* **Sport** \(3x w [tygodniu trening](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine) oraz codziennie rozciąganie z [[[Romwod]]](https://[[Romwod]].com/)\)
-* **Ćwiczenia oddechowe** z [aplikacją Oak](https://www.oakmeditation.com/) \(polecam również [[Huberman Lab]] [https://www.youtube.com/watch?v=rBdhqBGqiMc](https://www.youtube.com/watch?v=rBdhqBGqiMc) na ten temat\)
-* **[[Medytacja]]** ~20-30 minut dziennie z aplikacją [Headspace](https://www.headspace.com/) lub [Waking Up](https://wakingup.com/)
-* **[[Nuda]]** - kluczowy element pozostawania kreatywnym, szczególnie w [połączeniu z chodzeniem](https://thriveglobal.com/stories/three-ways-to-reset-your-stress-in-any-situation/).
+- **Regularny sen** - [[Andrew Huberman#Master Your Sleep]]. Nie stosuję dodatkowych wspomagaczy. Unikam ekranów przed snem. 
+- **Dieta** - regularne pory jedzenia + witaminy D, K, Omega 3 i magnez. Raz na kwartał 30 dni pyłku pszczelego rozcieńczonego przez noc w przegotowanej, ostudzonej wodzie (⚠️ UWAGA: pyłek pszczeli jest silnym alergenem.)
+- **Sport** - [3x w tygodniu](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine) + codzienne rozciąganie z [[Romwod]]
+- Ćwiczenia oddechowe z [[Oak]] & wskazówki [[Andrew Huberman#Oddychanie]]
+- [[Medytacja]] ~20-30 minut dziennie z [[Headspace]] i/lub [[Waking Up]]
+- [[Nuda]] - kluczowy element pozostawania kreatywnym
 
 ### Poznawanie siebie
-
 Poznawanie siebie to najważniejszy po fundamentach element mojego procesu.
 
-* **Prowadzenie dziennika** - [[Dziennik]] prowadzę na [[iPad]]zie w aplikacji [[Notability]]. Piszę codziennie ale nie mam ustalonej pory, struktury oraz wymagań dotyczących ilości. Często poza pisaniem również czytam strony zapisane miesiące lub lata temu.
+- **Prowadzenie dziennika** - [[Dziennik]] prowadzę na [[iPad]]zie w [[Notability]]
+- 
+
+* **Prowadzenie dziennika** - [[Dziennik]] prowadzę na [[iPad]]zie w aplikacji [[Notability]]. 
 * **Testy osobowości** - Mowa tutaj o [[StrenghtsFinder]] [https://www.gallup.com/cliftonstrengths/en/252137/home.aspx](https://www.gallup.com/cliftonstrengths/en/252137/home.aspx), [[MBTI]] [https://www.16personalities.com/)](https://www.16personalities.com/), [Principles You](http://principlesyou.com/), [The Big Five](https://www.understandmyself.com/personality-assessment). Poza wykonaniem tych testów, dużo uwagi poświęcam na eksplorację rezultatów oraz przekładanie ich na aktywności, które stanowią nieodłączoną część mojej codzienności.
   * Mój profil [[MBTI]]: [INFJ](https://www.16personalities.com/infj-personality)
   * Moje TOP5 [[Gallup]]a: 1. Aktywator, 2. Uczenie się, 3. Osiąganie, 4. Skupienie, 5. Bliskość

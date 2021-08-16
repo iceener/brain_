@@ -1,6 +1,18 @@
 Neurobiolog z Uniwersytetu Stanford. Prowadzi podcast [Huberman Lab](https://hubermanlab.com/) w którym w bardzo przystępny sposób mówi o najnowszych odkryciach nauki, przekładając je na sugestie, które łatwo można wykorzystać w praktyce.
 
 Ta wiedza przydaje się przede wszystkim do tego aby:
+
+### Motywacja & Drive
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vA50EK70whE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Master Your Sleep
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nm1TxQj9IsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Oddychanie
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBdhqBGqiMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Źródła
 - [zarządzać swoją energią i emocjami](https://hubermanlab.com/the-science-of-emotions-relationships/)
 - [zwiększyć poziom skupienia](https://hubermanlab.com/how-to-focus-to-change-your-brain/)
 - [uczyć się szybciej](https://hubermanlab.com/using-failures-movement-and-balance-to-learn-faster/)
