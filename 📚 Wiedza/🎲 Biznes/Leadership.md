@@ -1,5 +1,5 @@
 ## Książki
 - [[Leaders Eat Last]]
-- [[Infinite Games]]
+- [[The Infinite Game]]
 - [[Extreme Ownership]]
 - [[Dichotomy of Leadership]]

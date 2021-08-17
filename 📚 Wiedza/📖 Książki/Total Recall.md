@@ -1,6 +1,6 @@
 Bez wątpienia jedna z najlepszych biografii jakie do tej pory czytałem.
 
-Możliwość przejścia przez większość życia Arnolda to seria lekcji m.in. o tym że:
+## Lekcje
 - [[Dyscyplina]] jest fundamentalnie ważna...
 - ...aby realizować małe kroki każdego dnia... ([[The Compound Effect]])
 - ...które prowadzą nas w kierunku jasno określonej wizji... ([[Proces]] & [[Kierunek]])

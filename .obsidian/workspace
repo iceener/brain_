@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mikro",
+                "query": "monad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,15 +101,15 @@
   },
   "active": "e4fe932efcc09c4a",
   "lastOpenFiles": [
-    "➿ proces/💫 Proces.md",
-    "Optymalizacja.md",
-    "🎖️ Podcast.md",
-    "📚 Wiedza/👽 Ludzie/Andrew Huberman.md",
-    "Naval Ravikant.md",
-    "📚 Wiedza/🎙 Podcasty/Huberman Lab.md",
-    "➿ proces/📓 Dziennik.md",
     "➿ proces/💛 Poznawanie siebie.md",
-    "Dziennik.md",
-    "🏗️ Projekty/zautomatyzowani.md"
+    "📚 Wiedza/🎲 Biznes/Biznes.md",
+    "📚 Wiedza/👽 Ludzie/Andrew Huberman.md",
+    "📚 Wiedza/👽 Ludzie/Charlie Munger.md",
+    "📚 Wiedza/👽 Ludzie/Adam Wathan.md",
+    "🏗️ Projekty/overment.md",
+    "📚 Wiedza/💻 Programowanie/git/🎖️ git.md",
+    "📚 Wiedza/💻 Programowanie/git/Cofanie zmian w git.md",
+    "📚 Wiedza/💻 Programowanie/git/🎁 git.md",
+    "📚 Wiedza/💻 Programowanie/git/git.md"
   ]
 }

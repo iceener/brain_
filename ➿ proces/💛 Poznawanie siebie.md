@@ -1,6 +1,4 @@
 ## Kontekst
-[[💫 Proces#Poznawanie siebie]].
-
 > ⚠️ Testy osobowości to narzędzia. Niczego nie defininują, tylko wskazują przydatne elementy. 
 
 > Wykonanie testu niewiele daje. Skuteczność osiągnąłem dopiero po eksploracji załączonych materiałów oraz czytaniu książek na ich temat. 

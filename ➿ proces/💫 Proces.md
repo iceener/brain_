@@ -48,6 +48,7 @@ Fundamentem jest dla mnie zdrowie (fizyczne i psychiczne) oraz sen.
 - Ćwiczenia oddechowe z [[Oak]] & wskazówki [[Andrew Huberman#Oddychanie]]
 - [[Medytacja]] ~20-30 minut dziennie z [[Headspace]] i/lub [[Waking Up]]
 - [[Nuda]] - kluczowy element pozostawania kreatywnym
+- Ćwiczę umiejętność skupienia na podstawie [[Deep Work]] i często słucham [[Endel.io]]
 
 ### Poznawanie siebie
 Poznawanie siebie to najważniejszy po fundamentach element mojego procesu.

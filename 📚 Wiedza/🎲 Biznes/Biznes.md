@@ -8,4 +8,4 @@
 - [[Shape Up]]
 - [[Principles]]
 - [[Good to Great]]
-- [[Infinite Games]]
+- [[The Infinite Game]]

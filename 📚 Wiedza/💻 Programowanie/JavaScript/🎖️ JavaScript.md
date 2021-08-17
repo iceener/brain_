@@ -16,4 +16,25 @@ Seria filmów o programowaniu funkcyjnym w JavaScript
 
 ### Agenda
 - [[Higher-Order Function]]
+- [[Pure Functions]]
+- [[Function Composition]]
+- [[Currying]]
+- [[Shared State]]
+- [[Composition over Inheritance]]
+- [[Factory Functions]]
+- [[Funktory]]
+- [[Monady]]
 
+## Promise
+Seria filmów o Promise w JavaScript
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjHmWifVUNMLOfSdeSSEGgSXebPXL7Z3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Agenda
+- [[Promise]]
+- [[Promise Constructor]]
+- [[Promise Chaining]]
+- [[Promise API]]
+- [[Async Await]]
+- [[Generatory]]
+- [[Pętle Async Await]]

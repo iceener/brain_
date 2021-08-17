@@ -12,5 +12,6 @@
   "word-count",
   "open-with-default-app",
   "file-recovery",
-  "publish"
+  "publish",
+  "sync"
 ]

@@ -1,4 +1,5 @@
 ## Timer
 
-## Tworzenie zrzutów ekranu z carbon.now.sh
+## Carbon.now.sh
 
+## Generowanie grafik

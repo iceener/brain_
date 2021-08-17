@@ -17,4 +17,4 @@ Warto dodać że na podstawie tej książki powstał świetny film "Siła Spokoj
 
 ## Akcje
 - Zrezygnowałem z wyznaczania [[Cel]]ów na rzecz realizacji [[Proces]]u, który przybliża mnie do wyznaczonego [[Kierunek]]
-- W połączeniu z [[Infinite Games]] oraz [[The Compound Effect]] zmieniłem swoje nastawienie na długoterminowe. Dokładając do tego [[Dyscyplina]] z [[Extreme Ownership]] sprawiłem, że upływający czas stał się moim największym przyjacielem.
+- W połączeniu z [[The Infinite Game]] oraz [[The Compound Effect]] zmieniłem swoje nastawienie na długoterminowe. Dokładając do tego [[Dyscyplina]] z [[Extreme Ownership]] sprawiłem, że upływający czas stał się moim największym przyjacielem.

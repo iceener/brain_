@@ -2,3 +2,12 @@
 
 **Zobacz również:** 
 - [[Lexical Scope]]
+
+Pure Functions
+Function Composition
+Currying
+Shared State
+Composition over Inheritance
+Factory Functions
+Funktory
+Monady
