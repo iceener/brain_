@@ -33,3 +33,4 @@
 - [[Headspace]]
 - [[AirBuddy]]
 - [[TabNine]]
+- [[Hazel]]

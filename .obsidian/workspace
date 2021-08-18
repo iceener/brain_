@@ -7,8 +7,11 @@
         "id": "e4fe932efcc09c4a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📚 Wiedza/📖 Książki/The Mom Test.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📚 Wiedza/📖 Książki/The Mom Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📚 Wiedza/📖 Książki/The Mom Test.md"
+              }
             }
           }
         ]
@@ -101,15 +107,15 @@
   },
   "active": "e4fe932efcc09c4a",
   "lastOpenFiles": [
+    "📚 Wiedza/📖 Książki/The Mom Test.md",
+    "📚 Wiedza/📖 Książki/Black Box Thinking.md",
+    "📚 Wiedza/📖 Książki/🎖️ Książki.md",
+    "📚 Wiedza/📖 Książki/Jabi.md",
+    "➿ proces/💫 Proces.md",
     "➿ proces/💛 Poznawanie siebie.md",
-    "📚 Wiedza/🎲 Biznes/Biznes.md",
-    "📚 Wiedza/👽 Ludzie/Andrew Huberman.md",
-    "📚 Wiedza/👽 Ludzie/Charlie Munger.md",
-    "📚 Wiedza/👽 Ludzie/Adam Wathan.md",
-    "🏗️ Projekty/overment.md",
     "📚 Wiedza/💻 Programowanie/git/🎖️ git.md",
-    "📚 Wiedza/💻 Programowanie/git/Cofanie zmian w git.md",
-    "📚 Wiedza/💻 Programowanie/git/🎁 git.md",
-    "📚 Wiedza/💻 Programowanie/git/git.md"
+    "🦾 Optymalizacja/🛠️ Narzędzia/Airtable.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Hazel.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Integromat.md"
   ]
 }
