@@ -90,7 +90,7 @@ Koncepcja dźwigni ([[leverage]]) jest jedną z najważniejszych jakie znam. Dzi
 - Mój czas nie jest na sprzedaż ([[Principles]]) - od Q2 2020 podjąłem decyzję o tym, że nie będę sprzedawał swojego czasu. 
 - Podejmuję działania wykorzystujące skalę oraz pomagające innym przez długi czas.
 - Podejmując działania zadaję sobie pytanie "jak z mojej jednej godziny zrobić 100?" [[Leverage]]
-- [[🎖️ Optymalizacja]] - zwracam uwagę na drobne szczegóły. Eliminuję je lub optymalizuję do granic możliwości (albo rozsądku).
+- [[🎖️ Optymalizacja]] - zwracam uwagę na drobne szczegóły. Eliminuję je lub optymalizuję (np. przez upraszczanie) do granic możliwości (albo rozsądku).
 - [[🎖️ Automatyzacja]] - automatyzuję wiele obszarów mojej aktywności. Posiadam armię robotów, która pracuje dla mnie dzień i noc. 
 
 > Najbardziej interesującą i najważniejszą formą dźwigni jest idea produktu z minimalnym kosztem replikacji. ~ [[Naval Ravikant]]

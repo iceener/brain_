@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4fe932efcc09c4a",
+        "id": "0ff656a1abf76d05",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "📚 Wiedza/📖 Książki/The Mom Test.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -52,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/📖 Książki/The Mom Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "📚 Wiedza/📖 Książki/The Mom Test.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -105,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e4fe932efcc09c4a",
+  "active": "0ff656a1abf76d05",
   "lastOpenFiles": [
-    "📚 Wiedza/📖 Książki/The Mom Test.md",
-    "📚 Wiedza/📖 Książki/Black Box Thinking.md",
-    "📚 Wiedza/📖 Książki/🎖️ Książki.md",
-    "📚 Wiedza/📖 Książki/Jabi.md",
-    "➿ proces/💫 Proces.md",
-    "➿ proces/💛 Poznawanie siebie.md",
-    "📚 Wiedza/💻 Programowanie/git/🎖️ git.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Airtable.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Hazel.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Integromat.md"
+    "📚 Wiedza/👽 Ludzie/Andrew Huberman.md",
+    "📚 Wiedza/👽 Ludzie/Charlie Munger.md",
+    "📚 Wiedza/👽 Ludzie/Adam Wathan.md",
+    "📚 Wiedza/👽 Ludzie/Warren Buffet.md",
+    "📚 Wiedza/👽 Ludzie/Naval Ravikant.md",
+    "📚 Wiedza/👽 Ludzie/Lex Fridman.md",
+    "📚 Wiedza/👽 Ludzie/Kapil Gupta.md",
+    "📚 Wiedza/👽 Ludzie/Jim Collins.md",
+    "📚 Wiedza/👽 Ludzie/Dan Millman.md",
+    "📚 Wiedza/🎙 Podcasty/Bruce Lee Podcast.md"
   ]
 }

@@ -1,6 +1,6 @@
 Neurobiolog z Uniwersytetu Stanford. Prowadzi podcast [Huberman Lab](https://hubermanlab.com/) w którym w bardzo przystępny sposób mówi o najnowszych odkryciach nauki, przekładając je na sugestie, które łatwo można wykorzystać w praktyce.
 
-Ta wiedza przydaje się przede wszystkim do tego aby:
+Ta wiedza przydaje się przede wszystkim do tego aby: 🚧
 
 ### Motywacja & Drive
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vA50EK70whE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
