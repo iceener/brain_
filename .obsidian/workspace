@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "📚 Wiedza/💻 Programowanie/JavaScript/Promise/Promise.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "📚 Wiedza/💻 Programowanie/JavaScript/Promise/Promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "📚 Wiedza/💻 Programowanie/JavaScript/Promise/Promise.md"
               }
             }
           }
@@ -106,15 +106,15 @@
   },
   "active": "0ff656a1abf76d05",
   "lastOpenFiles": [
+    "📚 Wiedza/💻 Programowanie/JavaScript/Promise/Promise.md",
+    "📚 Wiedza/💻 Programowanie/JavaScript/Zakres/Scope.md",
+    "README.md",
     "README.md.md",
     "✨ Co to za miejsce?.md",
     "Untitled 1.md",
     "📚 Wiedza/👽 Ludzie/Andrew Huberman.md",
     "📚 Wiedza/👽 Ludzie/Charlie Munger.md",
     "📚 Wiedza/👽 Ludzie/Adam Wathan.md",
-    "📚 Wiedza/👽 Ludzie/Warren Buffet.md",
-    "📚 Wiedza/👽 Ludzie/Naval Ravikant.md",
-    "📚 Wiedza/👽 Ludzie/Lex Fridman.md",
-    "📚 Wiedza/👽 Ludzie/Kapil Gupta.md"
+    "📚 Wiedza/👽 Ludzie/Warren Buffet.md"
   ]
 }
