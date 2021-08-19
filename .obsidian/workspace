@@ -7,8 +7,11 @@
         "id": "0ff656a1abf76d05",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md.md"
+              }
             }
           }
         ]
@@ -100,15 +107,15 @@
   },
   "active": "0ff656a1abf76d05",
   "lastOpenFiles": [
+    "README.md.md",
+    "✨ Co to za miejsce?.md",
+    "Untitled 1.md",
     "📚 Wiedza/👽 Ludzie/Andrew Huberman.md",
     "📚 Wiedza/👽 Ludzie/Charlie Munger.md",
     "📚 Wiedza/👽 Ludzie/Adam Wathan.md",
     "📚 Wiedza/👽 Ludzie/Warren Buffet.md",
     "📚 Wiedza/👽 Ludzie/Naval Ravikant.md",
     "📚 Wiedza/👽 Ludzie/Lex Fridman.md",
-    "📚 Wiedza/👽 Ludzie/Kapil Gupta.md",
-    "📚 Wiedza/👽 Ludzie/Jim Collins.md",
-    "📚 Wiedza/👽 Ludzie/Dan Millman.md",
-    "📚 Wiedza/🎙 Podcasty/Bruce Lee Podcast.md"
+    "📚 Wiedza/👽 Ludzie/Kapil Gupta.md"
   ]
 }
