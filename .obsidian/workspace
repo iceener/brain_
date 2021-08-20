@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "➿ proces/💛 Poznawanie siebie.md",
+            "file": "📚 Wiedza/📖 Książki/🎖️ Książki.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "➿ proces/💛 Poznawanie siebie.md",
+                "file": "📚 Wiedza/📖 Książki/🎖️ Książki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "➿ proces/💛 Poznawanie siebie.md"
+                "file": "📚 Wiedza/📖 Książki/🎖️ Książki.md"
               }
             }
           }
@@ -107,15 +106,15 @@
   },
   "active": "cde5109abc3e166d",
   "lastOpenFiles": [
+    "📚 Wiedza/📖 Książki/🎖️ Książki.md",
+    "📚 Wiedza/📖 Książki/The Beginning of Infinity.md",
+    "📚 Wiedza/📖 Książki/dd.md",
+    "📚 Wiedza/📖 Książki/12 Rules for Life.md",
+    "📚 Wiedza/🎙 Podcasty/Huberman Lab.md",
+    "📚 Wiedza/👽 Ludzie/Andrew Huberman.md",
     "➿ proces/💛 Poznawanie siebie.md",
     "🦾 Optymalizacja/🛠️ Narzędzia/Keyboard Maestro.md",
     "🏗️ Projekty/eduweb.md",
-    "📚 Wiedza/🎙 Podcasty/Huberman Lab.md",
-    "📚 Wiedza/🎙 Podcasty/Bruce Lee Podcast.md",
-    "🏗️ Projekty/EasyCart.md",
-    "🏗️ Projekty/Ahoy!.md",
-    "🏗️ Projekty/overment.md",
-    "🏗️ Projekty/zautomatyzowani.md",
-    "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md"
+    "📚 Wiedza/🎙 Podcasty/Bruce Lee Podcast.md"
   ]
 }
