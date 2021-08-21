@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/📖 Książki/🎖️ Książki.md",
+            "file": "📚 Wiedza/💡 Modele Mentalne/Ergodicity.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/📖 Książki/🎖️ Książki.md",
+                "file": "📚 Wiedza/💡 Modele Mentalne/Ergodicity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/📖 Książki/🎖️ Książki.md"
+                "file": "📚 Wiedza/💡 Modele Mentalne/Ergodicity.md"
               }
             }
           }
@@ -106,15 +107,15 @@
   },
   "active": "cde5109abc3e166d",
   "lastOpenFiles": [
+    "📚 Wiedza/💡 Modele Mentalne/Ergodicity.md",
+    "📚 Wiedza/💡 Modele Mentalne/Craftsman Mindset.md",
+    "📚 Wiedza/💡 Modele Mentalne/20 mile march.md",
+    "📚 Wiedza/💡 Modele Mentalne/Bullets and Cannonballs.md",
+    "📚 Wiedza/💡 Modele Mentalne/🎖️ Modele mentalne.md",
     "📚 Wiedza/📖 Książki/🎖️ Książki.md",
     "📚 Wiedza/📖 Książki/The Beginning of Infinity.md",
     "📚 Wiedza/📖 Książki/dd.md",
     "📚 Wiedza/📖 Książki/12 Rules for Life.md",
-    "📚 Wiedza/🎙 Podcasty/Huberman Lab.md",
-    "📚 Wiedza/👽 Ludzie/Andrew Huberman.md",
-    "➿ proces/💛 Poznawanie siebie.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Keyboard Maestro.md",
-    "🏗️ Projekty/eduweb.md",
-    "📚 Wiedza/🎙 Podcasty/Bruce Lee Podcast.md"
+    "📚 Wiedza/🎙 Podcasty/Huberman Lab.md"
   ]
 }
