@@ -21,7 +21,7 @@ W przypadku dużego celu, wystarczy podzielić go na mniejsze aby zmniejszyć "o
 - realizacja dużego celu daje efekt **"no dobra, ale co teraz?!"**
 - zrezygnowanie z celu lub modyfikacja nie jest łatwa (np. ze względu na [[Commitment and Consistency Bias]] i/lub [[Status Quo Bias]]
 
-Między innymi z powyższych powodów, stosuję cele w pojedynczych przypadkach. Wcześniej stosowałem system [[OKR]]. Dziś głównie działam w oparciu o [[Proces]] i [[Kierunek]]
+Między innymi z powyższych powodów, stosuję cele w pojedynczych przypadkach. Wcześniej stosowałem system [[OKR]]. Dziś głównie działam w oparciu o [[Proces]] i [[Kierunek]]. 
 
 ### Kierunek vs. Cel
 - [[Cel]] posiada datę realizacji i warunki jego spełnienia. [[Kierunek]] nie.
@@ -34,8 +34,15 @@ Działam w oparciu o nieustannie optymalizowany [[Proces]] uwzględniający:
 * Poznawanie siebie \(pisanie dziennika i czytanie go, StrengthsFinder, MBTI, Principles You\)
 * Otoczenie \(ludzie z którymi spędzam czas\)
 * Rozwój \(system zdobywania wiedzy, poznawanie modeli mentalnych, czytanie książek\)
-* Dźwignię \(moja godzina generuje zwielokrotniony efekt\)
+* Dźwignię ([[Leverage]]) \(moja godzina generuje zwielokrotniony efekt\)
 * Wolność \(nie sprzedaję mojego czasu, unikam planowanych aktywności\)
+
+> Discipline equals Freedom ~ [[Jocko Willink]]
+
+- W realizacji tego procesu najważniejsze jest dla mnie utrzymanie [[Dyscyplina]] o której wiele mówi [[Jocko Willink]] oraz [[Davida Goggins]]. 
+- Proces zawsze uwzględnia działanie długoterminowe w myśl [[The Infinite Game]]
+- W projektowaniu procesu zwracam uwagę na [[Ergodicity]] oraz siłę dźwigni ([[Leverage]]) i procentu składanego [[The Compound Effect]]
+- W moim nastawieniu na proces ogromną rolę odegrał [[Dan Millman]] i jego książka [[Way of The Peaceful Warrior]] oraz [[How to Fail at Almost Anything and Still Win Big]]
 
 ## Mój [[Proces]]
 

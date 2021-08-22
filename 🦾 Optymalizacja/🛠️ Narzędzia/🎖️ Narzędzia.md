@@ -34,3 +34,4 @@
 - [[AirBuddy]]
 - [[TabNine]]
 - [[Hazel]]
+- [[Reveri]]

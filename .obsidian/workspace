@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cde5109abc3e166d",
+        "id": "b83cb135828f2c96",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/💡 Modele Mentalne/Ergodicity.md",
+            "file": "🦾 Optymalizacja/🛠️ Narzędzia/Reveri.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "monad",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/💡 Modele Mentalne/Ergodicity.md",
+                "file": "🦾 Optymalizacja/🛠️ Narzędzia/Reveri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/💡 Modele Mentalne/Ergodicity.md"
+                "file": "🦾 Optymalizacja/🛠️ Narzędzia/Reveri.md"
               }
             }
           }
@@ -105,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cde5109abc3e166d",
+  "active": "b83cb135828f2c96",
   "lastOpenFiles": [
-    "📚 Wiedza/💡 Modele Mentalne/Ergodicity.md",
-    "➿ proces/💫 Proces.md",
-    "📚 Wiedza/💡 Modele Mentalne/Craftsman Mindset.md",
-    "📚 Wiedza/💡 Modele Mentalne/20 mile march.md",
-    "📚 Wiedza/💡 Modele Mentalne/Bullets and Cannonballs.md",
-    "📚 Wiedza/💡 Modele Mentalne/🎖️ Modele mentalne.md",
-    "📚 Wiedza/📖 Książki/🎖️ Książki.md",
-    "📚 Wiedza/📖 Książki/The Beginning of Infinity.md",
-    "📚 Wiedza/📖 Książki/dd.md",
-    "📚 Wiedza/📖 Książki/12 Rules for Life.md"
+    "🦾 Optymalizacja/🛠️ Narzędzia/Reveri.md",
+    "🦾 Optymalizacja/🖥️ Sprzęt/iPhone.md",
+    "Reveri.md",
+    "📚 Wiedza/💻 Programowanie/JavaScript/Programowanie funkcyjne/Composition over Inheritance.md",
+    "Priorytet.md",
+    "Genius of The AND.md",
+    "📚 Wiedza/📖 Książki/Alamanck of Naval Ravikant.md",
+    "📚 Wiedza/💡 Modele Mentalne/Leverage.md",
+    "📚 Wiedza/📖 Książki/12 Rules for Life.md",
+    "📚 Wiedza/📖 Książki/🎖️ Książki.md"
   ]
 }

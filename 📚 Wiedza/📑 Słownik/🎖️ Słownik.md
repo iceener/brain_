@@ -4,3 +4,4 @@
 - [[Otoczenie]]
 - [[Perspektywa]]
 - [[Indie Hackers]]
+- [[Balans]]

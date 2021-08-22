@@ -2,6 +2,36 @@
 
 Regularnie zdarza mi się wykorzystywać skrypty [[🎖️ JavaScript]] i [[Node.js]] do tworzenia pojedynczych akcji.
 
+## Makra
+
+**Funkcje systemowe**
+- Włączenie / wyłączenie DND
+- 
+
+**Pliki & Foldery**
+
+**Komunikatory**
+
+**E-maile**
+
+**Kalendarz**
+
+**Keyboard Maestro**
+
+**Pisanie**
+- text expander
+- markdown
+- szybkie odpowiedzi
+- emoji picker
+
+**Przeglądarka**
+
+**Muzyka**
+
+**Development**
+
+**Automatyzacje zewnętrzne**
+
 ## Pojedyncze akcje
 - Szybsza nawigacja w systemie (np. przełączanie aplikacji, czy uruchamianie funkcji)
 - Użyteczne powiadomienia (np. [[Pomodoro]] oraz przypomnienia o codziennych nawykach)

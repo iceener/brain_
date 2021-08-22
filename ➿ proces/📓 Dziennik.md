@@ -9,6 +9,7 @@ Oprócz pisania również czytam swój dziennik, co daje mi świetną [[Perspekt
 ## Zasady
 - Piszę praktycznie codziennie
 - Nie mam ustalonej pory ani struktury
+- Jestem ze sobą szczery w myśl Radykalnej Transparentności z książki [[Principles]] oraz [[That Will Never Work]]
 - Nie mam wymagań dotyczących ilości 
 - Piszę to, co w danej chwili mam w głowie
 - Czasem piszę w "trzeciej" osobie w celu zyskania dystansu do pisanych słów
