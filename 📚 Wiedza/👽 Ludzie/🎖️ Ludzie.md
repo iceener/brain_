@@ -10,3 +10,4 @@ Zależy mi na tym aby otaczali mnie ludzie, których obecność ma na mnie pozyt
 - [[Warren Buffet]]
 - [[Adam Wathan]]
 - [[Elon Musk]]
+- [[Ray Dalio]]
