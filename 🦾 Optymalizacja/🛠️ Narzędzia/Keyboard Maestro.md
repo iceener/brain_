@@ -6,7 +6,9 @@ Regularnie zdarza mi się wykorzystywać skrypty [[🎖️ JavaScript]] i [[Node
 
 **Funkcje systemowe**
 - Włączenie / wyłączenie DND
-- 
+- Usypianie
+- Restartowanie
+- Security & Privacy
 
 **Pliki & Foldery**
 
