@@ -12,3 +12,8 @@
 - [[Halo Effect]]
 - [[Hedgehog Concept]]
 - [[Ergodicity]]
+- [[Hindsight Bias]]
+- [[Survivorship Bias]]
+- [[Confirmation Bias]]
+- [[Falsification]]
+- [[The Map Is Not the Territory]]
