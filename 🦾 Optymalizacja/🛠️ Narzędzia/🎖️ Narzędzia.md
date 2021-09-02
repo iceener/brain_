@@ -35,3 +35,4 @@
 - [[TabNine]]
 - [[Hazel]]
 - [[Reveri]]
+- [[Yoink]]

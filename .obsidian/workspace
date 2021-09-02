@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b83cb135828f2c96",
+        "id": "478eafcffd1c2402",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
+            "file": "📚 Wiedza/💡 Modele Mentalne/Via Negativa.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "895ce665d774a0ec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "📚 Wiedza/📖 Książki/All I Want to Know is Where Im Going to Die So Ill Never Go There.md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
+                "file": "📚 Wiedza/💡 Modele Mentalne/Via Negativa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md"
+                "file": "📚 Wiedza/💡 Modele Mentalne/Via Negativa.md"
               }
             }
           }
@@ -104,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b83cb135828f2c96",
+  "active": "478eafcffd1c2402",
   "lastOpenFiles": [
-    "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
-    "📚 Wiedza/💡 Modele Mentalne/🎖️ Modele mentalne.md",
-    "📚 Wiedza/📖 Książki/🎖️ Książki.md",
-    "📚 Wiedza/📖 Książki/12 Rules for Life.md",
-    "📚 Wiedza/📖 Książki/Test2.md",
-    "📚 Wiedza/📖 Książki/Test.md",
-    "📚 Wiedza/💡 Modele Mentalne/The Map Is Not the Territory.md",
-    "📚 Wiedza/💡 Modele Mentalne/Falsification.md",
-    "📚 Wiedza/💡 Modele Mentalne/Confirmation Bias.md",
-    "📚 Wiedza/👽 Ludzie/Adam Wathan.md"
+    "📚 Wiedza/💡 Modele Mentalne/Via Negativa.md",
+    "📚 Wiedza/👽 Ludzie/Warren Buffet.md",
+    "📚 Wiedza/📖 Książki/All I Want to Know is Where Im Going to Die So Ill Never Go There.md",
+    "📚 Wiedza/👽 Ludzie/Ray Dalio.md",
+    "📚 Wiedza/👽 Ludzie/Naval Ravikant.md",
+    "📚 Wiedza/👽 Ludzie/Lex Fridman.md",
+    "📚 Wiedza/👽 Ludzie/Kapil Gupta.md",
+    "📚 Wiedza/👽 Ludzie/Jim Collins.md",
+    "📚 Wiedza/👽 Ludzie/Elon Musk.md",
+    "📚 Wiedza/👽 Ludzie/Bruce Lee.md"
   ]
 }

@@ -66,3 +66,5 @@
 - [[Atomic Habits]]
 - [[The Beginning of Infinity]]
 - [[That Will Never Work]]
+- [[Think Again]]
+- [[The Great Mental Models]]

@@ -39,10 +39,23 @@ Działam w oparciu o nieustannie optymalizowany [[Proces]] uwzględniający:
 
 > Discipline equals Freedom ~ [[Jocko Willink]]
 
-- W realizacji tego procesu najważniejsze jest dla mnie utrzymanie [[Dyscyplina]] o której wiele mówi [[Jocko Willink]] oraz [[Davida Goggins]]. 
-- Proces zawsze uwzględnia działanie długoterminowe w myśl [[The Infinite Game]]
+**Przy projektowaniu swojego procesu opieram się o:**
+
+- W realizacji tego procesu najważniejsze jest dla mnie utrzymanie [[Dyscyplina]] o której wiele mówi [[Jocko Willink]] oraz [[Davida Goggins]] w [[Cant Hurt Me]]. 
 - W projektowaniu procesu zwracam uwagę na [[Ergodicity]] oraz siłę dźwigni ([[Leverage]]) i procentu składanego [[The Compound Effect]]
 - W moim nastawieniu na proces ogromną rolę odegrał [[Dan Millman]] i jego książka [[Way of The Peaceful Warrior]] oraz [[How to Fail at Almost Anything and Still Win Big]]
+- Branie pełnej odpowiedzialności za to co robię ([[Extreme Ownership]]) i pełne zaangażowanie ([[Skin in the Game]])
+- Nieustanne kwestionowanie ([[Think Again]]) i upraszczanie ([[Simplify]] i [[Insanely Simple]] oraz [[Effortless]])
+- Działanie w oparciu o rzeczywistość ([[Principles]] i [[Getting Real]])
+- Dopuszczanie popełniania błędów ([[Black Box Thinking]] i [[Think Like a Rocket Scientist]])
+- Działanie w oparciu o nawyki ([[Atomic Habits]] i [[Deep Work]])
+- Wykorzystanie dźwigni ([[Leverage]] i [[The Compound Effect]])
+- Działanie długoterminowe ([[The Infinite Game]], [[Pound the Stone]], [[So Good They Can't Ignore You]] oraz [[How to Fail at Almost Anything and Still Win Big]])
+- Działanie w oparciu o intuicję ([[Blink]])
+- Działanie w oparciu o rzeczy które mnie wzmacniają ([[Antifragile]] i [[Fooled by Randomness]])
+- Nie poddawanie się ([[Grit]] oraz [[That Will Never Work]])
+- Uczenie się wszystkiego, o wszystkim ([[Way of The Peaceful Warrior]], [[Range]] i [[Rebel Ideas]])
+- Podejmowanie mądrych decyzji ([[All I Want to Know is Where Im Going to Die So Ill Never Go There]], [[The Great Mental Models]])
 
 ## Mój [[Proces]]
 

@@ -14,10 +14,11 @@ W celu eksploracji profilu przeczytałem m.in.:
 
 **Najważniejsze wnioski:**
 - INFJ to profil sprzeczności
-- Polegam niemal w całości na swojej intuicji
+- Polegam niemal w całości na swojej intuicji ([[Blink]])
 - Mam raczej ambiwertyczną naturę
 - Sam profil jest bardzo rzadki (1-3% ludzkości w tym 50% to mężczyźni)
 - Potrafię z łatwością czytać nawet subtelne emocje i uczucia
+- Jestem wysoko wrażliwy ([[Daring Greatly]] pomogła mi zrozumieć ten temat)
 
 ## StrenghtsFinder
 [[StrenghtsFinder]] inaczej test Gallupa. Jeden z najczęściej polecanych narzędzi do rozwoju. Opiera się o odkrywanie swoich naturalnych predyspozycji, które rozwijane mogą stać się mocnymi stronami. 

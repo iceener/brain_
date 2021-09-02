@@ -17,3 +17,4 @@
 - [[Confirmation Bias]]
 - [[Falsification]]
 - [[The Map Is Not the Territory]]
+- [[Via Negativa]]
