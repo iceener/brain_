@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/💡 Modele Mentalne/Via Negativa.md",
+            "file": "📚 Wiedza/👽 Ludzie/Adam Wathan.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/💡 Modele Mentalne/Via Negativa.md",
+                "file": "📚 Wiedza/👽 Ludzie/Adam Wathan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/💡 Modele Mentalne/Via Negativa.md"
+                "file": "📚 Wiedza/👽 Ludzie/Adam Wathan.md"
               }
             }
           }
@@ -117,6 +117,7 @@
   },
   "active": "478eafcffd1c2402",
   "lastOpenFiles": [
+    "📚 Wiedza/👽 Ludzie/Adam Wathan.md",
     "📚 Wiedza/💡 Modele Mentalne/Via Negativa.md",
     "📚 Wiedza/👽 Ludzie/Warren Buffet.md",
     "📚 Wiedza/📖 Książki/All I Want to Know is Where Im Going to Die So Ill Never Go There.md",
@@ -125,7 +126,6 @@
     "📚 Wiedza/👽 Ludzie/Lex Fridman.md",
     "📚 Wiedza/👽 Ludzie/Kapil Gupta.md",
     "📚 Wiedza/👽 Ludzie/Jim Collins.md",
-    "📚 Wiedza/👽 Ludzie/Elon Musk.md",
-    "📚 Wiedza/👽 Ludzie/Bruce Lee.md"
+    "📚 Wiedza/👽 Ludzie/Elon Musk.md"
   ]
 }
