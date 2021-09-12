@@ -7,8 +7,11 @@
         "id": "f0f0ae88c10ff6d5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "🏗️ Projekty/eduweb.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🏗️ Projekty/eduweb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🏗️ Projekty/eduweb.md"
+              }
             }
           }
         ]
@@ -100,6 +106,7 @@
   },
   "active": "f0f0ae88c10ff6d5",
   "lastOpenFiles": [
+    "🏗️ Projekty/eduweb.md",
     "➿ proces/💛 Poznawanie siebie.md",
     "📚 Wiedza/📖 Książki/StrenghtsFinder 2.md",
     "➿ proces/💫 Proces.md",
@@ -108,7 +115,6 @@
     "📚 Wiedza/💡 Modele Mentalne/Via Negativa.md",
     "📚 Wiedza/👽 Ludzie/Warren Buffet.md",
     "📚 Wiedza/📖 Książki/All I Want to Know is Where Im Going to Die So Ill Never Go There.md",
-    "📚 Wiedza/👽 Ludzie/Ray Dalio.md",
-    "📚 Wiedza/👽 Ludzie/Naval Ravikant.md"
+    "📚 Wiedza/👽 Ludzie/Ray Dalio.md"
   ]
 }
