@@ -7,11 +7,8 @@
         "id": "f0f0ae88c10ff6d5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "🏗️ Projekty/eduweb.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏗️ Projekty/eduweb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🏗️ Projekty/eduweb.md"
-              }
+              "state": {}
             }
           }
         ]
