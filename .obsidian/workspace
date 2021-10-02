@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f0f0ae88c10ff6d5",
+        "id": "f423ff85c8e920d5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📚 Wiedza/🎲 Biznes/Marketing.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📚 Wiedza/🎲 Biznes/Marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📚 Wiedza/🎲 Biznes/Marketing.md"
+              }
             }
           }
         ]
@@ -98,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f0f0ae88c10ff6d5",
+  "active": "f423ff85c8e920d5",
   "lastOpenFiles": [
-    "🏗️ Projekty/eduweb.md",
-    "➿ proces/💛 Poznawanie siebie.md",
-    "📚 Wiedza/📖 Książki/StrenghtsFinder 2.md",
-    "➿ proces/💫 Proces.md",
-    "📚 Wiedza/📑 Słownik/Proces.md",
-    "📚 Wiedza/👽 Ludzie/Adam Wathan.md",
-    "📚 Wiedza/💡 Modele Mentalne/Via Negativa.md",
-    "📚 Wiedza/👽 Ludzie/Warren Buffet.md",
-    "📚 Wiedza/📖 Książki/All I Want to Know is Where Im Going to Die So Ill Never Go There.md",
-    "📚 Wiedza/👽 Ludzie/Ray Dalio.md"
+    "📚 Wiedza/🎲 Biznes/Marketing.md",
+    "📚 Wiedza/🎲 Biznes/Produkt.md",
+    "📚 Wiedza/🎲 Biznes/Sprzedaż.md",
+    "📚 Wiedza/🎲 Biznes/Leadership.md",
+    "📚 Wiedza/🎲 Biznes/Biznes.md",
+    "📚 Wiedza/🎨 Projektowanie/Design System.md",
+    "📚 Wiedza/🎙 Podcasty/🎖️ Podcast.md",
+    "📚 Wiedza/🎙 Podcasty/Bruce Lee Podcast.md",
+    "📚 Wiedza/📖 Książki/Personal MBA.md",
+    "📚 Wiedza/📖 Książki/Pound the Stone.md"
   ]
 }
