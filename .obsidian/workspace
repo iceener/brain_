@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f423ff85c8e920d5",
+        "id": "25d55aea19606c4e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/🎲 Biznes/Marketing.md",
+            "file": "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/🎲 Biznes/Marketing.md",
+                "file": "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/🎲 Biznes/Marketing.md"
+                "file": "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md"
               }
             }
           }
@@ -104,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f423ff85c8e920d5",
+  "active": "25d55aea19606c4e",
   "lastOpenFiles": [
+    "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md",
+    "📚 Wiedza/💻 Programowanie/NestJS/Untitled.md",
+    "📚 Wiedza/💻 Programowanie/Untitled.md",
     "📚 Wiedza/🎲 Biznes/Marketing.md",
     "📚 Wiedza/🎲 Biznes/Produkt.md",
     "📚 Wiedza/🎲 Biznes/Sprzedaż.md",
     "📚 Wiedza/🎲 Biznes/Leadership.md",
     "📚 Wiedza/🎲 Biznes/Biznes.md",
     "📚 Wiedza/🎨 Projektowanie/Design System.md",
-    "📚 Wiedza/🎙 Podcasty/🎖️ Podcast.md",
-    "📚 Wiedza/🎙 Podcasty/Bruce Lee Podcast.md",
-    "📚 Wiedza/📖 Książki/Personal MBA.md",
-    "📚 Wiedza/📖 Książki/Pound the Stone.md"
+    "📚 Wiedza/🎙 Podcasty/🎖️ Podcast.md"
   ]
 }
