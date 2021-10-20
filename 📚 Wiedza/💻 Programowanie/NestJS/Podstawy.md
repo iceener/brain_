@@ -100,6 +100,8 @@ Z pomocą CLI `nest g module` tworzymy nowy moduł aplikacji oraz aktualizujemy 
 ## [[Data Transfer Objects]]
 DTO pozwalają na określenie interfejsów dla danych wejściowych i wyjściowych w aplikacji. Np. z ich pomocą możemy określić kształt wymaganego obiektu. 
 
+DTO to proste obiekty, których rolą jest po prostu określenie struktury danych. Nie zawierają żadnej logiki biznesowej ani czegokolwiek, co wymaga testowania.
+
 Przykład: 
 ```
 export class CreateUserDto {
@@ -111,3 +113,19 @@ export class CreateUserDto {
 
 ### Tworzenie DTO
 Z pomocą CLI `nest g class users/dto/create-user.dto --no-spec`generujemy plik `create-user.dto.ts` eksportujący klasę `CreateUserDto`
+## [[Validation]]
+
+- W pliku main.ts dodaj globalPipe: app.useGlobalPipes(new ValidationPipe())
+- Zainstaluj class-validator class-transformer
+
+import { IsString } from 'class-validator'
+
+```
+export class CreateUserDto {
+  @IsString()
+  readonly name: string;
+  
+  @IsString({ roles })
+  readonly roles: string[];
+}
+```
