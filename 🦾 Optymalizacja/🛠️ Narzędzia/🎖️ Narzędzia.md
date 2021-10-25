@@ -36,3 +36,4 @@
 - [[Hazel]]
 - [[Reveri]]
 - [[Yoink]]
+- [[Notion]]

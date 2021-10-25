@@ -69,3 +69,7 @@
 - [[Think Again]]
 - [[The Great Mental Models]]
 - [[StrenghtsFinder 2]]
+- [[Working Backwards]]
+- [[Mastery: The Keys to Success and Long-Term Fulfillment]]
+- [[The Underdog Paradox]]
+- [[The Fabric of Reality]]

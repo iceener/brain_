@@ -1,6 +1,6 @@
 Jedną z ważniejszych zalet czytania książek jest możliwość wyciągania wniosków z doświadczeń innych, często wybitnych ludzi. 
 
-Scott Adams w swojej książce opowiadając historię swojego życia. Po jej przeczytaniu usunąłem ze swojego życia wszystkie cele, w pełni skupiając się na [[Proces]], czyli małych krokach które realizuję codziennie. Każdy z nich wspiera dążenie w wyznaczonym przeze mnie [[Kierunek]].
+Scott Adams w swojej książce opowiadając historię swojego życia. Po jej przeczytaniu usunąłem ze swojego życia wszystkie cele, w pełni skupiając się na [[Proces]], czyli małych krokach które realizuję codziennie. Każdy z nich wspiera dążenie w wyznaczonym przeze mnie [[📚 Wiedza/📑 Słownik/Kierunek]].
 
 W przypadku celów Scott wskazuje na dwie wady: 
 - Są osadzone w przyszłości: żyjesz w [[Oczekiwania]] do czasu ich realizacji.

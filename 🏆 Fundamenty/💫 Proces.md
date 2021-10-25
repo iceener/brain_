@@ -21,10 +21,10 @@ W przypadku dużego celu, wystarczy podzielić go na mniejsze aby zmniejszyć "o
 - realizacja dużego celu daje efekt **"no dobra, ale co teraz?!"**
 - zrezygnowanie z celu lub modyfikacja nie jest łatwa (np. ze względu na [[Commitment and Consistency Bias]] i/lub [[Status Quo Bias]]
 
-Między innymi z powyższych powodów, stosuję cele w pojedynczych przypadkach. Wcześniej stosowałem system [[OKR]]. Dziś głównie działam w oparciu o [[Proces]] i [[Kierunek]]. 
+Między innymi z powyższych powodów, stosuję cele w pojedynczych przypadkach. Wcześniej stosowałem system [[OKR]]. Dziś głównie działam w oparciu o [[Proces]] i [[📚 Wiedza/📑 Słownik/Kierunek]]. 
 
 ### Kierunek vs. Cel
-- [[Cel]] posiada datę realizacji i warunki jego spełnienia. [[Kierunek]] nie.
+- [[Cel]] posiada datę realizacji i warunki jego spełnienia. [[📚 Wiedza/📑 Słownik/Kierunek]] nie.
 - Z definicji w kierunku można podążać ale nie da się do niego dojść.
 
 ### Proces

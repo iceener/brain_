@@ -21,7 +21,7 @@ W celu eksploracji profilu przeczytałem m.in.:
 - Jestem wysoko wrażliwy ([[Daring Greatly]] pomogła mi zrozumieć ten temat)
 
 ## StrenghtsFinder
-[[StrenghtsFinder]] inaczej test Gallupa. Jeden z najczęściej polecanych narzędzi do rozwoju. Opiera się o odkrywanie swoich naturalnych predyspozycji, które rozwijane mogą stać się mocnymi stronami. 
+[[StrenghtsFinder 1]] inaczej test Gallupa. Jeden z najczęściej polecanych narzędzi do rozwoju. Opiera się o odkrywanie swoich naturalnych predyspozycji, które rozwijane mogą stać się mocnymi stronami. 
 
 Mój wynik:
 

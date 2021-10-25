@@ -16,5 +16,5 @@ Warto dodać że na podstawie tej książki powstał świetny film "Siła Spokoj
 - Dźwignia ([[Leverage]]) zastosowana w odpowiednim miejscu i czasie potrafi zdziałać cuda
 
 ## Akcje
-- Zrezygnowałem z wyznaczania [[Cel]]ów na rzecz realizacji [[Proces]]u, który przybliża mnie do wyznaczonego [[Kierunek]]
+- Zrezygnowałem z wyznaczania [[Cel]]ów na rzecz realizacji [[Proces]]u, który przybliża mnie do wyznaczonego [[📚 Wiedza/📑 Słownik/Kierunek]]
 - W połączeniu z [[The Infinite Game]] oraz [[The Compound Effect]] zmieniłem swoje nastawienie na długoterminowe. Dokładając do tego [[Dyscyplina]] z [[Extreme Ownership]] sprawiłem, że upływający czas stał się moim największym przyjacielem.

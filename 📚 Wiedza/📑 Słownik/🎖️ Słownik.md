@@ -1,5 +1,5 @@
 - [[Cel]]
-- [[Kierunek]]
+- [[📚 Wiedza/📑 Słownik/Kierunek]]
 - [[Proces]]
 - [[Otoczenie]]
 - [[Perspektywa]]

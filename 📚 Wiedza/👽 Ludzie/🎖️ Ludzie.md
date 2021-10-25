@@ -11,3 +11,4 @@ Zależy mi na tym aby otaczali mnie ludzie, których obecność ma na mnie pozyt
 - [[Adam Wathan]]
 - [[Elon Musk]]
 - [[Ray Dalio]]
+- [[Adam Grant]]

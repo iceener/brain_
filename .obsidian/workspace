@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md",
+            "file": "🦾 Optymalizacja/🛠️ Narzędzia/Anki.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md",
+                "file": "🦾 Optymalizacja/🛠️ Narzędzia/Anki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,20 +80,12 @@
             }
           },
           {
-            "id": "b8f25cc7cba83dae",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "a405d97f0190fc0a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md"
+                "file": "🦾 Optymalizacja/🛠️ Narzędzia/Anki.md"
               }
             }
           }
@@ -107,15 +98,15 @@
   },
   "active": "25d55aea19606c4e",
   "lastOpenFiles": [
-    "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md",
-    "📚 Wiedza/💻 Programowanie/NestJS/Untitled.md",
-    "📚 Wiedza/💻 Programowanie/Untitled.md",
-    "📚 Wiedza/🎲 Biznes/Marketing.md",
-    "📚 Wiedza/🎲 Biznes/Produkt.md",
-    "📚 Wiedza/🎲 Biznes/Sprzedaż.md",
-    "📚 Wiedza/🎲 Biznes/Leadership.md",
-    "📚 Wiedza/🎲 Biznes/Biznes.md",
-    "📚 Wiedza/🎨 Projektowanie/Design System.md",
-    "📚 Wiedza/🎙 Podcasty/🎖️ Podcast.md"
+    "🦾 Optymalizacja/🛠️ Narzędzia/Anki.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Audible.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Alfred.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Airtable.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/AirBuddy.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/1Password.md",
+    "📚 Wiedza/📖 Książki/🎖️ Książki.md",
+    "📚 Wiedza/📖 Książki/The Fabric of Reality.md",
+    "📚 Wiedza/📖 Książki/The Underdog Paradox.md",
+    "📚 Wiedza/📖 Książki/Mastery: The Keys to Success and Long-Term Fulfillment.md"
   ]
 }
