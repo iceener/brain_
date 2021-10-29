@@ -1,7 +1,5 @@
 {
   "baseFontSize": 18,
   "translucency": false,
-  "enabledCssSnippets": [
-    "main"
-  ]
+  "enabledCssSnippets": []
 }

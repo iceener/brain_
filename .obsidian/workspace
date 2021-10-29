@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "25d55aea19606c4e",
+        "id": "43c2abba8ac414c8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🦾 Optymalizacja/🛠️ Narzędzia/Anki.md",
+            "file": "🏗️ Projekty/eduweb.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦾 Optymalizacja/🛠️ Narzędzia/Anki.md",
+                "file": "🏗️ Projekty/eduweb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦾 Optymalizacja/🛠️ Narzędzia/Anki.md"
+                "file": "🏗️ Projekty/eduweb.md"
               }
             }
           }
@@ -96,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "25d55aea19606c4e",
+  "active": "43c2abba8ac414c8",
   "lastOpenFiles": [
-    "🦾 Optymalizacja/🛠️ Narzędzia/Anki.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Audible.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Alfred.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Airtable.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/AirBuddy.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/1Password.md",
-    "📚 Wiedza/📖 Książki/🎖️ Książki.md",
-    "📚 Wiedza/📖 Książki/The Fabric of Reality.md",
-    "📚 Wiedza/📖 Książki/The Underdog Paradox.md",
-    "📚 Wiedza/📖 Książki/Mastery: The Keys to Success and Long-Term Fulfillment.md"
+    "🏗️ Projekty/eduweb.md",
+    "Untitled.md",
+    "📚 Wiedza/💡 Modele Mentalne/Peak-en rule.md",
+    "📚 Wiedza/💡 Modele Mentalne/Leveling and sharpening .md",
+    "📚 Wiedza/💡 Modele Mentalne/Misinformation effect.md",
+    "📚 Wiedza/💡 Modele Mentalne/Serial recall effect.md",
+    "📚 Wiedza/💡 Modele Mentalne/List-length effect.md",
+    "📚 Wiedza/💡 Modele Mentalne/Duration neglect.md",
+    "📚 Wiedza/💡 Modele Mentalne/Modality effect.md",
+    "📚 Wiedza/💡 Modele Mentalne/Memory inhibition.md"
   ]
 }
