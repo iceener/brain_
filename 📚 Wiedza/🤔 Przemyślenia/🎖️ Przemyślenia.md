@@ -1,0 +1,6 @@
+- [[Rzeczywistość]]
+- [[Intuicja]]
+- [[Podejmowanie decyzji]]
+- [[Emocje]]
+- [[Oczekiwania]]
+- [[Rozczarowanie]]

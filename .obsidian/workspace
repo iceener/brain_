@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🏗️ Projekty/eduweb.md",
+            "file": "🦾 Optymalizacja/🖥️ Sprzęt/Macbook.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏗️ Projekty/eduweb.md",
+                "file": "🦾 Optymalizacja/🖥️ Sprzęt/Macbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏗️ Projekty/eduweb.md"
+                "file": "🦾 Optymalizacja/🖥️ Sprzęt/Macbook.md"
               }
             }
           }
@@ -98,6 +98,8 @@
   },
   "active": "43c2abba8ac414c8",
   "lastOpenFiles": [
+    "🦾 Optymalizacja/🖥️ Sprzęt/Macbook.md",
+    "🦾 Optymalizacja/🖥️ Sprzęt/🎖️ Sprzęt.md",
     "🏗️ Projekty/eduweb.md",
     "Untitled.md",
     "📚 Wiedza/💡 Modele Mentalne/Peak-en rule.md",
@@ -105,8 +107,6 @@
     "📚 Wiedza/💡 Modele Mentalne/Misinformation effect.md",
     "📚 Wiedza/💡 Modele Mentalne/Serial recall effect.md",
     "📚 Wiedza/💡 Modele Mentalne/List-length effect.md",
-    "📚 Wiedza/💡 Modele Mentalne/Duration neglect.md",
-    "📚 Wiedza/💡 Modele Mentalne/Modality effect.md",
-    "📚 Wiedza/💡 Modele Mentalne/Memory inhibition.md"
+    "📚 Wiedza/💡 Modele Mentalne/Duration neglect.md"
   ]
 }
