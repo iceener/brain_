@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🦾 Optymalizacja/🖥️ Sprzęt/Macbook.md",
+            "file": "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦾 Optymalizacja/🖥️ Sprzęt/Macbook.md",
+                "file": "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦾 Optymalizacja/🖥️ Sprzęt/Macbook.md"
+                "file": "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md"
               }
             }
           }
@@ -98,15 +99,15 @@
   },
   "active": "43c2abba8ac414c8",
   "lastOpenFiles": [
+    "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md",
+    "🏆 Fundamenty/💛 Poznawanie siebie.md",
+    "📚 Wiedza/💻 Programowanie/Tailwind/Notatki.md",
     "🦾 Optymalizacja/🖥️ Sprzęt/Macbook.md",
     "🦾 Optymalizacja/🖥️ Sprzęt/🎖️ Sprzęt.md",
     "🏗️ Projekty/eduweb.md",
     "Untitled.md",
     "📚 Wiedza/💡 Modele Mentalne/Peak-en rule.md",
     "📚 Wiedza/💡 Modele Mentalne/Leveling and sharpening .md",
-    "📚 Wiedza/💡 Modele Mentalne/Misinformation effect.md",
-    "📚 Wiedza/💡 Modele Mentalne/Serial recall effect.md",
-    "📚 Wiedza/💡 Modele Mentalne/List-length effect.md",
-    "📚 Wiedza/💡 Modele Mentalne/Duration neglect.md"
+    "📚 Wiedza/💡 Modele Mentalne/Misinformation effect.md"
   ]
 }
