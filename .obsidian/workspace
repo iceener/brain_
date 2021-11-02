@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "43c2abba8ac414c8",
+        "id": "5cc94d50bc6d4feb",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -91,13 +91,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "43c2abba8ac414c8",
+  "active": "5cc94d50bc6d4feb",
   "lastOpenFiles": [
+    "📚 Wiedza/💻 Programowanie/JavaScript/Fundamenty/Prototype chain.md",
     "📚 Wiedza/💻 Programowanie/JavaScript/Fundamenty/Constructor Functions.md",
     "📚 Wiedza/💻 Programowanie/JavaScript/Programowanie funkcyjne/Factory Functions.md",
     "📚 Wiedza/💻 Programowanie/JavaScript/Programowanie funkcyjne/Function Composition.md",
     "📚 Wiedza/💻 Programowanie/JavaScript/Programowanie funkcyjne/Funktory.md",
-    "📚 Wiedza/💻 Programowanie/JavaScript/Fundamenty/Prototype chain.md",
     "📚 Wiedza/💻 Programowanie/JavaScript/Fundamenty/Factory Function.md",
     "📚 Wiedza/👽 Ludzie/Andrew Huberman.md",
     "📚 Wiedza/🎙 Podcasty/Huberman Lab.md",
