@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "64e81ba3461fd74a",
+    "id": "b401411c066aaaf6",
     "type": "split",
     "children": [
       {
-        "id": "5cc94d50bc6d4feb",
+        "id": "b178bd6bcb8c9981",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "🦾 Optymalizacja/🛠️ Narzędzia/ProCreate.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🦾 Optymalizacja/🛠️ Narzędzia/ProCreate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🦾 Optymalizacja/🛠️ Narzędzia/ProCreate.md"
+              }
             }
           }
         ]
@@ -91,8 +96,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5cc94d50bc6d4feb",
+  "active": "b178bd6bcb8c9981",
   "lastOpenFiles": [
+    "🦾 Optymalizacja/🛠️ Narzędzia/ProCreate.md",
     "📚 Wiedza/💻 Programowanie/JavaScript/Fundamenty/Prototype chain.md",
     "📚 Wiedza/💻 Programowanie/JavaScript/Fundamenty/Constructor Functions.md",
     "📚 Wiedza/💻 Programowanie/JavaScript/Programowanie funkcyjne/Factory Functions.md",
@@ -101,7 +107,6 @@
     "📚 Wiedza/💻 Programowanie/JavaScript/Fundamenty/Factory Function.md",
     "📚 Wiedza/👽 Ludzie/Andrew Huberman.md",
     "📚 Wiedza/🎙 Podcasty/Huberman Lab.md",
-    "📚 Wiedza/💻 Programowanie/JavaScript/🎖️ JavaScript.md",
-    "📚 Wiedza/💻 Programowanie/JavaScript/JavaScript.md"
+    "📚 Wiedza/💻 Programowanie/JavaScript/🎖️ JavaScript.md"
   ]
 }
