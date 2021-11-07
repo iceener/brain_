@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b178bd6bcb8c9981",
+        "id": "a382768e25533ea7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🦾 Optymalizacja/🛠️ Narzędzia/ProCreate.md",
+            "file": "📚 Wiedza/🤔 Przemyślenia/🎖️ Przemyślenia.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦾 Optymalizacja/🛠️ Narzędzia/ProCreate.md",
+                "file": "📚 Wiedza/🤔 Przemyślenia/🎖️ Przemyślenia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦾 Optymalizacja/🛠️ Narzędzia/ProCreate.md"
+                "file": "📚 Wiedza/🤔 Przemyślenia/🎖️ Przemyślenia.md"
               }
             }
           }
@@ -96,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b178bd6bcb8c9981",
+  "active": "a382768e25533ea7",
   "lastOpenFiles": [
-    "🦾 Optymalizacja/🛠️ Narzędzia/ProCreate.md",
-    "📚 Wiedza/💻 Programowanie/JavaScript/Fundamenty/Prototype chain.md",
-    "📚 Wiedza/💻 Programowanie/JavaScript/Fundamenty/Constructor Functions.md",
-    "📚 Wiedza/💻 Programowanie/JavaScript/Programowanie funkcyjne/Factory Functions.md",
-    "📚 Wiedza/💻 Programowanie/JavaScript/Programowanie funkcyjne/Function Composition.md",
-    "📚 Wiedza/💻 Programowanie/JavaScript/Programowanie funkcyjne/Funktory.md",
-    "📚 Wiedza/💻 Programowanie/JavaScript/Fundamenty/Factory Function.md",
-    "📚 Wiedza/👽 Ludzie/Andrew Huberman.md",
-    "📚 Wiedza/🎙 Podcasty/Huberman Lab.md",
-    "📚 Wiedza/💻 Programowanie/JavaScript/🎖️ JavaScript.md"
+    "📚 Wiedza/🤔 Przemyślenia/🎖️ Przemyślenia.md",
+    "📚 Wiedza/🤔 Przemyślenia/Emocje.md",
+    "📚 Wiedza/🤔 Przemyślenia/Odpuszczanie.md",
+    "📚 Wiedza/🤔 Przemyślenia/Rzeczywistość.md",
+    "📚 Wiedza/🤔 Przemyślenia/Podejmowanie decyzji.md",
+    "📚 Wiedza/🤔 Przemyślenia/Oczekiwania.md",
+    "📚 Wiedza/🤔 Przemyślenia/Nuda.md",
+    "📚 Wiedza/🤔 Przemyślenia/Negocjacje.md",
+    "📚 Wiedza/🤔 Przemyślenia/Intuicja.md",
+    "📚 Wiedza/🛸 Inne/MBTI.md"
   ]
 }

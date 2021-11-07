@@ -1,3 +1,5 @@
+![overment](https://space.overment.com/overment/overment.png)
+
 W tym miejscu dzielę się z Tobą wszystkim co wiem. Stworzyłem je przede wszystkim dla siebie, aby móc łatwo wracać do wszystkich zamieszczonych tu materiałów. Jednocześnie pomyślałem że to wszystko może okazać się równie wartościowe dla Ciebie.
 
 ## Znajdziesz tutaj
@@ -17,7 +19,7 @@ Wszystkie zawarte tutaj informacje możesz przeszukiwać na dwa sposoby:
 - z pomocą wyszukiwarki dostępnej na tej stronie
 - lub z pomocą aplikacji [Obsidian](https://obsidian.md/) do której możesz wgrać zawartość tego repozytorium: https://github.com/iceener/brain
 
-## **Koncepcja**
+## Koncepcja
 
 Cały ten projekt oparty jest o koncepcję tzw. [digital garden](https://joelhooks.com/digital-garden). W moim przypadku testowałem połączenie Notion oraz Super.so oraz integrację Githuba z GitBookiem. Ostatecznie zdecydowałem się na Obisidan Publish z szablonem uwzględniającym moje własne style CSS. 
 

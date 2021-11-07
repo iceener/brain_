@@ -4,3 +4,4 @@
 - [[Emocje]]
 - [[Oczekiwania]]
 - [[Rozczarowanie]]
+- [[Odpuszczanie]]

@@ -27,7 +27,7 @@ Taka wiedza w moim przekonaniu płynie z połączenia naturalnych predyspozycji 
 Według Navala dźwignia biznesowa pochodzi z Kapitału, Ludzi i Produktów posiadających niski lub zerowy koszt replikacji (kod i media).
 
 ### [[Konkurencja]]
-
+🚧
 
 
 ## Lekcje

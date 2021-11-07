@@ -26,6 +26,7 @@ Między innymi z powyższych powodów, stosuję cele w pojedynczych przypadkach.
 ### Kierunek vs. Cel
 - [[Cel]] posiada datę realizacji i warunki jego spełnienia. [[📚 Wiedza/📑 Słownik/Kierunek]] nie.
 - Z definicji w kierunku można podążać ale nie da się do niego dojść.
+- Różnica pomiędzy jednym a drugim ma dużą rolę narracyjną a jak mówi [[Davida Goggins]], dialog który odbywamy ze sobą jest najważniejszym ze wszystkich.
 
 ### Proces
 Działam w oparciu o nieustannie optymalizowany [[Proces]] uwzględniający:

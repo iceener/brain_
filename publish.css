@@ -73,3 +73,5 @@ html, body.theme-dark {
 .has-navigation .site-body-left-column {
     background: #000;
 }
+
+img[alt="overment"] { width: 200px; margin: 0 auto; display: block; }

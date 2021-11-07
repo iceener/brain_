@@ -73,3 +73,6 @@
 - [[Mastery: The Keys to Success and Long-Term Fulfillment]]
 - [[The Underdog Paradox]]
 - [[The Fabric of Reality]]
+- [[The Happiness Advantage]]
+- [[Letting Go]]
+- [[Peak]]
