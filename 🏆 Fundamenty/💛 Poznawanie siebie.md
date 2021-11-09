@@ -4,7 +4,7 @@
 > Wykonanie testu niewiele daje. Skuteczność osiągnąłem dopiero po eksploracji załączonych materiałów oraz czytaniu książek na ich temat. 
 
 ## MBTI
-[[MBTI]] lub inaczej test 16 osobowości. Polecany przez [[Ray Dalio]]. W [[Principles]] napisał, że w oparciu o niego budował zespół rozwijając niemal od zera największy na świecie fundusz inwestycyjny. 
+[[MBTI]] lub inaczej test 16 osobowości (chociaż według niektórych źródeł MBTI to nie 16 osobowości). Polecany przez [[Ray Dalio]]. W [[Principles]] napisał, że w oparciu o niego budował zespół rozwijając niemal od zera największy na świecie fundusz inwestycyjny. 
 
 Mój profil: **INFJ**
 
@@ -21,7 +21,7 @@ W celu eksploracji profilu przeczytałem m.in.:
 - Jestem wysoko wrażliwy ([[Daring Greatly]] pomogła mi zrozumieć ten temat)
 
 ## StrenghtsFinder
-[[StrenghtsFinder 1]] inaczej test Gallupa. Jeden z najczęściej polecanych narzędzi do rozwoju. Opiera się o odkrywanie swoich naturalnych predyspozycji, które rozwijane mogą stać się mocnymi stronami. 
+[[StrenghtsFinder]] inaczej test Gallupa. Jeden z najczęściej polecanych narzędzi do rozwoju. Opiera się o odkrywanie swoich naturalnych predyspozycji, które rozwijane mogą stać się mocnymi stronami. 
 
 Mój wynik:
 
@@ -35,7 +35,17 @@ Mój wynik:
 - Zapisałem plan działania (czyli jakie aktywności podejmuję aby rozwijać talenty)
 - Przełożyłem wszystko na realne aktywności. Część z nich realizuję do dzisiaj.
 
-Uważam że StrengthsFinder odegrał w moim życiu ogromną rolę ale tylko dlatego, że bardzo aktywnie pracowałem z informacjami, które tam otrzymałem
+Uważam że StrengthsFinder odegrał w moim życiu ogromną rolę ale tylko dlatego, że bardzo aktywnie pracowałem z informacjami, które tam otrzymałem.
+
+⚠️ Powyższe wyniki testu pochodzą z drugiego wykonania, podjętego kilka lat później po pierwszej. Dla porównania rezultat pierwszej próby umieszczam poniżej: 
+![](https://space.overment.com/Shared-Image-2021-11-09-00-59-54/Shared-Image-2021-11-09-00-59-54.png)
+
+Należy tutaj uwzględnić kilka ważnych elementów, które miały miejsce pomiędzy wykonaniem testów. Mowa m.in. o:
+- całkowitej zmianie otoczenia 
+- ogromnej zmiany zawodowej (odejścia z firmy)
+- kilkuletniej terapii u psychologa
+
+Nie oceniam tych zmian, jednak z całą pewnością mogę stwierdzić, że odzwierciedlają one stan obecny. W szczególności mowa o ukierunkowaniu na podejmowanie działania. 
 
 ## Principles You
 [[Principles You]] to nowe narzędzie zaprojektowane przez [[Ray Dalio]]. 

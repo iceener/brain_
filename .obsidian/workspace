@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/🤔 Przemyślenia/🎖️ Przemyślenia.md",
+            "file": "🏆 Fundamenty/💫 Proces.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/🤔 Przemyślenia/🎖️ Przemyślenia.md",
+                "file": "🏆 Fundamenty/💫 Proces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/🤔 Przemyślenia/🎖️ Przemyślenia.md"
+                "file": "🏆 Fundamenty/💫 Proces.md"
               }
             }
           }
@@ -98,15 +98,15 @@
   },
   "active": "a382768e25533ea7",
   "lastOpenFiles": [
-    "📚 Wiedza/🤔 Przemyślenia/🎖️ Przemyślenia.md",
-    "📚 Wiedza/🤔 Przemyślenia/Emocje.md",
-    "📚 Wiedza/🤔 Przemyślenia/Odpuszczanie.md",
-    "📚 Wiedza/🤔 Przemyślenia/Rzeczywistość.md",
-    "📚 Wiedza/🤔 Przemyślenia/Podejmowanie decyzji.md",
-    "📚 Wiedza/🤔 Przemyślenia/Oczekiwania.md",
-    "📚 Wiedza/🤔 Przemyślenia/Nuda.md",
-    "📚 Wiedza/🤔 Przemyślenia/Negocjacje.md",
-    "📚 Wiedza/🤔 Przemyślenia/Intuicja.md",
-    "📚 Wiedza/🛸 Inne/MBTI.md"
+    "🏆 Fundamenty/💫 Proces.md",
+    "🏆 Fundamenty/📓 Dziennik.md",
+    "🦾 Optymalizacja/🖥️ Sprzęt/StreamDeck.md",
+    "🦾 Optymalizacja/🖥️ Sprzęt/Macbook.md",
+    "🦾 Optymalizacja/🖥️ Sprzęt/iPhone.md",
+    "🦾 Optymalizacja/🖥️ Sprzęt/iPad.md",
+    "🏆 Fundamenty/🗺️ Wartości.md",
+    "🏆 Fundamenty/💛 Poznawanie siebie.md",
+    "🏆 Fundamenty/🧭 Kierunek.md",
+    "📚 Wiedza/👽 Ludzie/Ray Dalio.md"
   ]
 }

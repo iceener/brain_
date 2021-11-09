@@ -47,6 +47,7 @@ Działam w oparciu o nieustannie optymalizowany [[Proces]] uwzględniający:
 - W moim nastawieniu na proces ogromną rolę odegrał [[Dan Millman]] i jego książka [[Way of The Peaceful Warrior]] oraz [[How to Fail at Almost Anything and Still Win Big]] i [[Pound the Stone]]
 - Branie pełnej odpowiedzialności za to co robię ([[Extreme Ownership]]) i pełne zaangażowanie ([[Skin in the Game]])
 - Po prostu działanie ([[Do the Work]], [[War of Art]])
+- Odpuszczanie ([[Letting Go]], [[The Dip]])
 - Nieustanne kwestionowanie ([[Think Again]]) i upraszczanie ([[Simplify]] i [[Insanely Simple]] oraz [[Effortless]])
 - Działanie w oparciu o rzeczywistość ([[Principles]], [[Deviate]] i [[Getting Real]])
 - Dopuszczanie popełniania błędów ([[Black Box Thinking]] i [[Think Like a Rocket Scientist]])
@@ -69,7 +70,7 @@ Fundamentem jest dla mnie zdrowie (fizyczne i psychiczne) oraz sen.
 - **Dieta** - regularne pory jedzenia + witaminy D, K, Omega 3 i magnez. Raz na kwartał 30 dni pyłku pszczelego rozcieńczonego przez noc w przegotowanej, ostudzonej wodzie (⚠️ UWAGA: pyłek pszczeli jest silnym alergenem.)
 - **Sport** - [3x w tygodniu](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine) + codzienne rozciąganie z [[Romwod]]
 - Ćwiczenia oddechowe z [[Oak]] & wskazówki [[Andrew Huberman#Oddychanie]]
-- [[Medytacja]] ~20-30 minut dziennie z [[Headspace]] i/lub [[Waking Up]]
+- [[Medytacja]] ~20-30 minut dziennie z [[Headspace]], [[Waking Up]] oraz [[Reveri]]
 - [[Nuda]] - kluczowy element pozostawania kreatywnym
 - Ćwiczę umiejętność skupienia na podstawie [[Deep Work]] i często słucham [[Endel.io]]
 
