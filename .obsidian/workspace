@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🏆 Fundamenty/💫 Proces.md",
+            "file": "🏆 Fundamenty/💛 Poznawanie siebie.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏆 Fundamenty/💫 Proces.md",
+                "file": "🏆 Fundamenty/💛 Poznawanie siebie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏆 Fundamenty/💫 Proces.md"
+                "file": "🏆 Fundamenty/💛 Poznawanie siebie.md"
               }
             }
           }
@@ -98,6 +98,7 @@
   },
   "active": "a382768e25533ea7",
   "lastOpenFiles": [
+    "🏆 Fundamenty/💛 Poznawanie siebie.md",
     "🏆 Fundamenty/💫 Proces.md",
     "🏆 Fundamenty/📓 Dziennik.md",
     "🦾 Optymalizacja/🖥️ Sprzęt/StreamDeck.md",
@@ -105,7 +106,6 @@
     "🦾 Optymalizacja/🖥️ Sprzęt/iPhone.md",
     "🦾 Optymalizacja/🖥️ Sprzęt/iPad.md",
     "🏆 Fundamenty/🗺️ Wartości.md",
-    "🏆 Fundamenty/💛 Poznawanie siebie.md",
     "🏆 Fundamenty/🧭 Kierunek.md",
     "📚 Wiedza/👽 Ludzie/Ray Dalio.md"
   ]
