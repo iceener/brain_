@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🏆 Fundamenty/💛 Poznawanie siebie.md",
+            "file": "✨ Co to za miejsce?.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏆 Fundamenty/💛 Poznawanie siebie.md",
+                "file": "✨ Co to za miejsce?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏆 Fundamenty/💛 Poznawanie siebie.md"
+                "file": "✨ Co to za miejsce?.md"
               }
             }
           }
@@ -98,6 +98,7 @@
   },
   "active": "a382768e25533ea7",
   "lastOpenFiles": [
+    "✨ Co to za miejsce?.md",
     "🏆 Fundamenty/💛 Poznawanie siebie.md",
     "🏆 Fundamenty/💫 Proces.md",
     "🏆 Fundamenty/📓 Dziennik.md",
@@ -106,7 +107,6 @@
     "🦾 Optymalizacja/🖥️ Sprzęt/iPhone.md",
     "🦾 Optymalizacja/🖥️ Sprzęt/iPad.md",
     "🏆 Fundamenty/🗺️ Wartości.md",
-    "🏆 Fundamenty/🧭 Kierunek.md",
-    "📚 Wiedza/👽 Ludzie/Ray Dalio.md"
+    "🏆 Fundamenty/🧭 Kierunek.md"
   ]
 }

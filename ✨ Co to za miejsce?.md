@@ -4,13 +4,15 @@ W tym miejscu dzielę się z Tobą wszystkim co wiem. Stworzyłem je przede wszy
 
 ## Znajdziesz tutaj
 
-* Mojego procesu ([[Proces]]) który realizuję codziennie \(i który nieustannie się zmienia\)
+* Mojego procesu ([[Proces]]) który realizuję codziennie \(i który nieustannie się zmienia\). Dzięki niemu podążam w wyznaczonym przeze mnie [[Kierunek]] w oparciu o nazwane [[🗺️ Wartości]].
 * [[🎖️ Modele mentalne]] z których świadomie korzystam
-* Notatki z przeczytanych przeze mnie książek [[💫 Proces#Rozwój]]
+* Notatki z przeczytanych przeze mnie [[🎖️ Książki]]
+* [[🎖️ Ludzie]] jakich obserwuję w Internecie
 * Moje [[🎖️ Przemyślenia]] i styl działania
 * Moje notatki na temat Programowania, Projektowania, Marketingu i szeroko pojętego Biznesu
-* Opisy wykorzystywanych przeze mnie automatyzacji i narzędzi
-* Informacje na temat projektów w które jestem zaangażowany
+* [[🎖️ Sprzęt]] z jakiego korzystam
+* Opisy wykorzystywanych przeze mnie [[🎖️ Automatyzacja]] i [[Narzędzia]]
+* Informacje na temat projektów w które jestem zaangażowany ([[eduweb]], [[zautomatyzowani]], [[overment]], [[EasyCart]], [[EasyBanner]])
 * Moje wszystkie bezpłatne i płatne publikacje
 
 ## Wyszukiwanie & Obsidian
