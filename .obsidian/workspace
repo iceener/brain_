@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✨ Co to za miejsce?.md",
+            "file": "📚 Wiedza/🛸 Inne/Principles You.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✨ Co to za miejsce?.md",
+                "file": "📚 Wiedza/🛸 Inne/Principles You.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✨ Co to za miejsce?.md"
+                "file": "📚 Wiedza/🛸 Inne/Principles You.md"
               }
             }
           }
@@ -98,15 +98,15 @@
   },
   "active": "a382768e25533ea7",
   "lastOpenFiles": [
-    "✨ Co to za miejsce?.md",
-    "🏆 Fundamenty/💛 Poznawanie siebie.md",
-    "🏆 Fundamenty/💫 Proces.md",
-    "🏆 Fundamenty/📓 Dziennik.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/StreamDeck.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/Macbook.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/iPhone.md",
+    "📚 Wiedza/🛸 Inne/Principles You.md",
+    "📚 Wiedza/🛸 Inne/The Big Five.md",
+    "📚 Wiedza/🛸 Inne/StrenghtsFinder.md",
+    "📚 Wiedza/🛸 Inne/MBTI.md",
+    "🦾 Optymalizacja/🖥️ Sprzęt/🎖️ Sprzęt.md",
     "🦾 Optymalizacja/🖥️ Sprzęt/iPad.md",
-    "🏆 Fundamenty/🗺️ Wartości.md",
-    "🏆 Fundamenty/🧭 Kierunek.md"
+    "🦾 Optymalizacja/🖥️ Sprzęt/iPhone.md",
+    "🦾 Optymalizacja/🖥️ Sprzęt/Macbook.md",
+    "✨ Co to za miejsce?.md",
+    "🏆 Fundamenty/💛 Poznawanie siebie.md"
   ]
 }

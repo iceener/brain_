@@ -15,3 +15,6 @@ Od kilku lat moim głównym telefonem jest iPhone i trudno jest mi wyobrazić so
 Poza tym na telefonie mam zainstalowane aplikacje do opłaty na stacji benzynowej oraz aplikacje do zamawiania jedzenia.
 
 Przez znaczną większość czasu mój telefon jest w trybie czarno-białym zgodnie z instrukcją z [Szary Ekran](https://szaryekran.pl)
+
+## Specyfikacja
+iPhone 13 Pro Max 256GB z nakładką [Anti-Glare](https://www.benks.com/products/anti-glare-matte-screen-protector) oraz skinem [dbrand](https://dbrand.com/)
