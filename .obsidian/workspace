@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/🛸 Inne/Principles You.md",
+            "file": "🏗️ Projekty/overment.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/🛸 Inne/Principles You.md",
+                "file": "🏗️ Projekty/overment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/🛸 Inne/Principles You.md"
+                "file": "🏗️ Projekty/overment.md"
               }
             }
           }
@@ -98,15 +98,15 @@
   },
   "active": "a382768e25533ea7",
   "lastOpenFiles": [
-    "📚 Wiedza/🛸 Inne/Principles You.md",
-    "📚 Wiedza/🛸 Inne/The Big Five.md",
-    "📚 Wiedza/🛸 Inne/StrenghtsFinder.md",
-    "📚 Wiedza/🛸 Inne/MBTI.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/🎖️ Sprzęt.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/iPad.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/iPhone.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/Macbook.md",
-    "✨ Co to za miejsce?.md",
-    "🏆 Fundamenty/💛 Poznawanie siebie.md"
+    "🏗️ Projekty/overment.md",
+    "🏗️ Projekty/eduweb.md",
+    "🏗️ Projekty/EasyCart.md",
+    "🏗️ Projekty/EasyBanner.md",
+    "🏗️ Projekty/Ahoy!.md",
+    "🏗️ Projekty/zautomatyzowani.md",
+    "📚 Wiedza/💡 Modele Mentalne/ Social comparsion bias.md",
+    "📚 Wiedza/💡 Modele Mentalne/🎖️ Modele mentalne.md",
+    "📚 Wiedza/💡 Modele Mentalne/Automation bias.md",
+    "📚 Wiedza/💡 Modele Mentalne/Authority bias.md"
   ]
 }
