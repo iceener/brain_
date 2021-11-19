@@ -4,13 +4,15 @@ Działam w oparciu o autorski [[Proces]] zaprojektowany z myślą o mnie. Nieust
 
 ## Kontekst
 
-Powszechnie przyjęło się, że wyznaczenie [[Cel]]u jest **niezbędne do osiągnięcia rezultatów.** Inni mówią, że lepiej pracować w oparciu o [[Proces]]
+Powszechnie przyjęło się, że wyznaczenie [[Cel]]u jest **niezbędne do osiągnięcia rezultatów.** Inni mówią, że lepiej pracować w oparciu o [[Proces]]/
 
 Sam działam w oparciu o [[Cel]] ORAZ [[Proces]] (koncepcja [[Genius of The AND]] od [[Jim Collins]]).
 
+W praktyce trudno jest mi określić przyszłość na dłużej niż tydzień do przodu. Nie rzadko nie mam zielonego pojęcia co będę robił kolejnego dnia. Jednocześnie posiadam ogólny zarys tego, dokąd zmierzam. 
+
 ### Cele
 
-Dobrze wyznaczony [[Cel]] określa miejsca i czas realizacji (\([SMART](https://www.mindtools.com/pages/article/smart-goals.htm)\)). W połączeniu z wizualizacją zrealizowanego celu, kształtujemy odpowiednie postawy (np. entuzjazm).
+Dobrze wyznaczony [[Cel]] określa miejsca i czas realizacji (\([SMART](https://www.mindtools.com/pages/article/smart-goals.htm)\)). W połączeniu z wizualizacją zrealizowanego celu, kształtujemy odpowiednie postawy (np. entuzjazm -> [[🗺️ Wartości]]).
 
 W przypadku dużego celu, wystarczy podzielić go na mniejsze aby zmniejszyć "opór" ([[War of Art]]). Realizacja mniejszych celów nadaje [[Momentum]] poprzez m.in. wykorzystanie dopaminy o której więcej mówi [[Andrew Huberman#Motywacja Drive]]
 

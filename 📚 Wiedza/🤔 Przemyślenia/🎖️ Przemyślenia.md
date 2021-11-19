@@ -5,3 +5,4 @@
 - [[Oczekiwania]]
 - [[Rozczarowanie]]
 - [[Odpuszczanie]]
+- [[Niemyślenie]]

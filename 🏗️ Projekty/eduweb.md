@@ -2,6 +2,11 @@
 
 ## Kursy
 
+### Kurs Keyboard Maestro
+Keyboard Maestro to aplikacja dla systemu MacOS, umożliwiająca automatyzację niemal dowolnej akcji wykonywanej na komputerze. W tym kursie znajdziesz praktyczne przykłady oraz inspiracje, które pomogą Ci tworzyć proste i rozbudowane makra, które pozwolą Ci zaoszczędzić wiele godzin pracy. 
+
+🔗 [Strona kursu](https://eduweb.pl/marketing-i-biznes/biznes/keyboard-maestro-automatyzacja-macos?ref=overment)
+
 ### Kurs TypeScript - Podstawy
 Materiał stanowiący absolutne wprowadzenie do [[TypeScript]] wyjaśniający fundamentalne założenia oraz składnię. Przeznaczony jest dla osób, które znają już [[JavaScript]].
 

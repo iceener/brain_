@@ -74,4 +74,4 @@ Wykonałem go na stronie [[Peter Peterson]]:
 Poza nim zrealizowałem również Program Self Authoring do którego wkrótce wracam.
 [https://www.selfauthoring.com](https://www.selfauthoring.com/)
 
-Self Authoring to starannie zaprojektowany i wymagający Program pomagający odkryć przeszłość, teraźniejszość oraz zaplanować przyszłość. 
+Self Authoring to starannie zaprojektowany i wymagający Program pomagający odkryć przeszłość, teraźniejszość oraz zaplanować przyszłość. W jego kontekście najważniejsze zdanie jakie utkwiło mi w pamięci, mówiło o tym, że w szkole uczą nas tego jak pisać o kimś a nikt nie uczy nas prawdziwie pisać o sobie. 

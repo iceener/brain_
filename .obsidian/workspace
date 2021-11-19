@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a382768e25533ea7",
+        "id": "88fbf549368b7afe",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📚 Wiedza/💡 Modele Mentalne/Essentialism.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📚 Wiedza/💡 Modele Mentalne/Essentialism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📚 Wiedza/💡 Modele Mentalne/Essentialism.md"
+              }
             }
           }
         ]
@@ -91,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a382768e25533ea7",
+  "active": "88fbf549368b7afe",
   "lastOpenFiles": [
-    "🏗️ Projekty/overment.md",
-    "🏗️ Projekty/eduweb.md",
-    "🏗️ Projekty/EasyCart.md",
-    "🏗️ Projekty/EasyBanner.md",
-    "🏗️ Projekty/Ahoy!.md",
-    "🏗️ Projekty/zautomatyzowani.md",
-    "📚 Wiedza/💡 Modele Mentalne/ Social comparsion bias.md",
-    "📚 Wiedza/💡 Modele Mentalne/🎖️ Modele mentalne.md",
-    "📚 Wiedza/💡 Modele Mentalne/Automation bias.md",
-    "📚 Wiedza/💡 Modele Mentalne/Authority bias.md"
+    "📚 Wiedza/💡 Modele Mentalne/Essentialism.md",
+    "🏆 Fundamenty/🧭 Kierunek.md",
+    "🏆 Fundamenty/🗺️ Wartości.md",
+    "🏆 Fundamenty/📓 Dziennik.md",
+    "📚 Wiedza/👽 Ludzie/Adam Grant.md",
+    "📚 Wiedza/👽 Ludzie/Adam Wathan.md",
+    "📚 Wiedza/👽 Ludzie/Andrew Huberman.md",
+    "📚 Wiedza/👽 Ludzie/Bruce Lee.md",
+    "📚 Wiedza/👽 Ludzie/Charlie Munger.md",
+    "📚 Wiedza/🤔 Przemyślenia/🎖️ Przemyślenia.md"
   ]
 }

@@ -1,6 +1,6 @@
+## O co chodzi?
 [[20 mile march]] to koncept z książki [[Great by Choice]] ~ [[Jim Collins]]
 
-## O co chodzi?
 Na długim dystansie lepsze jest mniejsze, ale regularne tempo niż sprinty.
 
 Inaczej mówiąc: chodzi o poruszanie się w stałym tempie niezależnie od czynników zewnętrznych i wewnętrznych.

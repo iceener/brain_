@@ -76,3 +76,4 @@
 - [[The Happiness Advantage]]
 - [[Letting Go]]
 - [[Peak]]
+- [[Essentialism: The Disciplined Pursuit of Less]]

@@ -204,3 +204,4 @@
 - [[Misinformation effect]]
 - [[Leveling and sharpening ]]
 - [[Peak-en rule]]
+- [[Imposter Syndrome]]
