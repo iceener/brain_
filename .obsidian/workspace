@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🦾 Optymalizacja/🖥️ Sprzęt/iPad.md",
+            "file": "🦾 Optymalizacja/🖥️ Sprzęt/StreamDeck.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦾 Optymalizacja/🖥️ Sprzęt/iPad.md",
+                "file": "🦾 Optymalizacja/🖥️ Sprzęt/StreamDeck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦾 Optymalizacja/🖥️ Sprzęt/iPad.md"
+                "file": "🦾 Optymalizacja/🖥️ Sprzęt/StreamDeck.md"
               }
             }
           }
@@ -98,6 +98,7 @@
   },
   "active": "88fbf549368b7afe",
   "lastOpenFiles": [
+    "🦾 Optymalizacja/🖥️ Sprzęt/StreamDeck.md",
     "🦾 Optymalizacja/🖥️ Sprzęt/iPad.md",
     "🦾 Optymalizacja/🖥️ Sprzęt/iPhone.md",
     "🦾 Optymalizacja/🖥️ Sprzęt/Macbook.md",
@@ -106,7 +107,6 @@
     "🏆 Fundamenty/🗺️ Wartości.md",
     "🏆 Fundamenty/📓 Dziennik.md",
     "📚 Wiedza/👽 Ludzie/Adam Grant.md",
-    "📚 Wiedza/👽 Ludzie/Adam Wathan.md",
-    "📚 Wiedza/👽 Ludzie/Andrew Huberman.md"
+    "📚 Wiedza/👽 Ludzie/Adam Wathan.md"
   ]
 }
