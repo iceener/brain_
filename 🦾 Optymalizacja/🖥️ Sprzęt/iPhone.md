@@ -12,7 +12,7 @@ Od kilku lat moim głównym telefonem jest iPhone i trudno jest mi wyobrazić so
 - [[Waking Up]] - aplikacja do [[Mindfulness]] - stosuję zamiennie z [[Headspace]]
 - [[Reveri]] - polecana przez [[Andrew Huberman]] aplikacja do autohipnozy
 
-Poza tym na telefonie mam zainstalowane aplikacje do opłaty na stacji benzynowej oraz aplikacje do zamawiania jedzenia.
+Poza tym na telefonie mam zainstalowane aplikacje do opłaty na stacji benzynowej (mam [[🎖️ Automatyzacja]] przesyłająca wybrane faktury za paliwo bezpośrednio do księgowości) oraz aplikacje do zamawiania jedzenia.
 
 Przez znaczną większość czasu mój telefon jest w trybie czarno-białym zgodnie z instrukcją z [Szary Ekran](https://szaryekran.pl)
 
