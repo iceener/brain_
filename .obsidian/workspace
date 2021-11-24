@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🦾 Optymalizacja/🖥️ Sprzęt/StreamDeck.md",
+            "file": "🏗️ Projekty/Ahoy!.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦾 Optymalizacja/🖥️ Sprzęt/StreamDeck.md",
+                "file": "🏗️ Projekty/Ahoy!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦾 Optymalizacja/🖥️ Sprzęt/StreamDeck.md"
+                "file": "🏗️ Projekty/Ahoy!.md"
               }
             }
           }
@@ -98,15 +98,15 @@
   },
   "active": "88fbf549368b7afe",
   "lastOpenFiles": [
+    "🏗️ Projekty/Ahoy!.md",
+    "🏗️ Projekty/EasyTimer.md",
+    "🦾 Optymalizacja/🤖 Automatyzacja/Mikroserwisy.md",
+    "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
+    "🦾 Optymalizacja/🤖 Automatyzacja/Narzędzia.md",
+    "narz.md",
+    "🦾 Optymalizacja/🤖 Automatyzacja/Scenariusze.md",
     "🦾 Optymalizacja/🖥️ Sprzęt/StreamDeck.md",
     "🦾 Optymalizacja/🖥️ Sprzęt/Macbook.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/iPhone.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/iPad.md",
-    "📚 Wiedza/💡 Modele Mentalne/Essentialism.md",
-    "🏆 Fundamenty/🧭 Kierunek.md",
-    "🏆 Fundamenty/🗺️ Wartości.md",
-    "🏆 Fundamenty/📓 Dziennik.md",
-    "📚 Wiedza/👽 Ludzie/Adam Grant.md",
-    "📚 Wiedza/👽 Ludzie/Adam Wathan.md"
+    "🦾 Optymalizacja/🖥️ Sprzęt/iPhone.md"
   ]
 }

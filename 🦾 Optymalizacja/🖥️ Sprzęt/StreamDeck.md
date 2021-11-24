@@ -31,3 +31,4 @@ Podczas pracy najwięcej czasu i energii zabiera zmiana kontekstu. Skonfigurowa�
 
 ### Aktywności botów 
 Kategoryzuję moje [[🎖️ Automatyzacja]] według avatarów botów, które realizują dla mnie określone zadania. Ich scenariusze zaprojektowane są w taki sposób aby dało się je ze sobą łączyć lub wywoływać oddzielnie. Każdy z tych scenariuszy oraz zestawów scenariuszy podłączony jest pod mój 
+
