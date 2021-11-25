@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🦾 Optymalizacja/🛠️ Narzędzia/🎖️ Narzędzia.md",
+            "file": "📚 Wiedza/📖 Książki/🎖️ Książki.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦾 Optymalizacja/🛠️ Narzędzia/🎖️ Narzędzia.md",
+                "file": "📚 Wiedza/📖 Książki/🎖️ Książki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦾 Optymalizacja/🛠️ Narzędzia/🎖️ Narzędzia.md"
+                "file": "📚 Wiedza/📖 Książki/🎖️ Książki.md"
               }
             }
           }
@@ -98,6 +98,8 @@
   },
   "active": "88fbf549368b7afe",
   "lastOpenFiles": [
+    "📚 Wiedza/📖 Książki/🎖️ Książki.md",
+    "📚 Wiedza/📖 Książki/Tytul.md",
     "🦾 Optymalizacja/🛠️ Narzędzia/🎖️ Narzędzia.md",
     "🦾 Optymalizacja/🛠️ Narzędzia/Fig.md",
     "🏗️ Projekty/Ahoy!.md",
@@ -105,8 +107,6 @@
     "🦾 Optymalizacja/🤖 Automatyzacja/Mikroserwisy.md",
     "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
     "🦾 Optymalizacja/🤖 Automatyzacja/Narzędzia.md",
-    "narz.md",
-    "🦾 Optymalizacja/🤖 Automatyzacja/Scenariusze.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/StreamDeck.md"
+    "narz.md"
   ]
 }
