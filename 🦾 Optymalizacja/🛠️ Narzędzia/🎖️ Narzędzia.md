@@ -37,3 +37,4 @@
 - [[Reveri]]
 - [[Yoink]]
 - [[Notion]]
+- [[Fig]]
