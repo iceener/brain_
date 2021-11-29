@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/📖 Książki/🎖️ Książki.md",
+            "file": "📚 Wiedza/💡 Modele Mentalne/Inversion.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "odwróc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/📖 Książki/🎖️ Książki.md",
+                "file": "📚 Wiedza/💡 Modele Mentalne/Inversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/📖 Książki/🎖️ Książki.md"
+                "file": "📚 Wiedza/💡 Modele Mentalne/Inversion.md"
               }
             }
           }
@@ -98,15 +98,15 @@
   },
   "active": "88fbf549368b7afe",
   "lastOpenFiles": [
+    "📚 Wiedza/💡 Modele Mentalne/Inversion.md",
+    "📚 Wiedza/🤔 Przemyślenia/Odwrócenie.md",
+    "📚 Wiedza/🤔 Przemyślenia/🎖️ Przemyślenia.md",
+    "📚 Wiedza/💡 Modele Mentalne/Dunning-Kurger effect.md",
     "📚 Wiedza/📖 Książki/🎖️ Książki.md",
     "📚 Wiedza/📖 Książki/Tytul.md",
     "🦾 Optymalizacja/🛠️ Narzędzia/🎖️ Narzędzia.md",
     "🦾 Optymalizacja/🛠️ Narzędzia/Fig.md",
     "🏗️ Projekty/Ahoy!.md",
-    "🏗️ Projekty/EasyTimer.md",
-    "🦾 Optymalizacja/🤖 Automatyzacja/Mikroserwisy.md",
-    "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
-    "🦾 Optymalizacja/🤖 Automatyzacja/Narzędzia.md",
-    "narz.md"
+    "🏗️ Projekty/EasyTimer.md"
   ]
 }
