@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/💡 Modele Mentalne/Inversion.md",
+            "file": "📚 Wiedza/💻 Programowanie/JavaScript/RxJS/RxJS.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/💡 Modele Mentalne/Inversion.md",
+                "file": "📚 Wiedza/💻 Programowanie/JavaScript/RxJS/RxJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/💡 Modele Mentalne/Inversion.md"
+                "file": "📚 Wiedza/💻 Programowanie/JavaScript/RxJS/RxJS.md"
               }
             }
           }
@@ -98,6 +98,7 @@
   },
   "active": "88fbf549368b7afe",
   "lastOpenFiles": [
+    "📚 Wiedza/💻 Programowanie/JavaScript/RxJS/RxJS.md",
     "📚 Wiedza/💡 Modele Mentalne/Inversion.md",
     "📚 Wiedza/🤔 Przemyślenia/Odwrócenie.md",
     "📚 Wiedza/🤔 Przemyślenia/🎖️ Przemyślenia.md",
@@ -106,7 +107,6 @@
     "📚 Wiedza/📖 Książki/Tytul.md",
     "🦾 Optymalizacja/🛠️ Narzędzia/🎖️ Narzędzia.md",
     "🦾 Optymalizacja/🛠️ Narzędzia/Fig.md",
-    "🏗️ Projekty/Ahoy!.md",
-    "🏗️ Projekty/EasyTimer.md"
+    "🏗️ Projekty/Ahoy!.md"
   ]
 }
