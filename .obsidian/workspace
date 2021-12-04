@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/💻 Programowanie/JavaScript/RxJS/RxJS.md",
-            "mode": "source"
+            "file": "🏗️ Projekty/eduweb.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/💻 Programowanie/JavaScript/RxJS/RxJS.md",
+                "file": "🏗️ Projekty/eduweb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/💻 Programowanie/JavaScript/RxJS/RxJS.md"
+                "file": "🏗️ Projekty/eduweb.md"
               }
             }
           }
@@ -98,15 +98,15 @@
   },
   "active": "88fbf549368b7afe",
   "lastOpenFiles": [
-    "📚 Wiedza/💻 Programowanie/JavaScript/RxJS/RxJS.md",
-    "📚 Wiedza/💡 Modele Mentalne/Inversion.md",
-    "📚 Wiedza/🤔 Przemyślenia/Odwrócenie.md",
-    "📚 Wiedza/🤔 Przemyślenia/🎖️ Przemyślenia.md",
-    "📚 Wiedza/💡 Modele Mentalne/Dunning-Kurger effect.md",
-    "📚 Wiedza/📖 Książki/🎖️ Książki.md",
-    "📚 Wiedza/📖 Książki/Tytul.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/🎖️ Narzędzia.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Fig.md",
-    "🏗️ Projekty/Ahoy!.md"
+    "🏗️ Projekty/eduweb.md",
+    "🏗️ Projekty/EasyTimer.md",
+    "🏗️ Projekty/EasyLegal.md",
+    "🏗️ Projekty/EasyCart.md",
+    "🏗️ Projekty/EasyBanner.md",
+    "🏗️ Projekty/Ahoy!.md",
+    "🏗️ Projekty/EasyLove.md",
+    "🏆 Fundamenty/💛 Poznawanie siebie.md",
+    "📚 Wiedza/💻 Programowanie/Web3/Źródła.md",
+    "📚 Wiedza/💻 Programowanie/JavaScript/RxJS/RxJS.md"
   ]
 }

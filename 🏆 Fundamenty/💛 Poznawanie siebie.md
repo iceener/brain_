@@ -1,3 +1,5 @@
+> *Temet Nosce*
+
 ## Kontekst
 > ⚠️ Testy osobowości to narzędzia. Niczego nie defininują, tylko wskazują przydatne elementy. Ich największą zaletą jest fakt, że zachęcają do refleksji nad samym sobą oraz porównywania ich wyników z rzeczywistością.
 
