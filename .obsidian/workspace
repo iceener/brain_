@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "88fbf549368b7afe",
+        "id": "6a7ba18883527e80",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🏗️ Projekty/eduweb.md",
-            "mode": "preview"
+            "file": "📚 Wiedza/💻 Programowanie/Web3/Źródła.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏗️ Projekty/eduweb.md",
+                "file": "📚 Wiedza/💻 Programowanie/Web3/Źródła.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏗️ Projekty/eduweb.md"
+                "file": "📚 Wiedza/💻 Programowanie/Web3/Źródła.md"
               }
             }
           }
@@ -96,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "88fbf549368b7afe",
+  "active": "6a7ba18883527e80",
   "lastOpenFiles": [
+    "📚 Wiedza/💻 Programowanie/Web3/Źródła.md",
+    "🏆 Fundamenty/💫 Proces.md",
+    "🏆 Fundamenty/📓 Dziennik.md",
     "🏗️ Projekty/eduweb.md",
     "🏗️ Projekty/EasyTimer.md",
     "🏗️ Projekty/EasyLegal.md",
     "🏗️ Projekty/EasyCart.md",
     "🏗️ Projekty/EasyBanner.md",
     "🏗️ Projekty/Ahoy!.md",
-    "🏗️ Projekty/EasyLove.md",
-    "🏆 Fundamenty/💛 Poznawanie siebie.md",
-    "📚 Wiedza/💻 Programowanie/Web3/Źródła.md",
-    "📚 Wiedza/💻 Programowanie/JavaScript/RxJS/RxJS.md"
+    "🏗️ Projekty/EasyLove.md"
   ]
 }

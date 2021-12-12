@@ -107,6 +107,16 @@ Realizowanie i rozwijanie mojego [[Proces]]u jest dla mnie priorytetem. Niemal w
 - [[🎖️ Podcast]]
 - Specjalizacja i Generalizacja - nie posiadam żadnej specjalizacji. Uczę się wszystkiego o wszystkim ([[Range]] & [[T-Shape Leader]])
 
+### System zdobywania wiedzy
+🚧 
+
+- https://fs.blog
+- https://hbr.org
+- https://mindtools.com
+- http://www.changingminds.org
+- https://untools.co/decision-making
+
+
 ### Dźwignia [[leverage]]
 
 > Dajcie mi punkt podparcia, a poruszę ziemię. ~ Archimedes
