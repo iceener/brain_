@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/💻 Programowanie/Web3/Źródła.md",
+            "file": "📚 Wiedza/📑 Słownik/Balans.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/💻 Programowanie/Web3/Źródła.md",
+                "file": "📚 Wiedza/📑 Słownik/Balans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/💻 Programowanie/Web3/Źródła.md"
+                "file": "📚 Wiedza/📑 Słownik/Balans.md"
               }
             }
           }
@@ -98,15 +98,15 @@
   },
   "active": "6a7ba18883527e80",
   "lastOpenFiles": [
-    "📚 Wiedza/💻 Programowanie/Web3/Źródła.md",
+    "📚 Wiedza/📑 Słownik/Balans.md",
+    "📚 Wiedza/📑 Słownik/Cel.md",
+    "📚 Wiedza/👽 Ludzie/Andrew Huberman.md",
     "🏆 Fundamenty/💫 Proces.md",
-    "🏆 Fundamenty/📓 Dziennik.md",
-    "🏗️ Projekty/eduweb.md",
-    "🏗️ Projekty/EasyTimer.md",
-    "🏗️ Projekty/EasyLegal.md",
-    "🏗️ Projekty/EasyCart.md",
-    "🏗️ Projekty/EasyBanner.md",
-    "🏗️ Projekty/Ahoy!.md",
-    "🏗️ Projekty/EasyLove.md"
+    "🏆 Fundamenty/💛 Poznawanie siebie.md",
+    "📚 Wiedza/🎙 Podcasty/Bruce Lee Podcast.md",
+    "📚 Wiedza/🎙 Podcasty/Huberman Lab.md",
+    "📚 Wiedza/📑 Słownik/Kierunek.md",
+    "📚 Wiedza/📑 Słownik/Indie Hackers.md",
+    "🏗️ Projekty/EasyTimer.md"
   ]
 }
