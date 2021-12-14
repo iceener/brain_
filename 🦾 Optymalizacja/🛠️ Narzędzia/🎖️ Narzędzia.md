@@ -1,40 +1,42 @@
-- [[Airtable]]
-- [[Integromat]]
-- [[Zapier]]
-- [[Keyboard Maestro]]
-- [[Romwod]]
-- [[iA Writer]]
-- [[Anki]]
-- [[Buffer]]
-- [[ClickUp]]
-- [[ProCreate]]
-- [[Notability]]
-- [[Dropshare]]
-- [[Fantastical]]
-- [[Magnet]]
-- [[Paste]]
-- [[TextSnipper]]
-- [[Sip]]
-- [[Screenflow]]
-- [[Audible]]
-- [[MindNode]]
-- [[Oak]]
-- [[Waking Up]]
-- [[Endel.io]]
-- [[Mentorist]]
-- [[Rocket]]
-- [[1Password]]
-- [[Onyx]]
-- [[Figma]]
-- [[Webflow]]
-- [[PopClip]]
-- [[Kindle]]
-- [[Superhuman]]
-- [[Headspace]]
-- [[AirBuddy]]
-- [[TabNine]]
-- [[Hazel]]
-- [[Reveri]]
-- [[Yoink]]
-- [[Notion]]
-- [[Fig]]
+- [[Airtable]] - API first excel na sterydach
+- [[Integromat]] - Najlepsze narzędzie do automatyzacji i szybkiego łączenia API
+- [[Zapier]] - Automatyzacje i szybkie łączenie API
+- [[Keyboard Maestro]] - Automatyzacje w OSX
+- [[Romwod]] - Aplikacja z programem ćwiczeń rozciągających
+- [[iA Writer]] - Edytor Markdown nastawiony na minimalizm i focus
+- [[Anki]] - Aplikacja do treningu pamięci opartego o [[Spacing Repetition]]
+- [[Buffer]] - Narzędzie do publikowania treści w wielu kanałach Social Media
+- [[ClickUp]] - Zaawansowana aplikacja do zarządzania zadaniami
+- [[ProCreate]] - Najlepsza aplikacja na iPada do rysowania
+- [[Notability]] - Aplikacja do Notowania na iPadzie
+- [[Dropshare]] - Szybkie udostępnianie plików (przez własny serwer FTP)
+- [[Fantastical]] - Fajna aplikacja do kalendarza
+- [[Magnet]] - Aplikacja do zarządzania położeniem okien
+- [[Paste]] - Manager schowka
+- [[TextSnipper]] - OCR czytający zaznaczony fragment ekranu
+- [[Sip]] - systemowy color picker
+- [[Screenflow]] - świetna aplikacja do nagrywania ekranu i edycji w locie
+- [[Audible]] - Audiobooki od Amazon
+- [[MindNode]] - jedna z lepszych aplikacji do tworzenia map myśli
+- [[Oak]] - aplikacja z ćwiczeniami oddechowymi
+- [[Waking Up]] - aplikacja do medytacji od [[Sam Harris]]
+- [[Endel.io]] - aplikacja generująca dźwięki ułatwiające skupienie 
+- [[Mentorist]] - wdrażanie wiedzy z książek
+- [[Rocket]] - systemowy emoji Picker
+- [[1Password]] - manager haseł
+- [[Onyx]] - aplikacja optymalizująca / czyszcząca system
+- [[Figma]] - webowa aplikacja do projektowania grafiki wektorowej
+- [[Webflow]] - najlepszy no-code web builder
+- [[PopClip]] - akcje na dowolnym zaznaczonym tekście
+- [[Kindle]] - aplikacja do czytania książek
+- [[Superhuman]] - klient pocztowy nastawiony na produktywność
+- [[Headspace]] - aplikacja do medytacji
+- [[AirBuddy]] - łatwe przełączanie AirPods pomiędzy urządzeniami
+- [[TabNine]] - AI based Intellisense do popularnych IDE
+- [[Hazel]] - automatyzacja zarządzania plikami i folderami
+- [[Reveri]] - aplikacja do autohipnozy
+- [[Yoink]] - aplikacja ułatwiająca przenoszenie plików i przechowywanie ich metodą drag&drop
+- [[Notion]] - aplikacja do notatek z API 
+- [[Fig]] - rozszerzenie do terminala podpowiadające składnię i katalogi
+- [[BetterTouch Tool]] - aplikacja rozszerzająca możliwości trackpada
+- [[Hyper.is]] - alternatywa dla terminala napisana w HTML5 / CSS / JS
