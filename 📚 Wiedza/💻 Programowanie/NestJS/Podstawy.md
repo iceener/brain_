@@ -67,24 +67,29 @@ Z pomocą CLI: `nest g co` (lub `nest generate controller`) tworzymy plik contro
 ## [[Services]]
 Serwisy umożliwiają rozdzielenie logiki naszej aplikacji na mniejsze części, ułatwiając jej organizację. 
 
+
 Przykład serwisu:
 ```
 @Injectable()
 export class UsersService {}
 ```
 
-Dodawanie zależności odbywa się w konstruktorze: 
+Dodawanie serwisu np. do controllera odbywa się w konstruktorze: 
 ```
 @Controller()
 export class UsersController {
   constructor(private readonly usersService: UsersService)
+  // private declares and initializes field
 }
 ```
 
 ### Tworzenie serwisów
 Z pomocą CLI `nest g s` (lub `nest generate service`) tworzymy plik serwisu i spec.ts
 
+Serwis to zwykła klasa z dektoratorem @Injectable()
+
 W Nest.js każdy serwis to [[Provider]]. Oznacza to, że serwisy mogą przyjmować zależności np. w postaci innych serwisów. 
+
 
 ## [[Modules]]
 W NestJS moduły pozwalają na organizowanie logiki biznesowej powiązanych ze sobą fragmentów (np. AuthModule)
@@ -113,8 +118,8 @@ export class CreateUserDto {
 
 ### Tworzenie DTO
 Z pomocą CLI `nest g class users/dto/create-user.dto --no-spec`generujemy plik `create-user.dto.ts` eksportujący klasę `CreateUserDto`
-## [[Validation]]
 
+## [[Validation]]
 - W pliku main.ts dodaj globalPipe: app.useGlobalPipes(new ValidationPipe())
 - Zainstaluj class-validator class-transformer
 

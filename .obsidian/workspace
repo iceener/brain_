@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "b401411c066aaaf6",
+    "id": "46bd34c22ee4d31c",
     "type": "split",
     "children": [
       {
-        "id": "74fbcd2fc86b677f",
+        "id": "eb255638de30da2c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md"
+              }
             }
           }
         ]
@@ -90,8 +97,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "74fbcd2fc86b677f",
+  "active": "eb255638de30da2c",
   "lastOpenFiles": [
+    "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md",
     "🦾 Optymalizacja/🛠️ Narzędzia/Yoink.md",
     "🦾 Optymalizacja/🛠️ Narzędzia/Zapier.md",
     "✨ Co to za miejsce?.md",
@@ -100,7 +108,6 @@
     "🦾 Optymalizacja/🛠️ Narzędzia/Figma.md",
     "🦾 Optymalizacja/🛠️ Narzędzia/ClickUp.md",
     "🦾 Optymalizacja/🛠️ Narzędzia/Audible.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Anki.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/AirBuddy.md"
+    "🦾 Optymalizacja/🛠️ Narzędzia/Anki.md"
   ]
 }
