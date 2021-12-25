@@ -2,5 +2,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "legacyEditor": false,
+  "livePreview": true
 }

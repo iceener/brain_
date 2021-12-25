@@ -44,6 +44,8 @@ Działam w oparciu o nieustannie optymalizowany [[Proces]] uwzględniający:
 
 **Przy projektowaniu swojego procesu opieram się o:**
 
+- Ciekawość - bo to ona prowadzi nas w niewyobrażalne miejsca. 
+- Otwartość - również na to, że zarówno ja jak i każda inna osoba, zwyczajnie może się mylić a coś, co jest nawet powszechnie uznawane za prawdę, może mieć z nią niewiele wspólnego.
 - W realizacji tego procesu najważniejsze jest dla mnie utrzymanie [[Dyscyplina]] o której wiele mówi [[Jocko Willink]] oraz [[Davida Goggins]] w [[Cant Hurt Me]]. 
 - W projektowaniu procesu zwracam uwagę na [[Ergodicity]] oraz siłę dźwigni ([[Leverage]]) i procentu składanego [[The Compound Effect]]
 - W moim nastawieniu na proces ogromną rolę odegrał [[Dan Millman]] i jego książka [[Way of The Peaceful Warrior]] oraz [[How to Fail at Almost Anything and Still Win Big]] i [[Pound the Stone]]
@@ -53,6 +55,8 @@ Działam w oparciu o nieustannie optymalizowany [[Proces]] uwzględniający:
 - Nieustanne kwestionowanie ([[Think Again]]) i upraszczanie ([[Simplify]] i [[Insanely Simple]] oraz [[Effortless]])
 - Działanie w oparciu o rzeczywistość ([[Principles]], [[Deviate]] i [[Getting Real]])
 - Dopuszczanie popełniania błędów ([[Black Box Thinking]] i [[Think Like a Rocket Scientist]])
+- Poruszanie się na granicy swoich kompetencji
+- Nieustanną naukę i pozostawanie na bieżąco
 - Działanie w oparciu o nawyki ([[Atomic Habits]] i [[Deep Work]])
 - Wykorzystanie dźwigni ([[Leverage]] i [[The Compound Effect]])
 - Działanie długoterminowe ([[The Infinite Game]], [[Pound the Stone]], [[So Good They Can't Ignore You]] oraz [[How to Fail at Almost Anything and Still Win Big]])
@@ -90,7 +94,7 @@ Uważam że niemożliwa jest fundamentalna zmiana, natomiast nasze przekonania i
 * **Najbliższe [[Otoczenie]]** - Zwracam uwagę na to z kim spędzam najwięcej czasu.
 * **Proaktywność** - Aktywnie utrzymuję kontakt z wybranymi osobami.
 * **Odkrywanie** - Intencjonalnie docieram do osób z którymi "czuję" że chcę mieć kontakt.
-* **Ograniczenie** - Eliminuję spotkania i przebywanie wśród osób
+* **Ograniczenie** - Eliminuję spotkania i przebywanie wśród osób, które zabierają mi energię (lub ja im).
 
 > Otaczaj się ludźmi, którzy osiągnęli to, co Ty chcesz osiągnąć i masz z nimi coś wspólnego.
 
@@ -102,13 +106,13 @@ Uważam że niemożliwa jest fundamentalna zmiana, natomiast nasze przekonania i
 ### Rozwój
 Realizowanie i rozwijanie mojego [[Proces]]u jest dla mnie priorytetem. Niemal w 100% opieram go o źródła anglojęzyczne.
 
-- [[Modele mentalne]]
-- [[🎖️ Książki]]
+- [[Modele mentalne]] - wiedza na ich temat to supermoc, pomaga w myśleniu oraz podejmowaniu decyzji - a wierzę, że to o nich jest nasze życie. 
+- [[🎖️ Książki]] - czytanie jest dla mnie jednym z głównych elementów procesu mojego rozwoju
 - [[🎖️ Podcast]]
 - Specjalizacja i Generalizacja - nie posiadam żadnej specjalizacji. Uczę się wszystkiego o wszystkim ([[Range]] & [[T-Shape Leader]])
 
 ### System zdobywania wiedzy
-🚧 
+Jest to mój sposób na to aby szybko zdobywać nowe umiejętności oraz pozostawać na bieżąco w moim kręgu umiejętności i wiedzy ([[Circle of Competence]])
 
 - https://fs.blog
 - https://hbr.org

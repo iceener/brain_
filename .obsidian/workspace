@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md",
-            "mode": "source"
+            "file": "📚 Wiedza/💡 Modele Mentalne/Ambiguity bias.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -52,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md",
+                "file": "📚 Wiedza/💡 Modele Mentalne/Ambiguity bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md"
+                "file": "📚 Wiedza/💡 Modele Mentalne/Ambiguity bias.md"
               }
             }
           }
@@ -98,15 +100,15 @@
   },
   "active": "eb255638de30da2c",
   "lastOpenFiles": [
-    "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Yoink.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Zapier.md",
-    "✨ Co to za miejsce?.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Superhuman.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Romwod.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Figma.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/ClickUp.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Audible.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Anki.md"
+    "📚 Wiedza/💡 Modele Mentalne/Ambiguity bias.md",
+    "📚 Wiedza/💡 Modele Mentalne/Actor-observer bias.md",
+    "📚 Wiedza/💡 Modele Mentalne/ Social comparsion bias.md",
+    "📚 Wiedza/💡 Modele Mentalne/20 mile march.md",
+    "📚 Wiedza/💡 Modele Mentalne/Absent-mindedness.md",
+    "📚 Wiedza/💡 Modele Mentalne/🎖️ Modele mentalne.md",
+    "📚 Wiedza/💡 Modele Mentalne/Circle of Competence.md",
+    "🏆 Fundamenty/💫 Proces.md",
+    "🏆 Fundamenty/💛 Poznawanie siebie.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Oak.md"
   ]
 }

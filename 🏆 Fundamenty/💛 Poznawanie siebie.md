@@ -8,6 +8,8 @@
 ## MBTI
 [[MBTI]] lub inaczej test 16 osobowości (chociaż według niektórych źródeł MBTI to nie 16 osobowości). Polecany przez [[Ray Dalio]]. W [[Principles]] napisał, że w oparciu o niego budował zespół rozwijając niemal od zera największy na świecie fundusz inwestycyjny. 
 
+> ℹ️ Według niektórych źródeł, test 16 osobowości ma niewiele wspólnego z MBTI.
+
 Mój profil: **INFJ**
 
 W celu eksploracji profilu przeczytałem m.in.:
