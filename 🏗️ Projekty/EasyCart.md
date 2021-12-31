@@ -1,4 +1,5 @@
 ## Aktualności 
+- Grudzień 2021 EasyCart przekracza 700 tys zł transakcji i 4000 klientów w sieci
 - Listopad 2021 EasyCart wkrótce zakończy publiczną betę
 - Sierpień 2021 Pierwszy klient po testach przełącza wszystkie swoje produkty na EC 🎉
 - Sierpień 2021 - EasyCart staje się projektem #buildinpublic
@@ -18,3 +19,8 @@ Możesz także użyć przykładowych kart, z dowolnym 3 cyfrowym CVC oraz datą
 
 ## Publikacje
 - [Jak pomóc Twórcom sprzedawać? Budujemy EasyCart!](https://www.linkedin.com/pulse/jak-pom%25C3%25B3c-tw%25C3%25B3rcom-sprzedawa%25C4%2587-budujemy-easycart-easycartpl/?trackingId=u964yQIP9WE8WCzc61XGeg%3D%3D)
+- [Nieoczywiste automatyzacje po sprzedaży](https://www.easycart.pl/blog/nie-oczywiste-automatyzacje-po-sprzedazy)
+- [Automatyzacje po sprzedaży](https://www.easycart.pl/blog/automatyzacje-po-sprzedazy)
+- [Czym jest MRR i jak pomoże Ci w prowadzeniu biznesu?](https://www.easycart.pl/blog/czym-jest-mrr-i-jak-pomoze-ci-w-prowadzeniu-biznesu)
+- [10 sposobów na zoptymalizowanie procesu zakupowego](https://www.easycart.pl/blog/10-sposobow-na-zoptymalizowanie-procesu-zakupowego)
+- [Siła Subskrypcji](https://www.easycart.pl/blog/sila-subskrypcji)

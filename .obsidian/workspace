@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/💡 Modele Mentalne/Ambiguity bias.md",
+            "file": "📚 Wiedza/🎙 Podcasty/🎖️ Podcast.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4cff885c507c51cc",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/💡 Modele Mentalne/Ambiguity bias.md",
+                "file": "📚 Wiedza/🎙 Podcasty/🎖️ Podcast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/💡 Modele Mentalne/Ambiguity bias.md"
+                "file": "📚 Wiedza/🎙 Podcasty/🎖️ Podcast.md"
               }
             }
           }
@@ -100,15 +99,15 @@
   },
   "active": "eb255638de30da2c",
   "lastOpenFiles": [
+    "📚 Wiedza/🎙 Podcasty/🎖️ Podcast.md",
+    "🏗️ Projekty/EasyLegal.md",
+    "🏗️ Projekty/EasyTimer.md",
+    "🏗️ Projekty/EasyLove.md",
+    "🏗️ Projekty/EasyCart.md",
+    "📚 Wiedza/💻 Programowanie/Optymalizacja/Optymalizacja front-endu.md",
     "📚 Wiedza/💡 Modele Mentalne/Ambiguity bias.md",
     "📚 Wiedza/💡 Modele Mentalne/Actor-observer bias.md",
     "📚 Wiedza/💡 Modele Mentalne/ Social comparsion bias.md",
-    "📚 Wiedza/💡 Modele Mentalne/20 mile march.md",
-    "📚 Wiedza/💡 Modele Mentalne/Absent-mindedness.md",
-    "📚 Wiedza/💡 Modele Mentalne/🎖️ Modele mentalne.md",
-    "📚 Wiedza/💡 Modele Mentalne/Circle of Competence.md",
-    "🏆 Fundamenty/💫 Proces.md",
-    "🏆 Fundamenty/💛 Poznawanie siebie.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Oak.md"
+    "📚 Wiedza/💡 Modele Mentalne/20 mile march.md"
   ]
 }
