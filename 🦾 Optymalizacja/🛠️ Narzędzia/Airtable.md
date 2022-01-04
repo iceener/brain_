@@ -1,3 +1,6 @@
+# Czym jest Airtable?
+To aplikacja do przechowywania danych, przypominająca arkusz Excela. Jej największą zaletą jest budowa zgodnie z podejściem [[API]] first, które świetnie sprawdza się w kontekście [[🎖️ Automatyzacja]]
+
 W [[Airtable]] przechowuję praktycznie wszystkie publikowane przeze mnie treści oraz wykorzystuję je jako bazę danych. 
 
 Ogromną zaletą jest tutaj: 

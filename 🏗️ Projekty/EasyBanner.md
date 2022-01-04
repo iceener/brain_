@@ -1,3 +1,5 @@
+## Czym jest EasyBanner?
+
 EasyBanner to mój mikroserwis, umożliwiający generowanie plików jpg / png / pdf na podstawie kodu HTML / CSS.
 
 Wykorzystuję go w połączeniu z [[Integromat]] do tworzenia [[🎖️ Automatyzacja]]. 

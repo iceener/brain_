@@ -4,7 +4,7 @@ Działam w oparciu o autorski [[Proces]] zaprojektowany z myślą o mnie. Nieust
 
 ## Kontekst
 
-Powszechnie przyjęło się, że wyznaczenie [[Cel]]u jest **niezbędne do osiągnięcia rezultatów.** Inni mówią, że lepiej pracować w oparciu o [[Proces]]/
+Powszechnie przyjęło się, że wyznaczenie [[Cel]]u jest **niezbędne do osiągnięcia rezultatów.** Inni mówią, że lepiej pracować w oparciu o [[Proces]].
 
 Sam działam w oparciu o [[Cel]] ORAZ [[Proces]] (koncepcja [[Genius of The AND]] od [[Jim Collins]]).
 
@@ -66,6 +66,7 @@ Działam w oparciu o nieustannie optymalizowany [[Proces]] uwzględniający:
 - Uczenie się wszystkiego, o wszystkim ([[Way of The Peaceful Warrior]], [[Range]] i [[Rebel Ideas]])
 - Podejmowanie mądrych decyzji ([[All I Want to Know is Where Im Going to Die So Ill Never Go There]], [[The Great Mental Models]], [[Seeking Wisdom]])
 - Rozumienie siebie (jest to fundament) ([[Understanding the INFJ Personality Type]] oraz [[StrenghtsFinder 2.0]])
+- Kwestionowanie autorytetów [[Authority bias]]
 
 ## Mój [[Proces]]
 
@@ -134,6 +135,11 @@ Koncepcja dźwigni ([[leverage]]) jest jedną z najważniejszych jakie znam. Dzi
 - [[🎖️ Automatyzacja]] - automatyzuję wiele obszarów mojej aktywności. Posiadam armię robotów, która pracuje dla mnie dzień i noc. 
 
 > Najbardziej interesującą i najważniejszą formą dźwigni jest idea produktu z minimalnym kosztem replikacji. ~ [[Naval Ravikant]]
+
+### Finanse 
+Niemal w całości opieram swoje przychody o asymetryczne źródła przychodu: subskrypcje, prowizje, udziały i inwestycje. 
+
+Łącząc to z optymalizacją swojego [[💫 Proces]]u z każdym kolejnym dniem generowana przeze mnie wartość oraz moje zarobki rosną nieporporcjonalnie do mojego zaangażowania czasowego. 
 
 #### 🔗 Źródła:
 	

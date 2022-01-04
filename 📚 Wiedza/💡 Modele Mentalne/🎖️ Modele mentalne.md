@@ -1,5 +1,11 @@
 [[Modele mentalne]] usprawniają mój proces myślowy, szczególnie w kontekście podejmowania decyzji oraz rozwiązywania problemów.
 
+
+## Źródła
+- https://untools.co/ishikawa-diagram
+- 
+
+## Modele mentalne
 - [[Inversion]]
 - [[Occams Razor]]
 - [[First Principles]]

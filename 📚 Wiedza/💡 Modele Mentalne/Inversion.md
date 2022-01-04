@@ -20,3 +20,5 @@ W praktyce gdy staję przed problemem, który wydaje się być trudny lub nawet 
 
 To sprawia że zmienia się moja [[Perspektywa]] i zwykle zaczynam zauważać rzeczy o na które wcześniej nie zwracałem uwagi. 
 
+## Źródła:
+- https://www.anup.io/p/invert-always-invert

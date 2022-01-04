@@ -7,7 +7,7 @@ Każda z poniższych wartości jest dla mnie tak samo ważna i niezmienna na prz
 **Inspirowanie innych** do rozwoju.
 
 ## Moje wartości:
-- **Rozwój:** Jestem ciekawy Świata
+- **Rozwój:** Jestem ciekawy Świata ([[Ciekawość]])
 - **Wolność:** Dyscyplina daje mi wolność ([[Jocko Willink]])
 - **Entuzjazm:** Pozytywne nastawienie pozwala mi pokonywać przeciwności
 

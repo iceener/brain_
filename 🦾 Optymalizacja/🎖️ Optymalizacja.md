@@ -1,0 +1,4 @@
+[[💫 Proces]]
+[[🎖️ Sprzęt]]
+[[🎖️ Automatyzacja]]
+[[🎖️ Narzędzia]]
