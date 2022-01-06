@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/💡 Modele Mentalne/Inversion.md",
+            "file": "🦾 Optymalizacja/🛠️ Narzędzia/Webflow.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/💡 Modele Mentalne/Inversion.md",
+                "file": "🦾 Optymalizacja/🛠️ Narzędzia/Webflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/💡 Modele Mentalne/Inversion.md"
+                "file": "🦾 Optymalizacja/🛠️ Narzędzia/Webflow.md"
               }
             }
           }
@@ -99,15 +99,15 @@
   },
   "active": "eb255638de30da2c",
   "lastOpenFiles": [
+    "🦾 Optymalizacja/🛠️ Narzędzia/Webflow.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Waking Up.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/TextSnipper.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/TabNine.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Superhuman.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Screenflow.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Romwod.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Rocket.md",
     "📚 Wiedza/💡 Modele Mentalne/Inversion.md",
-    "📚 Wiedza/💡 Modele Mentalne/🎖️ Modele mentalne.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/iPad.md",
-    "📚 Wiedza/👽 Ludzie/Adam Grant.md",
-    "📚 Wiedza/👽 Ludzie/Adam Wathan.md",
-    "📚 Wiedza/👽 Ludzie/Andrew Huberman.md",
-    "📚 Wiedza/👽 Ludzie/Bruce Lee.md",
-    "📚 Wiedza/👽 Ludzie/Charlie Munger.md",
-    "📚 Wiedza/👽 Ludzie/Dan Millman.md",
-    "📚 Wiedza/👽 Ludzie/Elon Musk.md"
+    "📚 Wiedza/💡 Modele Mentalne/🎖️ Modele mentalne.md"
   ]
 }
