@@ -11,7 +11,7 @@ Mając 16-18 lat realizowałem pierwsze projekty dla klientów a mając 19/20 la
 
 Tam w roli CTO rozwijałem m.in produkty: Notatek.pl, Skillveo oraz Talent Place. 
 
-Od 2017 rozwijam overment a od 2020 eduweb i wszystkie pozostałe [[Projekty]]
+Od 2017 rozwijam overment a od 2020 eduweb i wszystkie pozostałe [[🎖️ Projekty]]
 
 ## Książki
 
