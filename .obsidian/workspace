@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🏗️ Projekty/🎖️ Projekty.md",
+            "file": "📚 Wiedza/💻 Programowanie/NestJS/Upload plików.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏗️ Projekty/🎖️ Projekty.md",
+                "file": "📚 Wiedza/💻 Programowanie/NestJS/Upload plików.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏗️ Projekty/🎖️ Projekty.md"
+                "file": "📚 Wiedza/💻 Programowanie/NestJS/Upload plików.md"
               }
             }
           }
@@ -99,15 +99,15 @@
   },
   "active": "eb255638de30da2c",
   "lastOpenFiles": [
+    "📚 Wiedza/💻 Programowanie/NestJS/Upload plików.md",
+    "📚 Wiedza/💻 Programowanie/JavaScript/🎖️ JavaScript.md",
+    "🏗️ Projekty/overment.md",
+    "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md",
     "🏗️ Projekty/🎖️ Projekty.md",
     "🏗️ Projekty/zautomatyzowani.md",
-    "🏗️ Projekty/overment.md",
     "🏗️ Projekty/eduweb.md",
     "🏗️ Projekty/EasyTimer.md",
     "🏗️ Projekty/EasyLove.md",
-    "🏗️ Projekty/EasyLegal.md",
-    "🏗️ Projekty/EasyCart.md",
-    "🏗️ Projekty/EasyBanner.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Webflow.md"
+    "🏗️ Projekty/EasyLegal.md"
   ]
 }
