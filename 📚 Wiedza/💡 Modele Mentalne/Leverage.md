@@ -12,7 +12,7 @@ Opieram o ten mechanizm niemal wszystkie podejmowane przeze mnie działania w ra
 - niemal nigdy nie rozmawiam przez telefon
 - projektuję swoje źródła przychodu w taki sposób, aby raz włożony wysiłek zwracał się x1000 razy
 - wkładam większy wysiłek w wykonanie zadania, realizując je w taki sposób, aby jego ponowne wykonanie zajęło mi x10 mniej czasu. Głównie stosuję tutaj [[🎖️ Automatyzacja]]
-- regularnie zmieniam stack [[Narzędzia]] z jakich korzystam. Niemal nieustannie pojawiają się nowe rozwiązania, które wnoszą więcej wartości lub pozwalają optymalizować procesy.
+- regularnie zmieniam stack [[🎖️ Narzędzia]] z jakich korzystam. Niemal nieustannie pojawiają się nowe rozwiązania, które wnoszą więcej wartości lub pozwalają optymalizować procesy.
 
 Aktywności takie jak spotkania czy rozmowy zabierają nieproporconalnie dużo czasu do wartości jaką dają. Wyjątek stanowią tutaj spotkania z ludźmi których lubię aczkolwiek też zachowuję tutaj zdrowy balans.
 

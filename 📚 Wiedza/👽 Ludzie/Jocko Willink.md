@@ -1,0 +1,1 @@
+Autor książek [[Extreme Ownership]] i [[Dichotomy of Leadership]]

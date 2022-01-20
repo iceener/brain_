@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/💻 Programowanie/NestJS/Upload plików.md",
+            "file": "🏗️ Projekty/EasyLegal.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/💻 Programowanie/NestJS/Upload plików.md",
+                "file": "🏗️ Projekty/EasyLegal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/💻 Programowanie/NestJS/Upload plików.md"
+                "file": "🏗️ Projekty/EasyLegal.md"
               }
             }
           }
@@ -99,15 +99,15 @@
   },
   "active": "eb255638de30da2c",
   "lastOpenFiles": [
-    "📚 Wiedza/💻 Programowanie/NestJS/Upload plików.md",
-    "📚 Wiedza/💻 Programowanie/JavaScript/🎖️ JavaScript.md",
-    "🏗️ Projekty/overment.md",
-    "📚 Wiedza/💻 Programowanie/NestJS/Podstawy.md",
-    "🏗️ Projekty/🎖️ Projekty.md",
-    "🏗️ Projekty/zautomatyzowani.md",
-    "🏗️ Projekty/eduweb.md",
-    "🏗️ Projekty/EasyTimer.md",
-    "🏗️ Projekty/EasyLove.md",
-    "🏗️ Projekty/EasyLegal.md"
+    "🏗️ Projekty/EasyLegal.md",
+    "🏗️ Projekty/EasyCart.md",
+    "🏗️ Projekty/Design Maestro.md",
+    "📚 Wiedza/💡 Modele Mentalne/Automation bias.md",
+    "📚 Wiedza/💡 Modele Mentalne/Authority bias.md",
+    "📚 Wiedza/💡 Modele Mentalne/Attentional bias.md",
+    "📚 Wiedza/💡 Modele Mentalne/Argument from fallacy.md",
+    "📚 Wiedza/💡 Modele Mentalne/Appeal to probability fallacy.md",
+    "📚 Wiedza/💡 Modele Mentalne/Appeal to Novelty.md",
+    "📚 Wiedza/💡 Modele Mentalne/Anthropomorphism.md"
   ]
 }

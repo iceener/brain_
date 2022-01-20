@@ -75,7 +75,17 @@ Ze względu na to, że test wykonałem kilka miesięcy temu, na ten moment nie m
 Wykonałem go na stronie [[Peter Peterson]]: 
 [https://www.understandmyself.com/personality-assessment](https://www.understandmyself.com/personality-assessment)
 
+## Self Authoring
 Poza nim zrealizowałem również Program Self Authoring do którego wkrótce wracam.
 [https://www.selfauthoring.com](https://www.selfauthoring.com/)
 
 Self Authoring to starannie zaprojektowany i wymagający Program pomagający odkryć przeszłość, teraźniejszość oraz zaplanować przyszłość. W jego kontekście najważniejsze zdanie jakie utkwiło mi w pamięci, mówiło o tym, że w szkole uczą nas tego jak pisać o kimś a nikt nie uczy nas prawdziwie pisać o sobie. 
+
+## Disc 3.0
+To badanie jako jedyne wyłącznie wykonałem i pobierznie przejrzałem wyniki. W dużym stopniu pokrywały się z pozostalymi testami ale jednocześnie ich sposób przekazania zupełnie do mnie nie przemówił. 
+
+Tutaj warto dodać, że Disc wykonywałem dość dawno temu i nie mam wątpliwości, że od tego czasu wiele mogło się tutaj zmienić.
+
+![](https://space.overment.com/Shared-Image-2022-01-19-21-52-36/Shared-Image-2022-01-19-21-52-36.png)
+
+![](https://space.overment.com/Shared-Image-2022-01-19-21-53-30/Shared-Image-2022-01-19-21-53-30.png)

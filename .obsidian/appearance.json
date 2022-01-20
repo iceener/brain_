@@ -3,5 +3,7 @@
   "translucency": false,
   "enabledCssSnippets": [
     "obsidian"
-  ]
+  ],
+  "cssTheme": "Minimal",
+  "theme": "obsidian"
 }
