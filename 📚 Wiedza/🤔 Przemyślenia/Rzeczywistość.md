@@ -17,4 +17,9 @@ W odkrywaniu rzeczy o których nie wiemy, najbardziej mogą nam pomóc inni ludz
 
 O opisanej akcji dowiesz się więcej z książki [[Principles]]
 
+## Modele rzeczywistości 
+Podobnie jak [[🎖️ Modele mentalne]], istnieją [[Model Rzeczywistości]] o których dowiedziałem się w [[The Code of Extraordinary Mind]]. 
+
+Zgodnie z opisem znajdującym się powyżej, nie możemy zobaczyć rzeczywistości taką jaka jest, ponieważ jej odbiór jest zniekształcany przez różne czynniki. Tworząc i modyfikując modele rzeczywistości, jesteśmy w stanie kształtować naszą interpretację i tym samym wpływać na to jak widzimy świat. 
+
 ## Źródła

@@ -6,3 +6,4 @@
 - [[Rozczarowanie]]
 - [[Odpuszczanie]]
 - [[Niemyślenie]]
+- [[Odwrócenie]]
