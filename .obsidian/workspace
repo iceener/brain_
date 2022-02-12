@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/🤔 Przemyślenia/Oczekiwania.md",
+            "file": "📚 Wiedza/🤔 Przemyślenia/Dyscyplina.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/🤔 Przemyślenia/Oczekiwania.md",
+                "file": "📚 Wiedza/🤔 Przemyślenia/Dyscyplina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/🤔 Przemyślenia/Oczekiwania.md"
+                "file": "📚 Wiedza/🤔 Przemyślenia/Dyscyplina.md"
               }
             }
           }
@@ -99,15 +99,15 @@
   },
   "active": "eb255638de30da2c",
   "lastOpenFiles": [
-    "📚 Wiedza/🤔 Przemyślenia/Oczekiwania.md",
-    "📚 Wiedza/🤔 Przemyślenia/Nuda.md",
-    "📚 Wiedza/🤔 Przemyślenia/Niemyślenie.md",
     "📚 Wiedza/🤔 Przemyślenia/Dyscyplina.md",
-    "📚 Wiedza/🤔 Przemyślenia/🎖️ Przemyślenia.md",
-    "📚 Wiedza/🤔 Przemyślenia/Emocje.md",
-    "📚 Wiedza/🤔 Przemyślenia/Intuicja.md",
+    "📚 Wiedza/🤔 Przemyślenia/Niemyślenie.md",
     "📚 Wiedza/🤔 Przemyślenia/Negocjacje.md",
+    "📚 Wiedza/🤔 Przemyślenia/Nuda.md",
     "📚 Wiedza/🤔 Przemyślenia/Odwrócenie.md",
+    "📚 Wiedza/🤔 Przemyślenia/Emocje.md",
+    "📚 Wiedza/🤔 Przemyślenia/Oczekiwania.md",
+    "📚 Wiedza/🤔 Przemyślenia/🎖️ Przemyślenia.md",
+    "📚 Wiedza/🤔 Przemyślenia/Intuicja.md",
     "📚 Wiedza/🤔 Przemyślenia/Odpuszczanie.md"
   ]
 }
