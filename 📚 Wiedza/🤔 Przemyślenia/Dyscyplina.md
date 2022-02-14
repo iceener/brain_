@@ -1,1 +1,1 @@
-[[Jocko Willink]] powiedział, że "Dyscyplina daje wolność" i bardzo wyraźnie podkreślił to w książce [[Extreme Ownership]]. Popatrzenie na dyscyplinę z tej perspektywy i połączenie wiedzy na temat kształtowania nawyków z książki [[Atomic Habits]] dało mi 
+[[Jocko Willink]] powiedział, że "Dyscyplina daje wolność" i bardzo wyraźnie podkreślił to w książce [[Extreme Ownership]]. Popatrzenie na dyscyplinę z tej perspektywy i połączenie wiedzy na temat kształtowania nawyków z książki [[Atomic Habits]] dało
