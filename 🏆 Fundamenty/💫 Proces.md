@@ -17,8 +17,8 @@ Dobrze wyznaczony [[Cel]] określa miejsca i czas realizacji (\([SMART](https://
 W przypadku dużego celu, wystarczy podzielić go na mniejsze aby zmniejszyć "opór" ([[War of Art]]). Realizacja mniejszych celów nadaje [[Momentum]] poprzez m.in. wykorzystanie dopaminy o której więcej mówi [[Andrew Huberman#Motywacja Drive]]
 
 **W praktyce cele mają wady:** 
-- budują [[Oczekiwania]], które mogą nie zgodzić się z [[Rzeczywistość]]
-- nigdy nie wiemy czy naprawdę tego chcemy
+- budują [[Oczekiwania]], które mogą nie zgodzię się z [[Rzeczywistość]] (rezultatem)
+- nigdy nie wiemy CZY naprawdę tego chcemy
 - nigdy nie wiemy co tak naprawdę otrzymamy [[Dan Millman#Oczekiwania wobec celu]]
 - realizacja dużego celu daje efekt **"no dobra, ale co teraz?!"**
 - zrezygnowanie z celu lub modyfikacja nie jest łatwa (np. ze względu na [[Commitment and Consistency Bias]] i/lub [[Status Quo Bias]]
@@ -36,7 +36,7 @@ Działam w oparciu o nieustannie optymalizowany [[Proces]] uwzględniający:
 * Fundamenty \(sen, dieta, sport, nuda\)
 * Poznawanie siebie \(pisanie dziennika i czytanie go, StrengthsFinder, MBTI, Principles You\)
 * Otoczenie \(ludzie z którymi spędzam czas\)
-* Rozwój \(system zdobywania wiedzy, poznawanie modeli mentalnych, czytanie książek\)
+* Rozwój \([[📚 System zdobywania wiedzy]], poznawanie modeli mentalnych, czytanie książek\)
 * Dźwignię ([[Leverage]]) \(moja godzina generuje zwielokrotniony efekt\)
 * Wolność \(nie sprzedaję mojego czasu, unikam planowanych aktywności\)
 
@@ -113,13 +113,9 @@ Realizowanie i rozwijanie mojego [[Proces]]u jest dla mnie priorytetem. Niemal w
 - Specjalizacja i Generalizacja - nie posiadam żadnej specjalizacji. Uczę się wszystkiego o wszystkim ([[Range]] & [[T-Shape Leader]])
 
 ### System zdobywania wiedzy
-Jest to mój sposób na to aby szybko zdobywać nowe umiejętności oraz pozostawać na bieżąco w moim kręgu umiejętności i wiedzy ([[Circle of Competence]])
+Jest to mój sposób na to aby szybko zdobywać nowe umiejętności oraz pozostawać na bieżąco w moim kręgu umiejętności i wiedzy ([[Circle of Competence]]).
 
-- https://fs.blog
-- https://hbr.org
-- https://mindtools.com
-- http://www.changingminds.org
-- https://untools.co/decision-making
+Zobacz więcej 👉 [[📚 System zdobywania wiedzy]].
 
 
 ### Dźwignia [[leverage]]

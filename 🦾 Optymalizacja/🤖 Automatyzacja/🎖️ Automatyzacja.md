@@ -41,7 +41,7 @@ Nicky to designer tworzący niemal wszystkie grafiki które pojawiają się w mo
 
 ### Ellie - Researcher
 ![](https://space.overment.com/30DlrdWqwsrOkAr42ReG/Ellie-Researcher.png)
-Ellie pomaga mi w pozostawaniu na bieżąco z źródłami wiedzy z mojego [[System zdobywania wiedzy]]. Odwiedza blogi, newslettery i strony www, zbierając informacje które mogą być przydatne dla mnie lub na potrzeby tworzonych przeze mnie materiałów. Ellie dodaje też nowe wpisy do mojego projektu [[brain.overment.com]]
+Ellie pomaga mi w pozostawaniu na bieżąco z źródłami wiedzy z mojego [[📚 System zdobywania wiedzy]] Odwiedza blogi, newslettery i strony www, zbierając informacje które mogą być przydatne dla mnie lub na potrzeby tworzonych przeze mnie materiałów. Ellie dodaje też nowe wpisy do mojego projektu [[brain.overment.com]]
 
 ### Luke - Studio
 ![](https://space.overment.com/hs32tUAIugXVHnxgJjDM/Luke-Studio.png)
