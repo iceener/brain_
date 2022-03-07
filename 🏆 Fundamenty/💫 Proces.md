@@ -28,7 +28,7 @@ Między innymi z powyższych powodów, stosuję cele w pojedynczych przypadkach.
 ### Kierunek vs. Cel
 - [[Cel]] posiada datę realizacji i warunki jego spełnienia. [[📚 Wiedza/📑 Słownik/Kierunek]] nie.
 - Z definicji w kierunku można podążać ale nie da się do niego dojść.
-- Różnica pomiędzy jednym a drugim ma dużą rolę narracyjną a jak mówi [[Davida Goggins]], dialog który odbywamy ze sobą jest najważniejszym ze wszystkich.
+- Różnica pomiędzy jednym a drugim ma dużą rolę narracyjną a jak mówi [[David Goggins]], dialog który odbywamy ze sobą jest najważniejszym ze wszystkich.
 
 ### Proces
 Działam w oparciu o nieustannie optymalizowany [[Proces]] uwzględniający:
@@ -46,7 +46,7 @@ Działam w oparciu o nieustannie optymalizowany [[Proces]] uwzględniający:
 
 - Ciekawość - bo to ona prowadzi nas w niewyobrażalne miejsca. 
 - Otwartość - również na to, że zarówno ja jak i każda inna osoba, zwyczajnie może się mylić a coś, co jest nawet powszechnie uznawane za prawdę, może mieć z nią niewiele wspólnego.
-- W realizacji tego procesu najważniejsze jest dla mnie utrzymanie [[Dyscyplina]] o której wiele mówi [[Jocko Willink]] oraz [[Davida Goggins]] w [[Cant Hurt Me]]. 
+- W realizacji tego procesu najważniejsze jest dla mnie utrzymanie [[Dyscyplina]] o której wiele mówi [[Jocko Willink]] oraz [[David Goggins]] w [[Cant Hurt Me]]. 
 - W projektowaniu procesu zwracam uwagę na [[Ergodicity]] oraz siłę dźwigni ([[Leverage]]) i procentu składanego [[The Compound Effect]]
 - W moim nastawieniu na proces ogromną rolę odegrał [[Dan Millman]] i jego książka [[Way of The Peaceful Warrior]] oraz [[How to Fail at Almost Anything and Still Win Big]] i [[Pound the Stone]]
 - Branie pełnej odpowiedzialności za to co robię ([[Extreme Ownership]]) i pełne zaangażowanie ([[Skin in the Game]])

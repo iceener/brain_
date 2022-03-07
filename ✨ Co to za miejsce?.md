@@ -12,7 +12,7 @@ W tym miejscu dzielę się z Tobą wszystkim co wiem. Stworzyłem je przede wszy
 * Moje notatki na temat Programowania, Projektowania, Marketingu i szeroko pojętego Biznesu
 * [[🎖️ Sprzęt]] z jakiego korzystam
 * Opisy wykorzystywanych przeze mnie [[🎖️ Automatyzacja]] i [[Narzędzia]]
-* Informacje na temat projektów w które jestem zaangażowany ([[eduweb]], [[zautomatyzowani]], [[overment]], [[EasyCart]], [[EasyBanner]])
+* Informacje na temat projektów w które jestem zaangażowany ([[eduweb]], [[zautomatyzowani]], [[🏗️ Projekty/overment]], [[EasyCart]], [[EasyBanner]])
 * Moje wszystkie bezpłatne i płatne publikacje
 
 ## Wyszukiwanie & Obsidian

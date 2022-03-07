@@ -16,4 +16,4 @@ Opieram o ten mechanizm niemal wszystkie podejmowane przeze mnie działania w ra
 
 Aktywności takie jak spotkania czy rozmowy zabierają nieproporconalnie dużo czasu do wartości jaką dają. Wyjątek stanowią tutaj spotkania z ludźmi których lubię aczkolwiek też zachowuję tutaj zdrowy balans.
 
-Mechanizm dźwigni świetnie łączy się z efektem procentu składanego ([[The Compound Effect]]). Bardzo istotną rolę w wykorzystaniu obu koncepcji odgrywa [[Dyscyplina]] bardzo mocno promowana przez [[Davida Goggins]] w książce [[Cant Hurt Me]] oraz [[Jocko Willink]] w książce [[Extreme Ownership]]
+Mechanizm dźwigni świetnie łączy się z efektem procentu składanego ([[The Compound Effect]]). Bardzo istotną rolę w wykorzystaniu obu koncepcji odgrywa [[Dyscyplina]] bardzo mocno promowana przez [[David Goggins]] w książce [[Cant Hurt Me]] oraz [[Jocko Willink]] w książce [[Extreme Ownership]]

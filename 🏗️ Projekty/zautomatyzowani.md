@@ -7,7 +7,7 @@
 ## Produkty
 ### YouTube na Autopilocie
 - [YouTube na Autopilocie](https://youtube.zautomatyzowani.pl)
-	- Automatyzacja YouTube jaką wykorzystuję w [[overment]] do prowadzenia kanału. 
+	- Automatyzacja YouTube jaką wykorzystuję w [[🏗️ Projekty/overment]] do prowadzenia kanału. 
 	- Narzędzia: [[Airtable]], [[Integromat]], [[Zapier]]
 
 ### Newsletter na Autopilocie

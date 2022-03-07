@@ -6,6 +6,6 @@
 - Automatyczne przesyłanie plików z nagraniami dla montażysty
 	- Zapisanie na dysku Google
 	- Wysłanie informacji o "drafcie" do montażysty przez [[Integromat]] i [[Sendgrid]]
-	- Dodanie wpisu w [[Airtable]] w tabeli projektu (np. [[overment]] / [[zautomatyzowani]] / [[eduweb]])
+	- Dodanie wpisu w [[Airtable]] w tabeli projektu (np. [[🏗️ Projekty/overment]] / [[zautomatyzowani]] / [[eduweb]])
 
 ## Źródła

@@ -8,4 +8,4 @@ Inaczej mówiąc: chodzi o poruszanie się w stałym tempie niezależnie od czyn
 ## Jak stosuję [[20 mile march]]?
 Dbam o [[💫 Proces#Fundamenty]] oraz podejmując działania, zawsze myślę długoterminowo mając na uwadze [[The Infinite Game]].
 
-Np. mógłbym tygodniowo nagrywać 3-4 filmy na [[overment]]. W praktyce nagrywam jeden ale za to jestem w stanie to robić regularnie (o ile jest to dla mnie [[Priorytet]])
+Np. mógłbym tygodniowo nagrywać 3-4 filmy na [[🏗️ Projekty/overment]]. W praktyce nagrywam jeden ale za to jestem w stanie to robić regularnie (o ile jest to dla mnie [[Priorytet]])
