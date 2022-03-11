@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🏆 Fundamenty/📓 Dziennik.md",
+            "file": "📚 Wiedza/📖 Książki/Tytul.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏆 Fundamenty/📓 Dziennik.md",
+                "file": "📚 Wiedza/📖 Książki/Tytul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏆 Fundamenty/📓 Dziennik.md"
+                "file": "📚 Wiedza/📖 Książki/Tytul.md"
               }
             }
           }
@@ -99,6 +99,7 @@
   },
   "active": "eb255638de30da2c",
   "lastOpenFiles": [
+    "📚 Wiedza/📖 Książki/Tytul.md",
     "🏆 Fundamenty/📓 Dziennik.md",
     "📚 Wiedza/👽 Ludzie/David Goggins.md",
     "🏆 Fundamenty/💫 Proces.md",
@@ -107,7 +108,6 @@
     "📚 Wiedza/🤔 Przemyślenia/Podejmowanie decyzji.md",
     "📚 Wiedza/🤔 Przemyślenia/Odwrócenie.md",
     "📚 Wiedza/🤔 Przemyślenia/Oczekiwania.md",
-    "📚 Wiedza/🤔 Przemyślenia/Nuda.md",
-    "📚 Wiedza/overment.md"
+    "📚 Wiedza/🤔 Przemyślenia/Nuda.md"
   ]
 }
