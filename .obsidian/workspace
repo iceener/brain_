@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/📖 Książki/Tytul.md",
+            "file": "📚 Wiedza/🤔 Przemyślenia/Oczekiwania.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/📖 Książki/Tytul.md",
+                "file": "📚 Wiedza/🤔 Przemyślenia/Oczekiwania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/📖 Książki/Tytul.md"
+                "file": "📚 Wiedza/🤔 Przemyślenia/Oczekiwania.md"
               }
             }
           }
@@ -99,15 +99,15 @@
   },
   "active": "eb255638de30da2c",
   "lastOpenFiles": [
+    "📚 Wiedza/🤔 Przemyślenia/Oczekiwania.md",
+    "📚 Wiedza/🤔 Przemyślenia/Nuda.md",
+    "📚 Wiedza/🤔 Przemyślenia/Niemyślenie.md",
+    "📚 Wiedza/🤔 Przemyślenia/Dyscyplina.md",
     "📚 Wiedza/📖 Książki/Tytul.md",
     "🏆 Fundamenty/📓 Dziennik.md",
     "📚 Wiedza/👽 Ludzie/David Goggins.md",
     "🏆 Fundamenty/💫 Proces.md",
     "🏆 Fundamenty/💛 Poznawanie siebie.md",
-    "📚 Wiedza/🤔 Przemyślenia/Odpuszczanie.md",
-    "📚 Wiedza/🤔 Przemyślenia/Podejmowanie decyzji.md",
-    "📚 Wiedza/🤔 Przemyślenia/Odwrócenie.md",
-    "📚 Wiedza/🤔 Przemyślenia/Oczekiwania.md",
-    "📚 Wiedza/🤔 Przemyślenia/Nuda.md"
+    "📚 Wiedza/🤔 Przemyślenia/Odpuszczanie.md"
   ]
 }
