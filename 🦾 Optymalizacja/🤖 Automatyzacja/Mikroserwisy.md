@@ -11,6 +11,7 @@ W kampaniach wykorzystuję liczniki odmierzające czas do zakończenia sprzedaż
 Tak powstał mikroserwis umożliwiający generowanie timerów w formie pliku .gif. Aktualnie dostępny jest jako [[EasyTimer]]
 
 ## Carbon.now.sh
+Prosty mikroserwis do którego mogę przesłać ID gista i na jego podstawie zostanie wygenerowana grafika z odpowiednio sformatowanym fragmentem kodu.
 
-## Generowanie grafik
-
+## $AHOY
+Mikroserwis symulujący blockchain, umożliwiający zapisywanie historii transakcji, tworzenie portfeli i ich kategorii. 

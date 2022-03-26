@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Wiedza/🤔 Przemyślenia/Oczekiwania.md",
+            "file": "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Wiedza/🤔 Przemyślenia/Oczekiwania.md",
+                "file": "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Wiedza/🤔 Przemyślenia/Oczekiwania.md"
+                "file": "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md"
               }
             }
           }
@@ -99,15 +99,15 @@
   },
   "active": "eb255638de30da2c",
   "lastOpenFiles": [
-    "📚 Wiedza/🤔 Przemyślenia/Oczekiwania.md",
-    "📚 Wiedza/🤔 Przemyślenia/Nuda.md",
-    "📚 Wiedza/🤔 Przemyślenia/Niemyślenie.md",
-    "📚 Wiedza/🤔 Przemyślenia/Dyscyplina.md",
-    "📚 Wiedza/📖 Książki/Tytul.md",
-    "🏆 Fundamenty/📓 Dziennik.md",
-    "📚 Wiedza/👽 Ludzie/David Goggins.md",
+    "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
+    "🦾 Optymalizacja/🖥️ Sprzęt/StreamDeck.md",
+    "🦾 Optymalizacja/🖥️ Sprzęt/Macbook.md",
+    "🦾 Optymalizacja/🖥️ Sprzęt/iPhone.md",
+    "🦾 Optymalizacja/🖥️ Sprzęt/iPad.md",
     "🏆 Fundamenty/💫 Proces.md",
     "🏆 Fundamenty/💛 Poznawanie siebie.md",
-    "📚 Wiedza/🤔 Przemyślenia/Odpuszczanie.md"
+    "🦾 Optymalizacja/🛠️ Narzędzia/Raycast.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Airtable.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/🎖️ Narzędzia.md"
   ]
 }

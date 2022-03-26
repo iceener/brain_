@@ -77,3 +77,5 @@
 - [[Letting Go]]
 - [[Peak]]
 - [[Essentialism: The Disciplined Pursuit of Less]]
+- [[Gladiators, Pirates and Games of Trust]]
+- [[Lying]]

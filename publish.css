@@ -107,7 +107,7 @@ img[alt="overment"] { width: 200px; margin: 0 auto; display: block; }
         top:  0;
     }
     body.theme-dark {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
 
     h1, h2, h3, h4, h5, h6,  {
@@ -115,7 +115,7 @@ img[alt="overment"] { width: 200px; margin: 0 auto; display: block; }
     }
 
     .markdown-preview-view {
-        font-size: 1.5rem;
-        line-height: 2rem;
+        font-size: 1.3rem;
+        line-height: 1.7rem;
     }
 }

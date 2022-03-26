@@ -3,6 +3,7 @@
 - [[Zapier]] - Automatyzacje i szybkie łączenie API
 - [[Keyboard Maestro]] - Automatyzacje w OSX
 - [[Romwod]] - Aplikacja z programem ćwiczeń rozciągających
+- [[Raycast]] - Launcher w którym tworzę własne rozszerzenia w [[Node.js]], [[JavaScript]], [[React.js]] i [[TypeScript]]
 - [[iA Writer]] - Edytor Markdown nastawiony na minimalizm i focus
 - [[Anki]] - Aplikacja do treningu pamięci opartego o [[Spacing Repetition]]
 - [[Buffer]] - Narzędzie do publikowania treści w wielu kanałach Social Media

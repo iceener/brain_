@@ -7,3 +7,6 @@
 ## [[Airtable]]
 
 ## [[Keyboard Maestro]]
+
+## [[Raycast]]
+

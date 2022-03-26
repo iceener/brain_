@@ -25,3 +25,10 @@ Książki to kolejny element procesu zdobywania wiedzy. Kluczowe jest tylko to a
 
 ## Jak dużo się uczę?
 Nie mierzę tego w żaden sposób, ale uczenie się jest praktycznie nieodłącznym elementem mojego dnia. Oznacza to, że 
+
+### Źródła
+- https://changingminds.org
+- https://fs.blog
+- https://mindtools.com
+- http://www.paulgraham.com
+- https://www.britannica.com/browse/Science

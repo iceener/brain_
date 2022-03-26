@@ -6,7 +6,8 @@ Wykorzystuję go nie tylko do programowania ale też projektowania grafiki oraz 
 Na każdym kroku wykorzystuję maksimum potencjału (np. z pomocą [[Keyboard Maestro]] czy [[Alfred]]) oraz sięgam po najlepszy aktualnie dostępny dla mnie sprzęt.
 
 ## Specyfikacja
-> ⚠️ WAŻNE: Poniższa specyfikacja zawiera listę sprzętu, który posiadam obecnie. Przez lata rozwijałem swoje projekty korzystając z narzędzi na które wówczas po prostu nie mogłem sobie pozwolić. Dbałem wyłącznie o to aby w miarę możliwości aktualizować swój setup, by dawał mi jak największy komfort pracy i jednocześnie był w zasięgu moich możliwości.
+
+> ⚠️ WAŻNE: Poniższa specyfikacja zawiera listę sprzętu, który posiadam obecnie. Przez lata rozwijałem swoje projekty korzystając z narzędzi na które wówczas po prostu nie mogłem sobie pozwolić. Dbałem wyłącznie o to, aby w miarę możliwości aktualizować swój setup, by dawał mi jak największy komfort pracy i jednocześnie był w zasięgu moich możliwości.
 
 ![](https://space.overment.com/Screen-Shot-2021-11-20-14-00-50/Screen-Shot-2021-11-20-14-00-50.png)
 

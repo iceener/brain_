@@ -64,7 +64,7 @@ Działam w oparciu o nieustannie optymalizowany [[Proces]] uwzględniający:
 - Działanie w oparciu o rzeczy które mnie wzmacniają ([[Antifragile]] i [[Fooled by Randomness]])
 - Nie poddawanie się ([[Grit]] oraz [[That Will Never Work]])
 - Uczenie się wszystkiego, o wszystkim ([[Way of The Peaceful Warrior]], [[Range]] i [[Rebel Ideas]])
-- Podejmowanie mądrych decyzji ([[All I Want to Know is Where Im Going to Die So Ill Never Go There]], [[The Great Mental Models]], [[Seeking Wisdom]])
+- Podejmowanie mądrych decyzji ([[All I Want to Know is Where Im Going to Die So Ill Never Go There]], [[The Great Mental Models]], [[Seeking Wisdom]], [[Gladiators, Pirates and Games of Trust]])
 - Rozumienie siebie (jest to fundament) ([[Understanding the INFJ Personality Type]] oraz [[StrenghtsFinder 2.0]])
 - Kwestionowanie autorytetów [[Authority bias]]
 
