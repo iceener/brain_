@@ -24,7 +24,7 @@ Książki to kolejny element procesu zdobywania wiedzy. Kluczowe jest tylko to a
 - zapisuję się na newslettery wyżej wspomnianych osób
 
 ## Jak dużo się uczę?
-Nie mierzę tego w żaden sposób, ale uczenie się jest praktycznie nieodłącznym elementem mojego dnia. Oznacza to, że 
+Nie mierzę tego w żaden sposób, ale uczenie się jest praktycznie nieodłącznym elementem mojego dnia. Oznacza to że praktycznie każdą wolną chwilę wykorzystuję na nauczenie się czegoś nowego. Jednocześnie mam też przestrzeń na totalne niemyślenie, odpoczynek i "ciszę", co również postrzegam jako bardzo ważny element procesu zdobywania wiedzy.
 
 ### Źródła
 - https://changingminds.org

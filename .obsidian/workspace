@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
+            "file": "🦾 Optymalizacja/🛠️ Narzędzia/Zapier.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
+                "file": "🦾 Optymalizacja/🛠️ Narzędzia/Zapier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md"
+                "file": "🦾 Optymalizacja/🛠️ Narzędzia/Zapier.md"
               }
             }
           }
@@ -99,15 +99,15 @@
   },
   "active": "eb255638de30da2c",
   "lastOpenFiles": [
-    "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/StreamDeck.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/Macbook.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/iPhone.md",
-    "🦾 Optymalizacja/🖥️ Sprzęt/iPad.md",
-    "🏆 Fundamenty/💫 Proces.md",
-    "🏆 Fundamenty/💛 Poznawanie siebie.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Raycast.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Airtable.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/🎖️ Narzędzia.md"
+    "🦾 Optymalizacja/🛠️ Narzędzia/Zapier.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Yoink.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Webflow.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Waking Up.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/TextSnipper.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/TabNine.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Superhuman.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Screenflow.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Romwod.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/Rocket.md"
   ]
 }
