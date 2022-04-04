@@ -3,4 +3,5 @@ To narzędzie ułatwiające proces gromadzenia oraz udostepniania opinii klient�
 
 Opinie klientów stanowią jeden z najbardziej istotnych elementów marketingu oraz sprzedaży a pomimo tego często są pomijane lub gubią się pośród maili i komentarzy Social Media. 
 
-EasyLove stanowi część [[EasyTools]] i w momencie pisania tych słów nie jest jeszcze dostępny. 
+EasyLove stanowi część [[EasyTools]] i jest dostępny tutaj: https://app.easytools.pl/easylove
+

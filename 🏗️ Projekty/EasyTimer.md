@@ -12,3 +12,5 @@ https://easytimer.app/
 A wersja udostępniająca API oraz prywatny moduł w Integromacie, dostępna jest tutaj: https://app.easycart.pl/checkout/zautomatyzowani/easytimer
 
 EasyTimer stanowi część [[EasyTools]] i w momencie pisania tego artykułu znajduje się jeszcze w wersji beta. Oznacza to, że w niektórych przypadkach może nie działać poprawnie i może jeszcze zawierać drobne bugi. 
+
+https://app.easytools.pl/easytimer

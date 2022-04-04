@@ -5,3 +5,8 @@ To zestaw makr do aplikacji [[Keyboard Maestro]], stworzony z myślą o designer
 
 Aktualnie zawiera około 80 makr przyspieszających pracę z projektami i plikami, oraz automatyzujących powtarzalne czynności. W tej chwili dostęp do projektu jest zamknięty a jego premiera planowana jest na Styczeń / Luty 2022. 
 
+## Design Maestro FREE 
+Projekt został opublikowany pod koniec marca 2022 w formie bezpłatnej wersji 10 makr: 
+https://designmaestro.io
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/54aEWyfwiu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

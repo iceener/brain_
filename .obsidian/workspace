@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🦾 Optymalizacja/🛠️ Narzędzia/Zapier.md",
+            "file": "🏆 Fundamenty/📓 Dziennik.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦾 Optymalizacja/🛠️ Narzędzia/Zapier.md",
+                "file": "🏆 Fundamenty/📓 Dziennik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦾 Optymalizacja/🛠️ Narzędzia/Zapier.md"
+                "file": "🏆 Fundamenty/📓 Dziennik.md"
               }
             }
           }
@@ -99,15 +99,15 @@
   },
   "active": "eb255638de30da2c",
   "lastOpenFiles": [
-    "🦾 Optymalizacja/🛠️ Narzędzia/Zapier.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Yoink.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Webflow.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Waking Up.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/TextSnipper.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/TabNine.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Superhuman.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Screenflow.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Romwod.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Rocket.md"
+    "🏆 Fundamenty/📓 Dziennik.md",
+    "🏆 Fundamenty/💫 Proces.md",
+    "🏗️ Projekty/Design Maestro.md",
+    "🏗️ Projekty/EasyBanner.md",
+    "🏗️ Projekty/EasyCart.md",
+    "🏗️ Projekty/EasyTimer.md",
+    "🏗️ Projekty/EasyLove.md",
+    "🏗️ Projekty/EasyLegal.md",
+    "🏗️ Projekty/Ahoy!.md",
+    "📚 Wiedza/💻 Programowanie/JavaScript/Fundamenty/Constructor Functions.md"
   ]
 }
