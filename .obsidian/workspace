@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🏆 Fundamenty/📓 Dziennik.md",
+            "file": "🏆 Fundamenty/📚 System zdobywania wiedzy.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏆 Fundamenty/📓 Dziennik.md",
+                "file": "🏆 Fundamenty/📚 System zdobywania wiedzy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏆 Fundamenty/📓 Dziennik.md"
+                "file": "🏆 Fundamenty/📚 System zdobywania wiedzy.md"
               }
             }
           }
@@ -99,15 +99,15 @@
   },
   "active": "eb255638de30da2c",
   "lastOpenFiles": [
-    "🏆 Fundamenty/📓 Dziennik.md",
-    "🏆 Fundamenty/💫 Proces.md",
-    "🏗️ Projekty/Design Maestro.md",
+    "🏆 Fundamenty/📚 System zdobywania wiedzy.md",
+    "📚 Wiedza/🎙 Podcasty/Huberman Lab.md",
+    "🏆 Fundamenty/🗺️ Wartości.md",
+    "🏆 Fundamenty/🧭 Kierunek.md",
     "🏗️ Projekty/EasyBanner.md",
-    "🏗️ Projekty/EasyCart.md",
     "🏗️ Projekty/EasyTimer.md",
-    "🏗️ Projekty/EasyLove.md",
-    "🏗️ Projekty/EasyLegal.md",
+    "🏗️ Projekty/EasyCart.md",
+    "🏗️ Projekty/Design Maestro.md",
     "🏗️ Projekty/Ahoy!.md",
-    "📚 Wiedza/💻 Programowanie/JavaScript/Fundamenty/Constructor Functions.md"
+    "🏆 Fundamenty/📓 Dziennik.md"
   ]
 }
