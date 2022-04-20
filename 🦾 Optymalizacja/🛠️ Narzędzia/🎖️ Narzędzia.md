@@ -4,6 +4,7 @@
 - [[Keyboard Maestro]] - Automatyzacje w OSX
 - [[Romwod]] - Aplikacja z programem ćwiczeń rozciągających
 - [[Raycast]] - Launcher w którym tworzę własne rozszerzenia w [[Node.js]], [[JavaScript]], [[React.js]] i [[TypeScript]]
+- [[Reeder 5]] - News feed z obserwowanych przeze mnie blogów
 - [[iA Writer]] - Edytor Markdown nastawiony na minimalizm i focus
 - [[Anki]] - Aplikacja do treningu pamięci opartego o [[Spacing Repetition]]
 - [[Buffer]] - Narzędzie do publikowania treści w wielu kanałach Social Media
@@ -40,4 +41,5 @@
 - [[Notion]] - aplikacja do notatek z API 
 - [[Fig]] - rozszerzenie do terminala podpowiadające składnię i katalogi
 - [[BetterTouch Tool]] - aplikacja rozszerzająca możliwości trackpada
-- [[Hyper.is]] - alternatywa dla terminala napisana w HTML5 / CSS / JS
+- [[Hyper.is]] - ~~alternatywa dla terminala napisana w HTML5 / CSS / JS~~
+- [[Warp.dev]] - alternatywa dla terminala

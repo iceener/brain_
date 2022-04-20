@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb255638de30da2c",
+        "id": "0725114d7e766bdf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "🏗️ Projekty/zautomatyzowani.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏗️ Projekty/zautomatyzowani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🏗️ Projekty/zautomatyzowani.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -97,8 +90,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb255638de30da2c",
+  "active": "0725114d7e766bdf",
   "lastOpenFiles": [
+    "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
+    "🦾 Optymalizacja/🛠️ Narzędzia/🎖️ Narzędzia.md",
     "🏗️ Projekty/zautomatyzowani.md",
     "🏗️ Projekty/EasyTimer.md",
     "🏗️ Projekty/EasyCart.md",
@@ -106,8 +101,6 @@
     "🏆 Fundamenty/📚 System zdobywania wiedzy.md",
     "📚 Wiedza/🎙 Podcasty/Huberman Lab.md",
     "🏆 Fundamenty/🗺️ Wartości.md",
-    "🏆 Fundamenty/🧭 Kierunek.md",
-    "🏗️ Projekty/EasyBanner.md",
-    "🏗️ Projekty/Ahoy!.md"
+    "🏆 Fundamenty/🧭 Kierunek.md"
   ]
 }
