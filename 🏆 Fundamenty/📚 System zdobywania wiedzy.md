@@ -32,3 +32,4 @@ Nie mierzę tego w żaden sposób, ale uczenie się jest praktycznie nieodłącz
 - https://mindtools.com
 - http://www.paulgraham.com
 - https://www.britannica.com/browse/Science
+- https://www.wealest.com

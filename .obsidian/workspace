@@ -7,8 +7,12 @@
         "id": "0725114d7e766bdf",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "🏆 Fundamenty/📚 System zdobywania wiedzy.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🏆 Fundamenty/📚 System zdobywania wiedzy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🏆 Fundamenty/📚 System zdobywania wiedzy.md"
+              }
             }
           }
         ]
@@ -92,13 +99,13 @@
   },
   "active": "0725114d7e766bdf",
   "lastOpenFiles": [
+    "🏆 Fundamenty/📚 System zdobywania wiedzy.md",
     "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
     "🦾 Optymalizacja/🛠️ Narzędzia/🎖️ Narzędzia.md",
     "🏗️ Projekty/zautomatyzowani.md",
     "🏗️ Projekty/EasyTimer.md",
     "🏗️ Projekty/EasyCart.md",
     "🏗️ Projekty/Design Maestro.md",
-    "🏆 Fundamenty/📚 System zdobywania wiedzy.md",
     "📚 Wiedza/🎙 Podcasty/Huberman Lab.md",
     "🏆 Fundamenty/🗺️ Wartości.md",
     "🏆 Fundamenty/🧭 Kierunek.md"
