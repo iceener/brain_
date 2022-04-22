@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🏆 Fundamenty/📚 System zdobywania wiedzy.md",
+            "file": "🏆 Fundamenty/💛 Poznawanie siebie.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏆 Fundamenty/📚 System zdobywania wiedzy.md",
+                "file": "🏆 Fundamenty/💛 Poznawanie siebie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏆 Fundamenty/📚 System zdobywania wiedzy.md"
+                "file": "🏆 Fundamenty/💛 Poznawanie siebie.md"
               }
             }
           }
@@ -99,6 +99,7 @@
   },
   "active": "0725114d7e766bdf",
   "lastOpenFiles": [
+    "🏆 Fundamenty/💛 Poznawanie siebie.md",
     "🏆 Fundamenty/📚 System zdobywania wiedzy.md",
     "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
     "🦾 Optymalizacja/🛠️ Narzędzia/🎖️ Narzędzia.md",
@@ -107,7 +108,6 @@
     "🏗️ Projekty/EasyCart.md",
     "🏗️ Projekty/Design Maestro.md",
     "📚 Wiedza/🎙 Podcasty/Huberman Lab.md",
-    "🏆 Fundamenty/🗺️ Wartości.md",
-    "🏆 Fundamenty/🧭 Kierunek.md"
+    "🏆 Fundamenty/🗺️ Wartości.md"
   ]
 }
