@@ -1,0 +1,1 @@
+[[Optymalizacja/🛠️ Narzędzia/Endel.io]] to aplikacja wykorzystująca [AI] do generowania dźwięków ułatwiających m.in. skupienie. Sięgam po nią niemal każdego dnia.  

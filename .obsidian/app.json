@@ -4,5 +4,6 @@
   "foldHeading": true,
   "foldIndent": true,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "newLinkFormat": "absolute"
 }

@@ -1,0 +1,1 @@
+[[Wiedza/👽 Ludzie/Jim Collins]]

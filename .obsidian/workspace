@@ -7,12 +7,8 @@
         "id": "0725114d7e766bdf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "🏆 Fundamenty/📓 Dziennik.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏆 Fundamenty/📓 Dziennik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🏆 Fundamenty/📓 Dziennik.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -99,15 +92,15 @@
   },
   "active": "0725114d7e766bdf",
   "lastOpenFiles": [
-    "🏆 Fundamenty/📓 Dziennik.md",
-    "🏆 Fundamenty/💫 Proces.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/Raycast.md",
-    "🏗️ Projekty/Design Maestro.md",
-    "🏆 Fundamenty/💛 Poznawanie siebie.md",
-    "🏆 Fundamenty/📚 System zdobywania wiedzy.md",
-    "🦾 Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
-    "🦾 Optymalizacja/🛠️ Narzędzia/🎖️ Narzędzia.md",
-    "🏗️ Projekty/zautomatyzowani.md",
-    "🏗️ Projekty/EasyTimer.md"
+    "Wiedza/📖 Książki/12 Rules for Life.md",
+    "Wiedza/📖 Książki/🎖️ Książki.md",
+    "Fundamenty/📓 Dziennik.md",
+    "Fundamenty/💫 Proces.md",
+    "Optymalizacja/🛠️ Narzędzia/Raycast.md",
+    "Projekty/Design Maestro.md",
+    "Fundamenty/💛 Poznawanie siebie.md",
+    "Fundamenty/📚 System zdobywania wiedzy.md",
+    "Optymalizacja/🤖 Automatyzacja/🎖️ Automatyzacja.md",
+    "Optymalizacja/🛠️ Narzędzia/🎖️ Narzędzia.md"
   ]
 }

@@ -1,7 +1,0 @@
-- [[Cel]]
-- [[📚 Wiedza/📑 Słownik/Kierunek]]
-- [[Proces]]
-- [[Otoczenie]]
-- [[Perspektywa]]
-- [[Indie Hackers]]
-- [[Balans]]

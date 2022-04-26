@@ -1,4 +1,0 @@
-- [[Lexical Scope]]
-- [[Scope]]
-- [[Execution Context]]
-- [[Closures]]

@@ -1,7 +1,0 @@
-- [[Promise]]
-- [[Promise Constructor]]
-- [[Promise Chaining]]
-- [[Promise API]]
-- [[Async Await]]
-- [[Generatory]]
-- [[Pętle Async Await]]

@@ -1,2 +1,0 @@
-[[iPad]]
-[[📓 Dziennik]]

@@ -1,1 +1,0 @@
-[[Buffer]] to serwis z pomocą którego publikuję niemal wszystkie posty we wszystkich kanałach społecznościowych. Świetnie łączy się z [[Airtable]] oraz [[Integromat]].

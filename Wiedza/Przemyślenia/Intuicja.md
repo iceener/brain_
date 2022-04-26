@@ -1,0 +1,1 @@
+[[Wiedza/📖 Książki/Blink]]

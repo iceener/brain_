@@ -1,0 +1,45 @@
+- [[Optymalizacja/🛠️ Narzędzia/Airtable]] - API first excel na sterydach
+- [[Optymalizacja/🛠️ Narzędzia/Integromat]] - Najlepsze narzędzie do automatyzacji i szybkiego łączenia API
+- [[Optymalizacja/🛠️ Narzędzia/Zapier]] - Automatyzacje i szybkie łączenie API
+- [[Optymalizacja/🛠️ Narzędzia/Keyboard Maestro]] - Automatyzacje w OSX
+- [[Optymalizacja/🛠️ Narzędzia/Romwod]] - Aplikacja z programem ćwiczeń rozciągających
+- [[Optymalizacja/🛠️ Narzędzia/Raycast]] - Launcher w którym tworzę własne rozszerzenia w [[Wiedza/💻 Programowanie/Node.js]], [[Wiedza/💻 Programowanie/JavaScript/JavaScript]], [[React.js]] i [[TypeScript]]
+- [[Reeder 5]] - News feed z obserwowanych przeze mnie blogów
+- [[Optymalizacja/🛠️ Narzędzia/iA Writer]] - Edytor Markdown nastawiony na minimalizm i focus
+- [[Optymalizacja/🛠️ Narzędzia/Anki]] - Aplikacja do treningu pamięci opartego o [[Spacing Repetition]]
+- [[Optymalizacja/🛠️ Narzędzia/Buffer]] - Narzędzie do publikowania treści w wielu kanałach Social Media
+- [[Optymalizacja/🛠️ Narzędzia/ClickUp]] - Zaawansowana aplikacja do zarządzania zadaniami
+- [[Optymalizacja/🛠️ Narzędzia/ProCreate]] - Najlepsza aplikacja na iPada do rysowania
+- [[Optymalizacja/🛠️ Narzędzia/Notability]] - Aplikacja do Notowania na iPadzie
+- [[Optymalizacja/🛠️ Narzędzia/Dropshare]] - Szybkie udostępnianie plików (przez własny serwer FTP)
+- [[Optymalizacja/🛠️ Narzędzia/Fantastical]] - Fajna aplikacja do kalendarza
+- [[Optymalizacja/🛠️ Narzędzia/Magnet]] - Aplikacja do zarządzania położeniem okien
+- [[Optymalizacja/🛠️ Narzędzia/Paste]] - Manager schowka
+- [[Optymalizacja/🛠️ Narzędzia/TextSnipper]] - OCR czytający zaznaczony fragment ekranu
+- [[Optymalizacja/🛠️ Narzędzia/Sip]] - systemowy color picker
+- [[Optymalizacja/🛠️ Narzędzia/Screenflow]] - świetna aplikacja do nagrywania ekranu i edycji w locie
+- [[Optymalizacja/🛠️ Narzędzia/Audible]] - Audiobooki od Amazon
+- [[Optymalizacja/🛠️ Narzędzia/MindNode]] - jedna z lepszych aplikacji do tworzenia map myśli
+- [[Optymalizacja/🛠️ Narzędzia/Oak]] - aplikacja z ćwiczeniami oddechowymi
+- [[Optymalizacja/🛠️ Narzędzia/Waking Up]] - aplikacja do medytacji od [[Sam Harris]]
+- [[Optymalizacja/🛠️ Narzędzia/Endel.io]] - aplikacja generująca dźwięki ułatwiające skupienie 
+- [[Optymalizacja/🛠️ Narzędzia/Mentorist]] - wdrażanie wiedzy z książek
+- [[Optymalizacja/🛠️ Narzędzia/Rocket]] - systemowy emoji Picker
+- [[Optymalizacja/🛠️ Narzędzia/1Password]] - manager haseł
+- [[Optymalizacja/🛠️ Narzędzia/Onyx]] - aplikacja optymalizująca / czyszcząca system
+- [[Optymalizacja/🛠️ Narzędzia/Figma]] - webowa aplikacja do projektowania grafiki wektorowej
+- [[Optymalizacja/🛠️ Narzędzia/Webflow]] - najlepszy no-code web builder
+- [[Optymalizacja/🛠️ Narzędzia/PopClip]] - akcje na dowolnym zaznaczonym tekście
+- [[Optymalizacja/🛠️ Narzędzia/Kindle]] - aplikacja do czytania książek
+- [[Optymalizacja/🛠️ Narzędzia/Superhuman]] - klient pocztowy nastawiony na produktywność
+- [[Optymalizacja/🛠️ Narzędzia/Headspace]] - aplikacja do medytacji
+- [[Optymalizacja/🛠️ Narzędzia/AirBuddy]] - łatwe przełączanie AirPods pomiędzy urządzeniami
+- [[Optymalizacja/🛠️ Narzędzia/TabNine]] - AI based Intellisense do popularnych IDE
+- [[Optymalizacja/🛠️ Narzędzia/Hazel]] - automatyzacja zarządzania plikami i folderami
+- [[Optymalizacja/🛠️ Narzędzia/Reveri]] - aplikacja do autohipnozy
+- [[Optymalizacja/🛠️ Narzędzia/Yoink]] - aplikacja ułatwiająca przenoszenie plików i przechowywanie ich metodą drag&drop
+- [[Optymalizacja/🛠️ Narzędzia/Notion]] - aplikacja do notatek z API 
+- [[Optymalizacja/🛠️ Narzędzia/Fig]] - rozszerzenie do terminala podpowiadające składnię i katalogi
+- [[Optymalizacja/🛠️ Narzędzia/BetterTouch Tool]] - aplikacja rozszerzająca możliwości trackpada
+- [[Optymalizacja/🛠️ Narzędzia/Hyper.is]] - ~~alternatywa dla terminala napisana w HTML5 / CSS / JS~~
+- [[Warp.dev]] - alternatywa dla terminala
