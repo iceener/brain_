@@ -5,6 +5,7 @@ Kierunek może też być utożasamiany z wizją lub życiową filozofią o któr
 
 Mając tak określony kierunek, dbam o to aby nieustannie optymalizować mój [[Fundamenty/💫 Proces]] dzięki któremu nieustannie poruszam się we właściwą stronę, utrzymując odpowiednie tempo ([[Wiedza/💡 Modele Mentalne/20 mile march]])
 123
+321
 ## Mój kierunek
 Dążę do tego aby **nieustannie się rozwijać** i **inspirować innych do rozwoju**, robiąc to w **najbardziej skuteczny sposób** i działając na **maksymalnie dostępnej skali**, wykorzystując dźwignię (eng. [[Wiedza/💡 Modele Mentalne/Leverage]]).
 
